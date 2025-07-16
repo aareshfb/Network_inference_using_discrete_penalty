@@ -11,11 +11,11 @@ from elem_0 import elem_0
 The function *Para_Algo* requires 5 arguments.
 
 *data*: dict
-        A dictionary where each key corresponds to a population index (0, 1, ..., K-1),
+        A dictionary where each key corresponds to a population index (0, 1, ..., K-1),  
         and each value is an (n_k,p) np.array representing the gene expression data for that category.
 
         
-   *W*: np.ndarray (size K,K)
+   *W*: np.ndarray size (K,K)
         The symmetric matrix representing the hypergraph structure
         
  *nu0*: float
