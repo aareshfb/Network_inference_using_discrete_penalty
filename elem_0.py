@@ -20,8 +20,8 @@ def elem_0(data,W,nu0,mu,gamma):
     data : dict
         A dictionary where each key corresponds to a population index (0, 1, ..., K-1),
         and each value is an n_k x p np.array representing the gene expression data for that category.
-    W : np.ndarray size K by K
-        A K x K np.array (symmetric) representing the hypergraph structure
+    W : np.ndarray size (K, K)
+        A (K, K) np.array (symmetric matrix) representing the hypergraph structure
     nu0 : float
         Soft-thresholding parameter used in the approximate backward mapping.
     mu : float
