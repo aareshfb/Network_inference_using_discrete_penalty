@@ -1,4 +1,4 @@
-# Efficient inference of dynamic gene regulatory networks using l_0 penalty
+# Efficient inference of dynamic gene regulatory networks using discrete penalty
 
 This repository contains the code of the algorithm in the paper "Efficient inference of dynamic gene regulatory networks using l_0 penalty".
 
