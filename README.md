@@ -1,7 +1,7 @@
 # Efficient Inference of Dynamic Gene Regulatory Networks Using Discrete Penalty
 
-This repository contains the code for the algorithm described in the paper  
-**"Efficient Inference of Dynamic Gene Regulatory Networks Using ℓ₀ Penalty."**
+This repository contains the code for the algorithm described in the paper. 
+
 
 ---
 
