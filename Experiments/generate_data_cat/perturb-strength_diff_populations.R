@@ -12,7 +12,9 @@ library(ape)
 #------------------------
 p = 250 #no of features
 M = 5 #no of disconnected sub-classes
-psx = 1.0 #modify this value in the for loop below as well #psx: perturb strength  
+psx = 1.0 #modify this value in the for loop below as well 
+#psx: perturb strength  
+#local edge ration delta=psx/(1+psx)
 
 #setwd("/Volumes/umms-ukarvind/shared_data/l0-networks/simulations-category/")
 setwd("Q:/shared_data/l0-networks/simulations-category/simulation-codes")
