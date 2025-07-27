@@ -43,8 +43,3 @@ def elem_0(data,W,nu0,mu,gamma):
     Theta,_ = estimateNetwork(S, W, mu, gamma);
     print('Estimation complete ....')
     return(Theta)
-
-
-
-    
-        
