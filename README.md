@@ -21,7 +21,7 @@ from elem_0 import elem_0
 Theta = elem_0(data, W, nu0, mu, gamma)
 ```
 
-This function performs joint estimation of multiple precision matrices  
+This function performs joint estimation of multiple precision matrices (1 category) 
 under an ℓ₀ sparsity penalty and a similarity constraint.
 
 ### Arguments:
