@@ -34,7 +34,7 @@ def elem_0(data,W,nu0,mu,gamma):
     -------
     Theta: np.ndarray
         A p x p x K NumPy array containing the estimated precision matrices for all K categories.
-        Each slice Theta[:, :, k] corresponds to the precision matrix for category k.
+        Each slice Theta[:, :, k] corresponds to the precision matrix for population k.
 
     '''
 
