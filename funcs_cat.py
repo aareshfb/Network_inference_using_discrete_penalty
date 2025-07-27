@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 import copy
 from scipy.special import erfinv
 
-def Generate_Data_cat(T,perturb_strength,cat_i,n,p,rd_seed):
+def Generate_Data(T,perturb_strength,cat_i,n,p,rd_seed):
     np.random.seed(rd_seed)
     fname='/nfs/turbo/umms-ukarvind/shared_data/l0-networks/simulations-category/simulation_data/perturb_strength/perturb_'+str(perturb_strength)+'/covariance_matrix/cat'+str(cat_i)+'_clust_covariance_'
     #fname='../simulation_data/covariance-matrix/clust_covariance_'
@@ -29,42 +29,23 @@ def Generate_Data_cat(T,perturb_strength,cat_i,n,p,rd_seed):
         print("Cat ",cat_i,": Population",i,"completed", end="\r")
     return(Data)
 
-def Generate_Data(T,n,p,rd_seed):
-    #np.random.seed(1337)
-    np.random.seed(rd_seed)
-    if p == 250:
-        fname='/nfs/turbo/umms-ukarvind/shared_data/l0-networks/simulations-hypergraphs/simulation_data/hypergraph_'+str(T)+'/covariance_matrix/clust_covariance_'
-    elif p == 2000:
-        fname='/nfs/turbo/umms-ukarvind/shared_data/l0-networks/Experiment_1/simulation_data/hypergraph_'+str(T)+'/covariance_matrix/clust_covariance_'
-    #fname='../simulation_data/covariance-matrix/clust_covariance_'
-    Data={}
-    for i in range(1,T+1):
-        cov=pd.read_csv(fname+str(i)+'.csv').to_numpy()
-        cov=np.linalg.cholesky(cov)
-        A=np.random.rand(n*p,1)
-        A=np.sqrt(2)*erfinv(2*A-1)
-        A=np.reshape(A, (n,p),'F')
-        Data[i]=A@cov
-        print("Population",i,"completed", end="\r")
-    return(Data)
-    
+
 def Read_Data(file_name, file_ext='.txt', sep='\t'):
     #read expresion counts data and return list
     Data={}
-    Name=['LE_counts','CT_counts','MVP_counts', 'PAN_counts']
-    for i in range(len(Name)):
-        Data[i]=pd.read_csv(file_name+Name[i]+file_ext,sep=sep).to_numpy()
+    #Name=['LE_counts','CT_counts','MVP_counts', 'PAN_counts']
+    for i in range(1,8):
+        Data[i]=pd.read_csv(file_name+str(i)+file_ext,sep=sep).to_numpy()
         
     return(Data)
-    
-#functions for data input and output
+
 def Read_Simulation_Data(file_name,t, file_ext='.txt', sep='\t'):
     #read expresion counts data and return list
     Data={}
+
     for i in range(1, t+1):
         Data[i-1]=pd.read_csv(file_name+str(i)+file_ext,sep=sep).to_numpy()
     return(Data)
-
 
 def ST(x,nu):
     #perform soft-thresholding of sample covariance matrix (backward mapping)
@@ -75,7 +56,7 @@ def ST(x,nu):
     # y=(y > nu)*(y - nu) + (y < -nu)*(y + nu)
     y=y-np.sign(y)*np.minimum(np.abs(y),nu)
     np.fill_diagonal(y,d)
-    # print('Lowest eig after thresholding:',min((np.linalg.eigvals(y))))
+    print('Lowest eig after thresholding:',min((np.linalg.eigvals(y))))
     y=np.linalg.inv(y)
     return(y)
 
@@ -110,19 +91,22 @@ def heatmap(theta,output_location):
         plt.savefig(output_location+'theta'+str(i))
         
     
-def Save_Theta(Theta,p,file_location='../Output/',file_name='theta'):
-    # isExist=os.path.exists(file_location)
-    # if not isExist:
-    #     os.makedirs(file_location)
-    #     print('Folder',file_location,' has been created. Data in this folder.')
+def Save_Theta(Theta,n,file_location='../Output/',file_name='theta'):
+    isExist=os.path.exists(file_location)
+    if not isExist:
+        os.makedirs(file_location)
+        print('Folder',file_location,' has been created. Data in this folder.')
     T=len(Theta[0][1])
-    n=int(np.sqrt(len(Theta)))
-    np_theta=np.zeros((p,p,T))
+    #n=int(np.sqrt(len(Theta)))
+    np_theta=np.zeros((n,n,T))
     for i in Theta:
         np_theta[i[0]]=i[1]
     # for t in range(T):
     #     np.savetxt(file_location+file_name+str(t)+'.csv', np_theta[:,:,t],delimiter=',')
     # print("Data saved in",file_location,"folder")
+    #np_theta=np_theta+np.transpose(np.triu(np_theta,1),(1,0,2))
+    for t in range(T):
+       np_theta[:,:,t]=np_theta[:,:,t]+np.triu(np_theta[:,:,t],1).T
     return(np_theta)
 
 def Get_Q(W,gamma):
@@ -130,13 +114,55 @@ def Get_Q(W,gamma):
     Q=Q+2*np.diag(1+gamma*(np.sum(W,1)+np.sum(W,0)))#multiply the diag elements by 2 because 1/2xTQx
     return(Q) 
 
+def Get_Q_l2(W,gamma,Reg=0.01):
+    n=len(W[0,:])
+    Q=Get_Q(W, gamma)
+    I=np.eye(n) 
+    O=np.zeros((n,n))
+    # Q=Q+np.diag(np.diag(Q)) #Scale the diag elements by 2 for the global variables
+    Q=Q+2*I #You add 2 to the diagonal element becasue you need to add 1 for the recurrect term which gets scales by 2 because of 1/2 Q factor
+    Q=np.block([[Q+Reg*I,2*I,2*I],
+                [2*I,(2)*I,O],
+                [2*I,O,(2)*I]])
+    return(Q)
+
+def Get_Q_l2_all(W,gamma,Reg=0.01):
+    n=len(W[0,:])
+    Q=Get_Q(W, gamma)
+    I=np.eye(n) 
+    O=np.zeros((n,n))
+    # Q=Q+np.diag(np.diag(Q)) #Scale the diag elements by 2 for the global variables
+    Q=Q+2*I #You add 2 to the diagonal element becasue you need to add 1 for the recurrect term which gets scales by 2 because of 1/2 Q factor
+    Q=np.block([[Q+Reg*I,2*I,2*I],
+                [2*I,(2+Reg)*I,O],
+                [2*I,O,(2+Reg)*I]])
+    return(Q)
+
+# def Get_Q_category(W,gamma,a):
+#     #Unused
+#     n=len(W[0,:])
+    
+#     Q=-2*gamma*(W+W.T)
+#     Q=Q+2*np.diag(2*np.square(a)+gamma*(np.sum(W,1)+np.sum(W,0)))#multiply the diag elements by 2 because 1/2xTQx
+    
+#     I=np.eye(n) 
+#     O=np.zeros((n,n))
+#     # Q=Q+np.diag(np.diag(Q)) #Scale the diag elements by 2 for the global variables
+#     # Q=Q #You add 2 to the diagonal element becasue you need to add 1 for the recurrect term which gets scales by 2 because of 1/2Q factor
+#     Q=np.block([[Q,2*a*I,2*a*I],
+#                 [2*a*I,2*I,O],
+#                 [2*a*I,O,2*I]])
+#     return(Q)
+
 def Parallel_MP_row(Q, C, lam, i, Theta, p):
-    for j in range(p):
+    # print(LAM)
+    for j in range(i,p):
         if i==j:
             temp=-np.linalg.inv(Q)@C[j,:]
         else:
-            M=0.5*np.linalg.norm(C[j,:])
-            _,temp=Para_Algo(Q, C[j,:], lam*np.ones(len(Q)),M)
+            
+            _,temp=Para_Algo(Q, C[j,:], lam*np.ones(len(Q)))
+            # _,temp=Para_Algo(Q, C[j,:], LAM)
         Theta.append([(i,j),temp])
     print("Gene",i,"completed", end="\r")
 
@@ -158,30 +184,64 @@ def estimateNetwork(S, W, mu, gamma,p=None,output_location='../Output/'):
     if p==None:
         p = np.shape(S)[0]
     # p = np.shape(S)[0]
-
-    t1=time.perf_counter()
+    
+    t1=time.time()
     with mp.Manager() as manager:
         Theta=manager.list()
         #create pool object
         nprocs = mp.cpu_count()
-        print('Number of cores',nprocs)
-        pool = mp.Pool(nprocs)
+        pool = mp.Pool(nprocs - 0)
         
-        pool.starmap_async(Parallel_MP_row, [(Q,-2*S[i,:,:],mu,i,Theta,p) for i in range(p)], chunksize = 20)
+        pool.starmap_async(Parallel_MP_row, [(Q,-2*S[i,:,:],mu,i,Theta,p) for i in range(p)], chunksize = 1)
+
         pool.close()
-        pool.join()        
-        t2=time.perf_counter()
-        time_mins=(t2-t1)/60
-        print("Total Time Taken",time_mins,"mins")
-        print("Saving Theta ...")
-	
+        pool.join()
+        print('Saving Theta ...')
         theta = Save_Theta(Theta,p,output_location)
 
-    # t2=time.perf_counter()
-    # time_mins=(t2-t1)/60
-    # print("Total Time Taken",time_mins,"mins")
-    return(theta,time_mins)
+    t2=time.time()
+    print("Total Time Taken",(t2-t1)/60,"mins")
+    return(theta)
 
+def estimateNetwork_Category(S_P,S_R, W, mu, gamma,p=None,output_location='../Output/'):
+    '''
+    Parameters
+    ----------
+    S : soft-thresholded sample precision matrix
+    W : adjacency matrix for subpopulations
+    mu : sparsity parameter
+    gamma : similarity strength between connected subpopulations
+    
+    Returns
+    -------
+    Network:(N,N,t) np.array
+    '''
+    # Q=Get_Q_l2(W,gamma)
+    Q=Get_Q_l2_all(W,gamma,0.01)
+    if p==None:
+        p = np.shape(S_P)[0]
+    # p = np.shape(S)[0]
+    
+    # LAM=mu2*np.ones(len(Q))
+    # LAM[:int(len(Q)/3)]=mu
+    t1=time.time()
+    with mp.Manager() as manager:
+        Theta=manager.list()
+        #create pool object
+        nprocs = mp.cpu_count()
+        pool = mp.Pool(nprocs - 0)
+        
+        pool.starmap_async(Parallel_MP_row, [(Q,np.hstack((-2*S_P[i,:,:]-2*S_R[i,:,:],
+                                                           -2*S_P[i,:,:],
+                                                           -2*S_R[i,:,:])),mu,i,Theta,p) for i in range(p)], chunksize = 5)
+
+        pool.close()
+        pool.join()
+        theta = Save_Theta(Theta,p,output_location)
+
+    t2=time.time()
+    print("Total Time Taken",(t2-t1)/60,"mins")
+    return(theta)
 
 def nearPSD(A,epsilon=1e-6):#Found this script online need to verify it
     n = A.shape[0]
@@ -206,7 +266,7 @@ def Calculate_Bic(Theta,data,n):
         
         COV=np.cov(data[i+1][:,:p].T)
         
-        bic+=n[i]*np.trace(COV@theta_psd) - n[i]*np.log(np.linalg.det(theta_psd)) + np.log(n[i])*df + 4*df*np.log(p)
+        bic+=np.trace(theta_psd@COV) - n[i]*np.log(np.linalg.det(theta_psd)) + np.log(n[i])*df + 4*df*np.log(p)
     return(bic)
 
 def errorMetrics(Theta,True_Precission):
@@ -224,4 +284,3 @@ def errorMetrics(Theta,True_Precission):
     
     print('Precision:',Precision,'\nRecall:',Recall,"\nF1:",F1,"\n")
     return(Precision,Recall,F1)
-    
