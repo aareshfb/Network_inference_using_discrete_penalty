@@ -32,10 +32,11 @@ def elem_0_cat(data1,data2,W,nu0,mu,gamma):
 
     Returns
     -------
-    Theta: np.ndarray
-        A p x p x K NumPy array containing the estimated precision matrices for all K categories.
-        Each slice Theta[:, :, k] corresponds to the precision matrix for category k.
-
+    Theta: np.ndarray of shape (p, p, 3K)
+        A stacked set of estimated precision matrices:
+        - Theta[:, :, 0:K]   → global (shared) network
+        - Theta[:, :, K:2K]  → category 1 networks
+        - Theta[:, :, 2K:3K] → category 2 networks
     '''
 
     S1 = backwardMap(data1, nu0)
