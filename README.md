@@ -13,8 +13,6 @@ To run the method, import the main function:
 from elem_0 import elem_0
 ```
 
-This returns a handle to the core optimization routine `Para_Algo`.
-
 ---
 
 ## Function: `elem_0`
