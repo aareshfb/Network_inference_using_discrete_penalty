@@ -20,7 +20,7 @@ This returns a handle to the core optimization routine `Para_Algo`.
 ## Function: `Para_Algo`
 
 ```python
-Theta = Para_Algo(data, W, nu0, mu, gamma)
+Theta = elem_0(data, W, nu0, mu, gamma)
 ```
 
 This function performs joint estimation of multiple precision matrices  
