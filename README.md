@@ -17,7 +17,7 @@ This returns a handle to the core optimization routine `Para_Algo`.
 
 ---
 
-## Function: `Para_Algo`
+## Function: `elem_0`
 
 ```python
 Theta = elem_0(data, W, nu0, mu, gamma)
