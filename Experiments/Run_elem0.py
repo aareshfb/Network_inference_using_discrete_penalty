@@ -44,7 +44,7 @@ if __name__ == "__main__":
     BIC_filename = os.path.join(output_path, f'ErrorMetrics_L0_np{n_by_p_str}.csv')
     print(f"BIC filename: {BIC_filename}")
 
-    #BIC_filename='Output/Vary_np/ErrorMetrics_L0.csv' #/home/aareshfb/simulation-compare_l1_vs_l0/code_L0/Output/Vary_np
+    #BIC_filename='Output/Vary_np/ErrorMetrics_L0.csv'
 
     if not os.path.isfile(BIC_filename):
         with open(BIC_filename, 'w') as f:
