@@ -2,7 +2,8 @@
 
 This repository contains the code for the algorithm described in the following paper:
 
-**Efficient inference of dynamic gene regulatory networks using discrete penalty.**  
+**Efficient inference of dynamic gene regulatory networks using discrete penalty.** 
+*Visweswaran Ravikumar, Aaresh Bhathena, Wajd N. Al-Holou, Salar Fattahi, Arvind Rao (2025).*
 arXiv preprint: https://arxiv.org/pdf/2507.23106
 
  The method supports both single-category and multiple-category joint network inference using a discrete ℓ₀ penalty and structural similarity constraints. It enables efficient joint estimation of sparse precision matrices across multiple populations, with support for separate inference in two or more categories (e.g., primary vs. recurrent disease).
