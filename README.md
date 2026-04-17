@@ -10,7 +10,7 @@ To run the method, import the appropriate function depending on the number of ca
 
 ```python
 from ELEM_0 import elem_0
-from Cat_ELEM_0 import elem_0_cat
+from Mult_Cat_ELEM_0 import elem_0_catM
 ```
 
 ---
@@ -53,7 +53,7 @@ This function performs joint estimation of multiple precision matrices (from a s
 ## Function: `elem_0_cat`
 
 ```python
-Theta = elem_0_cat(data1,data2, W, nu0, mu, gamma)
+Theta = elem_0_catM(data1,data2, W, nu0, mu, gamma)
 ```
 
 This function performs joint estimation of networks for two distinct categories of populations (e.g., primary vs. recurrent disease), enforcing sparsity within each category and structural similarity across populations within each category.
