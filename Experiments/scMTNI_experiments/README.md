@@ -14,7 +14,8 @@ Each method directory contains:
 - Scripts for running the method  
 - Evaluation scripts (e.g., AUPRC computation)  
 - A `submit_AUPRC.sh` script specifying hyperparameters and launching experiments  
-- Output files used in the paper  
+- Output files used in the paper
+- For additional details on the files within each directory, refer to `../BoolODE/65_genes/README.md`. The organization and workflow are identical.
 
 ## Running Experiments
 
