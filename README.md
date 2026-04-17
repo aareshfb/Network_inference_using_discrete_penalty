@@ -85,8 +85,8 @@ This function performs joint estimation of networks for two distinct categories 
 
 ### Returns:
 
-- **`Theta`**: `np.ndarray` of shape `(p, p, 3K)`  
-  A stacked set of estimated precision matrices:
+- **`Theta`**: `np.ndarray` of shape `(p, p, (C+1)*K)`  
+  Here `C` denotes the number of categories. `Theta` is stacked set of estimated precision matrices:
   
   - `Theta[:, :, 0:K]`: estimated **global (shared)** networks  
   - `Theta[:, :, K:2*K]`: estimated networks for **category 1**  
