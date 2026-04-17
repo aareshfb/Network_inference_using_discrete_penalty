@@ -103,3 +103,31 @@ from Cat_ELEM_0 import elem_0_cat
 Theta = elem_0_catM(data_1,data_2, W, nu0, mu, gamma)
 ```
 Here, `data_1` and `data_2` are dictionaries with the same structure as `data_c` described above.
+
+## References
+
+The following methods are used in this repository:
+
+- **ELEM-1**  
+  Ravikumar, Visweswaran, et al. "Efficient inference of spatially-varying Gaussian Markov random fields with applications in gene regulatory networks." IEEE/ACM transactions on computational biology and bioinformatics 20.5 (2023): 2920-2932.
+
+- **FASJEM**  
+  Wang, Beilun, Ji Gao, and Yanjun Qi. "A fast and scalable joint estimator for learning multiple related sparse Gaussian graphical models." Artificial Intelligence and Statistics. PMLR, 2017.
+  GitHub: https://github.com/QData/FASJEM
+
+- **FGL / GGL**  
+  Danaher, Patrick, Pei Wang, and Daniela M. Witten. "The joint graphical lasso for inverse covariance estimation across multiple classes." Journal of the Royal Statistical Society Series B: Statistical Methodology 76.2 (2014): 373-397.
+
+- **GRNBoost2**  
+  Moerman, Thomas, et al. "GRNBoost2 and Arboreto: efficient and scalable inference of gene regulatory networks." Bioinformatics 35.12 (2019): 2159-2161.
+
+- **SILGGM**  
+  Zhang, Rong, Zhao Ren, and Wei Chen. "SILGGM: An extensive R package for efficient statistical inference in large-scale gene networks." PLoS computational biology 14.8 (2018): e1006369.
+
+- **jointGHS**  
+  Lingjærde, Camilla, et al. "Scalable multiple network inference with the joint graphical horseshoe." The Annals of Applied Statistics 18.3 (2024): 1899-1923.
+  GitHub: https://github.com/Camiling/jointGHS
+
+- **scMTNI benchmark / datasets**  
+  Zhang, Shilu, et al. "Inference of cell type-specific gene regulatory networks on cell lineages from single cell omic datasets." Nature Communications 14.1 (2023): 3064.
+  GitHub: https://github.com/Roy-lab/scMTNI
