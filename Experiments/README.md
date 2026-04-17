@@ -6,12 +6,9 @@ These experiments evaluate performance on biologically motivated synthetic data 
 
 #### `Datasets/`
 Contains the scripts used to generate the datasets used in the experiments.  
-
 This includes:
 - Power-law datasets   
 - BoolODE datasets  
-
-Each dataset is formatted as gene expression matrices used as input to the methods.
 
 #### `power-law experiments/`
 Contains scripts for experiments on **synthetic datasets generated using power-law network structures**.  
