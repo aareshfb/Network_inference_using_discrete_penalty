@@ -1,0 +1,6 @@
+Method,n,nu,Dataset,AUPRC
+Code_L0,2000,0.001,avg,0.09
+Code_L0,2000,0.0001,avg,0.23
+Code_L0,2000,0.0005,avg,0.14
+Code_L0,2000,1e-05,avg,0.24
+Code_L0,2000,5e-05,avg,0.24

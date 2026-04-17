@@ -1,0 +1,78 @@
+generating expression data...
+Loaded ../Expression_data/cluster_1_sparse_expression.csv: added missing=2, final shape=(200, 2000)
+Loaded ../Expression_data/cluster_2_sparse_expression.csv: added missing=0, final shape=(200, 2000)
+Loaded ../Expression_data/cluster_3_sparse_expression.csv: added missing=8, final shape=(200, 2000)
+Loaded ../Expression_data/cluster_4_sparse_expression.csv: added missing=2, final shape=(200, 2000)
+Loaded ../Expression_data/cluster_5_sparse_expression.csv: added missing=3, final shape=(200, 2000)
+Loaded ../Expression_data/cluster_6_sparse_expression.csv: added missing=2, final shape=(200, 2000)
+Loaded ../Expression_data/cluster_7_sparse_expression.csv: added missing=2, final shape=(200, 2000)
+Loaded ../Expression_data/cluster_8_sparse_expression.csv: added missing=0, final shape=(200, 2000)
+Loaded ../Expression_data/cluster_9_sparse_expression.csv: added missing=3, final shape=(200, 2000)
+Loaded ../Expression_data/cluster_10_sparse_expression.csv: added missing=1, final shape=(200, 2000)
+reading true precision matrices
+Loaded ../Ground_truth/network-1.csv: shape=(30, 200)
+Loaded ../Ground_truth/network-2.csv: shape=(30, 200)
+Loaded ../Ground_truth/network-3.csv: shape=(30, 200)
+Loaded ../Ground_truth/network-4.csv: shape=(30, 200)
+Loaded ../Ground_truth/network-5.csv: shape=(30, 200)
+Loaded ../Ground_truth/network-6.csv: shape=(30, 200)
+Loaded ../Ground_truth/network-7.csv: shape=(30, 200)
+Loaded ../Ground_truth/network-8.csv: shape=(30, 200)
+Loaded ../Ground_truth/network-9.csv: shape=(30, 200)
+Loaded ../Ground_truth/network-10.csv: shape=(30, 200)
+Population: 0
+Precision: 0.11831905344757242 
+Recall: 0.42584434654919234 
+F1: 0.18518518518518517 
+
+Population: 1
+Precision: 0.13853317811408614 
+Recall: 0.43857493857493857 
+F1: 0.21055735771158948 
+
+Population: 2
+Precision: 0.08085277554304103 
+Recall: 0.4258474576271186 
+F1: 0.1359026369168357 
+
+Population: 3
+Precision: 0.112778730703259 
+Recall: 0.36176066024759285 
+F1: 0.17195161817587445 
+
+Population: 4
+Precision: 0.10684121621621621 
+Recall: 0.37151248164464024 
+F1: 0.16595605116431617 
+
+Population: 5
+Precision: 0.12297734627831715 
+Recall: 0.4021164021164021 
+F1: 0.18835192069392812 
+
+Population: 6
+Precision: 0.14752758479771147 
+Recall: 0.42621015348288077 
+F1: 0.21918639951426833 
+
+Population: 7
+Precision: 0.13123254886318308 
+Recall: 0.4051724137931034 
+F1: 0.19825248568846035 
+
+Population: 8
+Precision: 0.095878889823381 
+Recall: 0.37748344370860926 
+F1: 0.15291750503018112 
+
+Population: 9
+Precision: 0.14082145850796313 
+Recall: 0.3870967741935484 
+F1: 0.20651505838967427 
+
+
+===== GLOBAL METRICS =====
+Precision: 0.1197344697590559
+Recall: 0.40236849352795373
+F1: 0.1845512537106044
+Global AUPRC: 0.1221983971296857

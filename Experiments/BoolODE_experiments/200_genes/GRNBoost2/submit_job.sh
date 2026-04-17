@@ -1,0 +1,1 @@
+sbatch --job-name="GRNBoost2" exe_exp2.sh

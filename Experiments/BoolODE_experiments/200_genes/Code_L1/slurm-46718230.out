@@ -1,0 +1,63 @@
+Loaded cluster_1_sparse_expression.csv: added missing=2, final shape=(200,2000)
+Loaded cluster_2_sparse_expression.csv: added missing=0, final shape=(200,2000)
+Loaded cluster_3_sparse_expression.csv: added missing=8, final shape=(200,2000)
+Loaded cluster_4_sparse_expression.csv: added missing=2, final shape=(200,2000)
+Loaded cluster_5_sparse_expression.csv: added missing=3, final shape=(200,2000)
+Loaded cluster_6_sparse_expression.csv: added missing=2, final shape=(200,2000)
+Loaded cluster_7_sparse_expression.csv: added missing=2, final shape=(200,2000)
+Loaded cluster_8_sparse_expression.csv: added missing=0, final shape=(200,2000)
+Loaded cluster_9_sparse_expression.csv: added missing=3, final shape=(200,2000)
+Loaded cluster_10_sparse_expression.csv: added missing=1, final shape=(200,2000)
+Loaded network-1.csv: shape=(30,200)
+Loaded network-2.csv: shape=(30,200)
+Loaded network-3.csv: shape=(30,200)
+Loaded network-4.csv: shape=(30,200)
+Loaded network-5.csv: shape=(30,200)
+Loaded network-6.csv: shape=(30,200)
+Loaded network-7.csv: shape=(30,200)
+Loaded network-8.csv: shape=(30,200)
+Loaded network-9.csv: shape=(30,200)
+Loaded network-10.csv: shape=(30,200)
+
+mu0 =
+
+   1.0000e-04
+
+condition number for covariance matrix 1 is : 1.931111e+11
+condition number for covariance matrix 2 is : 2.519901e+05
+condition number for covariance matrix 3 is : 1.922799e+11
+condition number for covariance matrix 4 is : 1.706546e+11
+condition number for covariance matrix 5 is : 1.703325e+11
+condition number for covariance matrix 6 is : 1.784926e+11
+condition number for covariance matrix 7 is : 1.954373e+11
+condition number for covariance matrix 8 is : 2.272234e+05
+condition number for covariance matrix 9 is : 1.726627e+11
+condition number for covariance matrix 10 is : 1.532022e+11
+Generating approximate backward mappings done, time = 2.495520e-01
+number of edges after soft-thresholding 
+
+lambda0 =
+
+     1
+
+parameters: mu0 : 1.000000e-04 lambda0 : 1 
+Starting the estimation...
+Starting parallel pool (parpool) using the 'Processes' profile ...
+Connected to parallel pool with 8 workers.
+solving for variable 1000
+solving for variable 500
+solving for variable 9500
+solving for variable 7000
+solving for variable 3500
+solving for variable 8500
+solving for variable 6000
+solving for variable 2500
+solving for variable 5000
+solving for variable 10000
+solving for variable 1500
+solving for variable 3000
+solving for variable 7500
+solving for variable 4000
+solving for variable 9000
+solving for variable 6500
+[2026-04-04T12:32:38.819] error: *** JOB 46718230 ON gl3257 CANCELLED AT 2026-04-04T12:32:38 DUE to SIGNAL Terminated ***
