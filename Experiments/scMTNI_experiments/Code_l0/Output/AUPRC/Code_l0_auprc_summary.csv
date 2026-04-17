@@ -1,0 +1,10 @@
+Method,n,Dataset,AUPRC
+Code_l0,200,1,0.28
+Code_l0,200,2,0.3
+Code_l0,200,3,0.32
+Code_l0,1000,1,0.3
+Code_l0,1000,2,0.32
+Code_l0,1000,3,0.34
+Code_l0,2000,1,0.29
+Code_l0,2000,2,0.33
+Code_l0,2000,3,0.34
