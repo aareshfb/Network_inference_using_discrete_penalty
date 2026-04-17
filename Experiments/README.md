@@ -27,7 +27,7 @@ Contains the data, results and scripts for experiments on the **scMTNI benchmark
 
 - For synthetic datasets generated using power-law, results are typically averaged over 5 runs to account for randomness.
 
-- BoolODE and scMTNI experiments can be reproduced by running the `submit_AUPRC.sh` scripts located within each algorithm-specific subdirectory (e.g., `ELEM-0/`, `FGL/`, `GRNBoost2/`).
+- BoolODE and scMTNI experiments can be reproduced by running the `submit_AUPRC.sh` scripts located within each algorithm-specific subdirectory (e.g., `Code_L0/`, `FGL/`, `GRNBoost2/`).
 
 ## References
 
