@@ -1,6 +1,6 @@
 # ELEM-0 (scMTNI datasets 1-3)
 
-This directory contains the implementation and scripts for running the **ELEM-0** algorithm on BoolODE datasets (Sim-1 setting).
+This directory contains the implementation and scripts for running the **ELEM-0** algorithm on scMTNI data (datasets 1-3).
 
 ## Description
 
