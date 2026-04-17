@@ -13,7 +13,8 @@ This directory contains the datasets and implementation of all methods used in *
 Each method directory contains:
 - Scripts for running the method  
 - Evaluation scripts (e.g., AUPRC computation)  
-- A `submit_AUPRC.sh` script specifying hyperparameters and launching experiments  
+- A `submit_AUPRC.sh` script specifying hyperparameters and launching experiments
+- The output files used to generate Table 2 in the paper 
 
 ## Running Experiments
 
@@ -26,5 +27,5 @@ bash submit_AUPRC.sh #Simulation Setup (BoolODE - Sim-1)
 
 ## Notes
 
-- Detailed implementation and usage instructions are provided in `Code_L0/README.md` (ELEM-0).
+- Detailed implementation and usage instructions are provided in `Code_L0/README.md` (ELEM-0). Additionally, this file provides a representative example of the directory structure and scripts.
 - The same workflow and directory structure apply to the other methods (`Code_L1/`, `FASJEM/`, `FGL/`, `GGL/`, `GRNBoost2/`, `SILGGM/`, `jointGHS/`) unless otherwise noted.
