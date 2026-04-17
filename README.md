@@ -100,7 +100,6 @@ This function performs joint estimation of networks for two distinct categories 
   - `Theta[:, :, 2*K:3*K]`: estimated networks for **category 2**
   - `Theta[:, :, C*K:(C+1)*K]`: estimated networks for **category C**
  
---
 
 The scripts used for the experiments were originally implemented for the two-category setting (primary vs. recurrent disease). For completeness, we include them here. They can be executed as follows:
 
@@ -113,7 +112,7 @@ Here, `data_1` and `data_2` are dictionaries with the same structure as `data_c`
 
 
 
-
+---
 
 ## References
 
