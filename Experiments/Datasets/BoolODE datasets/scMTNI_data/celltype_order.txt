@@ -1,3 +1,0 @@
-hsc
-cmp
-gmp
