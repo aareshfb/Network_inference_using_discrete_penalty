@@ -7,7 +7,7 @@ This directory contains the implementation and scripts for running the **ELEM-0*
 - **`ELEM_0.py`**: Script for the ELEM-0 algorithm.  
 - **`Para_algo2.py`, `Break_points_fun2.py`**: Scripts related to the underlying optimization algorithm.  
 - **`funcs.py`**: Supporting utility functions used by ELEM-0.  
-- **`run_boolode_AUPRC.py`**: Runs a single instance of the algorithm for given parameters.  
+- **`run_scmtni_AUPRC.py`**: Runs a single instance of the algorithm for given parameters.  
 - **`get_AUPRC.py`**: Processes the output and computes the AUPRC metric.  
 - **`submit_AUPRC.sh`**: Submits jobs and sets parameter values (e.g., backward map parameters).  
 - **`exe_auprc.sh`**: Helper script that calls `run_boolode_AUPRC.py`.  
