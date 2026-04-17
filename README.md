@@ -18,7 +18,7 @@ from ELEM_0 import elem_0
 from Mult_Cat_ELEM_0 import elem_0_catM
 ```
 
----
+
 
 ## Function: `elem_0`
 
@@ -54,7 +54,7 @@ This function performs joint estimation of multiple precision matrices (from a s
   The estimated precision matrices for each population.
 
 
----
+
 
 
 ## Function: `elem_0_cat`
@@ -112,7 +112,7 @@ Theta = elem_0_catM(data_1,data_2, W, nu0, mu, gamma)
 Here, `data_1` and `data_2` are dictionaries with the same structure as `data_c` described above.
 
 
----
+
 
 
 ## References
