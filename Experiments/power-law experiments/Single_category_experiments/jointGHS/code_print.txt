@@ -1,0 +1,2610 @@
+Population 1 completedPopulation 2 completedPopulation 3 completedPopulation 4 completedPopulation 5 completedPopulation 6 completedPopulation 7 completedPopulation 8 completedPopulation 9 completedPopulation 10 completed[1] 1
+Itr = 1 Max diff = 0.944599
+Itr = 2 Max diff = 0.237423
+Itr = 3 Max diff = 0.029314
+Itr = 4 Max diff = 0.0033349
+Itr = 5 Max diff = 0.000374107
+ done
+[1] 2
+Itr = 1 Max diff = 0.944599
+Itr = 2 Max diff = 0.237423
+Itr = 3 Max diff = 0.0293139
+Itr = 4 Max diff = 0.00333503
+Itr = 5 Max diff = 0.000374743
+ done
+[1] 3
+Itr = 1 Max diff = 0.944599
+Itr = 2 Max diff = 0.237422
+Itr = 3 Max diff = 0.0293138
+Itr = 4 Max diff = 0.00333518
+Itr = 5 Max diff = 0.00037544
+ done
+[1] 4
+Itr = 1 Max diff = 0.944599
+Itr = 2 Max diff = 0.237422
+Itr = 3 Max diff = 0.0293138
+Itr = 4 Max diff = 0.00333534
+Itr = 5 Max diff = 0.000376203
+ done
+[1] 5
+Itr = 1 Max diff = 0.944599
+Itr = 2 Max diff = 0.237421
+Itr = 3 Max diff = 0.0293137
+Itr = 4 Max diff = 0.00333552
+Itr = 5 Max diff = 0.000377039
+ done
+[1] 6
+Itr = 1 Max diff = 0.944599
+Itr = 2 Max diff = 0.237421
+Itr = 3 Max diff = 0.0293136
+Itr = 4 Max diff = 0.00333572
+Itr = 5 Max diff = 0.000377955
+ done
+[1] 7
+Itr = 1 Max diff = 0.944599
+Itr = 2 Max diff = 0.23742
+Itr = 3 Max diff = 0.0293135
+Itr = 4 Max diff = 0.00333593
+Itr = 5 Max diff = 0.000378958
+ done
+[1] 8
+Itr = 1 Max diff = 0.944599
+Itr = 2 Max diff = 0.23742
+Itr = 3 Max diff = 0.0293134
+Itr = 4 Max diff = 0.00333617
+Itr = 5 Max diff = 0.000380057
+ done
+[1] 9
+Itr = 1 Max diff = 0.944599
+Itr = 2 Max diff = 0.237419
+Itr = 3 Max diff = 0.0293132
+Itr = 4 Max diff = 0.00333643
+Itr = 5 Max diff = 0.00038126
+ done
+[1] 10
+Itr = 1 Max diff = 0.944599
+Itr = 2 Max diff = 0.237418
+Itr = 3 Max diff = 0.0293131
+Itr = 4 Max diff = 0.00333671
+Itr = 5 Max diff = 0.000382577
+ done
+[1] 11
+Itr = 1 Max diff = 0.944599
+Itr = 2 Max diff = 0.237418
+Itr = 3 Max diff = 0.029313
+Itr = 4 Max diff = 0.00333702
+Itr = 5 Max diff = 0.000384019
+ done
+[1] 12
+Itr = 1 Max diff = 0.944599
+Itr = 2 Max diff = 0.237417
+Itr = 3 Max diff = 0.0293128
+Itr = 4 Max diff = 0.00333736
+Itr = 5 Max diff = 0.000385597
+ done
+[1] 13
+Itr = 1 Max diff = 0.944599
+Itr = 2 Max diff = 0.237416
+Itr = 3 Max diff = 0.0293126
+Itr = 4 Max diff = 0.00333773
+Itr = 5 Max diff = 0.000387323
+ done
+[1] 14
+Itr = 1 Max diff = 0.944599
+Itr = 2 Max diff = 0.237415
+Itr = 3 Max diff = 0.0293124
+Itr = 4 Max diff = 0.00333814
+Itr = 5 Max diff = 0.00038921
+ done
+[1] 15
+Itr = 1 Max diff = 0.9446
+Itr = 2 Max diff = 0.237414
+Itr = 3 Max diff = 0.0293122
+Itr = 4 Max diff = 0.00333859
+Itr = 5 Max diff = 0.000391275
+ done
+[1] 16
+Itr = 1 Max diff = 0.9446
+Itr = 2 Max diff = 0.237412
+Itr = 3 Max diff = 0.0293119
+Itr = 4 Max diff = 0.00333908
+Itr = 5 Max diff = 0.000393531
+ done
+[1] 17
+Itr = 1 Max diff = 0.9446
+Itr = 2 Max diff = 0.237411
+Itr = 3 Max diff = 0.0293117
+Itr = 4 Max diff = 0.00333962
+Itr = 5 Max diff = 0.000395998
+ done
+[1] 18
+Itr = 1 Max diff = 0.9446
+Itr = 2 Max diff = 0.23741
+Itr = 3 Max diff = 0.0293114
+Itr = 4 Max diff = 0.00334021
+Itr = 5 Max diff = 0.000398691
+ done
+[1] 19
+Itr = 1 Max diff = 0.9446
+Itr = 2 Max diff = 0.237408
+Itr = 3 Max diff = 0.0293111
+Itr = 4 Max diff = 0.00334085
+Itr = 5 Max diff = 0.000401633
+ done
+[1] 20
+Itr = 1 Max diff = 0.9446
+Itr = 2 Max diff = 0.237406
+Itr = 3 Max diff = 0.0293107
+Itr = 4 Max diff = 0.00334156
+Itr = 5 Max diff = 0.000404844
+ done
+[1] 21
+Itr = 1 Max diff = 0.9446
+Itr = 2 Max diff = 0.237404
+Itr = 3 Max diff = 0.0293103
+Itr = 4 Max diff = 0.00334234
+Itr = 5 Max diff = 0.000408347
+ done
+[1] 22
+Itr = 1 Max diff = 0.9446
+Itr = 2 Max diff = 0.237402
+Itr = 3 Max diff = 0.0293099
+Itr = 4 Max diff = 0.00334318
+Itr = 5 Max diff = 0.000412167
+ done
+[1] 23
+Itr = 1 Max diff = 0.9446
+Itr = 2 Max diff = 0.2374
+Itr = 3 Max diff = 0.0293095
+Itr = 4 Max diff = 0.00334411
+Itr = 5 Max diff = 0.000416329
+ done
+[1] 24
+Itr = 1 Max diff = 0.9446
+Itr = 2 Max diff = 0.237397
+Itr = 3 Max diff = 0.029309
+Itr = 4 Max diff = 0.00334513
+Itr = 5 Max diff = 0.000420863
+ done
+[1] 25
+Itr = 1 Max diff = 0.9446
+Itr = 2 Max diff = 0.237394
+Itr = 3 Max diff = 0.0293084
+Max diff = 0.0279493
+Itr = 4 Max diff = 0.00314047
+Itr = 5 Max diff = 0.000382432
+ done
+[1] 26
+Itr = 1 Max diff = 0.943915
+Itr = 2 Max diff = 0.22688
+Itr = 3 Max diff = 0.0279487
+Itr = 4 Max diff = 0.00314165
+Itr = 5 Max diff = 0.00038763
+ done
+[1] 27
+Itr = 1 Max diff = 0.943915
+Itr = 2 Max diff = 0.226877
+Itr = 3 Max diff = 0.0279481
+Itr = 4 Max diff = 0.00314294
+Itr = 5 Max diff = 0.000393282
+ done
+[1] 28
+Itr = 1 Max diff = 0.943916
+Itr = 2 Max diff = 0.226874
+Itr = 3 Max diff = 0.0279474
+Itr = 4 Max diff = 0.00314435
+Itr = 5 Max diff = 0.000399423
+ done
+[1] 29
+Itr = 1 Max diff = 0.943916
+Itr = 2 Max diff = 0.22687
+Itr = 3 Max diff = 0.0279467
+Itr = 4 Max diff = 0.00314589
+Itr = 5 Max diff = 0.00040609
+ done
+[1] 30
+Itr = 1 Max diff = 0.943916
+Itr = 2 Max diff = 0.226865
+Itr = 3 Max diff = 0.0279459
+Itr = 4 Max diff = 0.00314757
+Itr = 5 Max diff = 0.00041332
+ done
+[1] 31
+Itr = 1 Max diff = 0.943916
+Itr = 2 Max diff = 0.22686
+Itr = 3 Max diff = 0.027945
+Itr = 4 Max diff = 0.00314941
+Itr = 5 Max diff = 0.000421154
+ done
+[1] 32
+Itr = 1 Max diff = 0.943916
+Itr = 2 Max diff = 0.226855
+Itr = 3 Max diff = 0.0279441
+Itr = 4 Max diff = 0.00315142
+Itr = 5 Max diff = 0.000429632
+ done
+[1] 33
+Itr = 1 Max diff = 0.943916
+Itr = 2 Max diff = 0.226849
+Itr = 3 Max diff = 0.027943
+Itr = 4 Max diff = 0.00315361
+Itr = 5 Max diff = 0.000438797
+ done
+[1] 34
+Itr = 1 Max diff = 0.943916
+Itr = 2 Max diff = 0.226843
+Itr = 3 Max diff = 0.0279418
+Itr = 4 Max diff = 0.00315601
+Itr = 5 Max diff = 0.000448692
+ done
+[1] 35
+Itr = 1 Max diff = 0.943916
+Itr = 2 Max diff = 0.226836
+Itr = 3 Max diff = 0.0279406
+Itr = 4 Max diff = 0.00315862
+Itr = 5 Max diff = 0.000459359
+ done
+[1] 36
+Itr = 1 Max diff = 0.943917
+Itr = 2 Max diff = 0.226829
+Itr = 3 Max diff = 0.0279392
+Itr = 4 Max diff = 0.00316146
+Itr = 5 Max diff = 0.000470842
+ done
+[1] 37
+Itr = 1 Max diff = 0.943917
+Itr = 2 Max diff = 0.22682
+Itr = 3 Max diff = 0.0279377
+Itr = 4 Max diff = 0.00316456
+Itr = 5 Max diff = 0.000483184
+ done
+[1] 38
+Itr = 1 Max diff = 0.943917
+Itr = 2 Max diff = 0.226811
+Itr = 3 Max diff = 0.027936
+Itr = 4 Max diff = 0.00316793
+Itr = 5 Max diff = 0.000496427
+ done
+[1] 39
+Itr = 1 Max diff = 0.943917
+Itr = 2 Max diff = 0.226801
+Itr = 3 Max diff = 0.0279342
+Itr = 4 Max diff = 0.00317161
+Itr = 5 Max diff = 0.000510609
+ done
+[1] 40
+Itr = 1 Max diff = 0.943918
+Itr = 2 Max diff = 0.22679
+Itr = 3 Max diff = 0.0279322
+Itr = 4 Max diff = 0.0031756
+Itr = 5 Max diff = 0.00052577
+ done
+[1] 41
+Itr = 1 Max diff = 0.943918
+Itr = 2 Max diff = 0.226778
+Itr = 3 Max diff = 0.02793
+Itr = 4 Max diff = 0.00317993
+Itr = 5 Max diff = 0.000541942
+ done
+[1] 42
+Itr = 1 Max diff = 0.943918
+Itr = 2 Max diff = 0.226764
+Itr = 3 Max diff = 0.0279277
+Itr = 4 Max diff = 0.00318464
+Itr = 5 Max diff = 0.000559155
+ done
+[1] 43
+Itr = 1 Max diff = 0.943919
+Itr = 2 Max diff = 0.22675
+Itr = 3 Max diff = 0.027925
+Itr = 4 Max diff = 0.00318974
+Itr = 5 Max diff = 0.000577435
+ done
+[1] 44
+Itr = 1 Max diff = 0.943919
+Itr = 2 Max diff = 0.226734
+Itr = 3 Max diff = 0.0279222
+Itr = 4 Max diff = 0.00319526
+Itr = 5 Max diff = 0.0005968
+ done
+[1] 45
+Itr = 1 Max diff = 0.943919
+Itr = 2 Max diff = 0.226716
+Itr = 3 Max diff = 0.0279191
+Itr = 4 Max diff = 0.00320124
+Itr = 5 Max diff = 0.000617262
+ done
+[1] 46
+Itr = 1 Max diff = 0.94392
+Itr = 2 Max diff = 0.226696
+Itr = 3 Max diff = 0.0279157
+Itr = 4 Max diff = 0.0032077
+Itr = 5 Max diff = 0.000638826
+ done
+[1] 47
+Itr = 1 Max diff = 0.94392
+Itr = 2 Max diff = 0.226675
+Itr = 3 Max diff = 0.027912
+Itr = 4 Max diff = 0.00321467
+Itr = 5 Max diff = 0.000661488
+ done
+[1] 48
+Itr = 1 Max diff = 0.943921
+Itr = 2 Max diff = 0.226652
+Itr = 3 Max diff = 0.0279079
+Itr = 4 Max diff = 0.00322219
+Itr = 5 Max diff = 0.000685235
+ done
+[1] 49
+Itr = 1 Max diff = 0.943922
+Itr = 2 Max diff = 0.226626
+Itr = 3 Max diff = 0.0279035
+Itr = 4 Max diff = 0.00323027
+Itr = 5 Max diff = 0.000710047
+ done
+[1] 50
+Itr = 1 Max diff = 0.943922
+Itr = 2 Max diff = 0.226597
+Itr = 3 Max diff = 0.0278986
+Itr = 4 Max diff = 0.00323896
+Itr = 5 Max diff = 0.000735892
+ done
+[1] 51
+Itr = 1 Max diff = 0.943923
+Itr = 2 Max diff = 0.x diff = 0.242402
+Itr = 3 Max diff = 0.0302834
+Itr = 4 Max diff = 0.00379745
+Itr = 5 Max diff = 0.00090978
+ done
+[1] 52
+Itr = 1 Max diff = 0.943787
+Itr = 2 Max diff = 0.242365
+Itr = 3 Max diff = 0.0302772
+Itr = 4 Max diff = 0.00380833
+Itr = 5 Max diff = 0.000939372
+ done
+[1] 53
+Itr = 1 Max diff = 0.943788
+Itr = 2 Max diff = 0.242324
+Itr = 3 Max diff = 0.0302704
+Itr = 4 Max diff = 0.00381992
+Itr = 5 Max diff = 0.00096983
+ done
+[1] 54
+Itr = 1 Max diff = 0.943789
+Itr = 2 Max diff = 0.24228
+Itr = 3 Max diff = 0.030263
+Itr = 4 Max diff = 0.00383224
+Itr = 5 Max diff = 0.00100109
+Itr = 6 Max diff = 0.00126863
+Itr = 7 Max diff = 0.00313971
+Itr = 8 Max diff = 0.00423454
+Itr = 9 Max diff = 0.00291261
+Itr = 10 Max diff = 0.00144525
+Itr = 11 Max diff = 0.00135479
+Itr = 12 Max diff = 0.00126066
+Itr = 13 Max diff = 0.00117848
+Itr = 14 Max diff = 0.00112003
+Itr = 15 Max diff = 0.00108301
+Itr = 16 Max diff = 0.00104865
+Itr = 17 Max diff = 0.00101368
+Itr = 18 Max diff = 0.00101279
+Itr = 19 Max diff = 0.000994054
+ done
+[1] 55
+Itr = 1 Max diff = 0.94379
+Itr = 2 Max diff = 0.242231
+Itr = 3 Max diff = 0.0302549
+Itr = 4 Max diff = 0.00384532
+Itr = 5 Max diff = 0.00103308
+Itr = 6 Max diff = 0.00136591
+Itr = 7 Max diff = 0.00327229
+Itr = 8 Max diff = 0.00421303
+Itr = 9 Max diff = 0.00278358
+Itr = 10 Max diff = 0.00144026
+Itr = 11 Max diff = 0.00135041
+Itr = 12 Max diff = 0.00125685
+Itr = 13 Max diff = 0.00117583
+Itr = 14 Max diff = 0.00112035
+Itr = 15 Max diff = 0.00108051
+Itr = 16 Max diff = 0.00104801
+Itr = 17 Max diff = 0.00101338
+Itr = 18 Max diff = 0.00101461
+Itr = 19 Max diff = 0.0009908
+ done
+[1] 56
+Itr = 1 Max diff = 0.943791
+Itr = 2 Max diff = 0.242176
+Itr = 3 Max diff = 0.0302461
+Itr = 4 Max diff = 0.00385916
+Itr = 5 Max diff = 0.00106572
+Itr = 6 Max diff = 0.00146845
+Itr = 7 Max diff = 0.00340065
+Itr = 8 Max diff = 0.0041788
+Itr = 9 Max diff = 0.00265445
+Itr = 10 Max diff = 0.00143593
+Itr = 11 Max diff = 0.00134544
+Itr = 12 Max diff = 0.00125223
+Itr = 13 Max diff = 0.00117228
+Itr = 14 Max diff = 0.00112049
+Itr = 15 Max diff = 0.00107782
+Itr = 16 Max diff = 0.00104664
+Itr = 17 Max diff = 0.00101405
+Itr = 18 Max diff = 0.00101553
+Itr = 19 Max diff = 0.000986299
+ done
+[1] 57
+Itr = 1 Max diff = 0.943792
+Itr = 2 Max diff = 0.242117
+Itr = 3 Max diff = 0.0302364
+Itr = 4 Max diff = 0.00387378
+Itr = 5 Max diff = 0.00109895
+Itr = 6 Max diff = 0.0015762
+Itr = 7 Max diff = 0.00352364
+Itr = 8 Max diff = 0.00413232
+Itr = 9 Max diff = 0.00252591
+Itr = 10 Max diff = 0.00143189
+Itr = 11 Max diff = 0.00133978
+Itr = 12 Max diff = 0.00124719
+Itr = 13 Max diff = 0.00116775
+Itr = 14 Max diff = 0.00111976
+Itr = 15 Max diff = 0.00107404
+Itr = 16 Max diff = 0.00104422
+Itr = 17 Max diff = 0.00101376
+Itr = 18 Max diff = 0.00101548
+Itr = 19 Max diff = 0.000985365
+ done
+[1] 58
+Itr = 1 Max diff = 0.943794
+Itr = 2 Max diff = 0.242051
+Itr = 3 Max diff = 0.0302259
+Itr = 4 Max diff = 0.00388917
+Itr = 5 Max diff = 0.00113268
+Itr = 6 Max diff = 0.00168901
+Itr = 7 Max diff = 0.00364013
+Itr = 8 Max diff = 0.00407421
+Itr = 9 Max diff = 0.00239858
+Itr = 10 Max diff = 0.00142863
+Itr = 11 Max diff = 0.00133338
+Itr = 12 Max diff = 0.00124189
+Itr = 13 Max diff = 0.00116217
+Itr = 14 Max diff = 0.00111811
+Itr = 15 Max diff = 0.00106907
+Itr = 16 Max diff = 0.00104066
+Itr = 17 Max diff = 0.00101245
+Itr = 18 Max diff = 0.00101438
+Itr = 19 Max diff = 0.000986173
+ done
+[1] 59
+Itr = 1 Max diff = 0.943796
+Itr = 2 Max diff = 0.241979
+Itr = 3 Max diff = 0.0302144
+Itr = 4 Max diff = 0.00390533
+Itr = 5 Max diff = 0.00116686
+Itr = 6 Max diff = 0.00180666
+Itr = 7 Max diff = 0.00374902
+Itr = 8 Max diff = 0.00400515
+Itr = 9 Max diff = 0.002273
+Itr = 10 Max diff = 0.00142496
+ItrItr = 3 Max diff = 0.0270027
+Itr = 4 Max diff = 0.00335351
+Itr = 5 Max diff = 0.00115318
+Itr = 6 Max diff = 0.00287041
+Itr = 7 Max diff = 0.00484197
+Itr = 8 Max diff = 0.00405971
+Itr = 9 Max diff = 0.00187748
+Itr = 10 Max diff = 0.00140564
+Itr = 11 Max diff = 0.00129533
+Itr = 12 Max diff = 0.00120248
+Itr = 13 Max diff = 0.001Itr = Itr = 14 Max diff = 0.00109388
+Itr = 15 Max diff = 0.00106054
+Itr = 16 Max diff = 0.Itr = 700120142
+Itr = 6 Max diff = 0.00192887
+Itr = 7 Max diff = 0.00384924
+Itr = 8 Max diff = 0.00392595
+Itr = 9 Max diff = 0.00214965
+Itr = 10 Max diff = 0.00142082
+Itr = 11 Max diff = 0.00131799
+Itr = 12 Max diff = 0.00122828
+Itr = 13 Max diff = 0.00115316
+Itr = 14 Max diff = 0.0011117
+Itr = 15 Max diff = 0.00106524
+Itr = 16 Max diff = 0.00103861
+Itr = 17 Max diff = 0.00100649
+Itr = 18 Max diff = 0.00100876
+Itr = 19 Max diff = 0.000984837
+ done
+[1] 61
+Itr = 1 Max diff = 0.943799
+Itr = 2 Max diff = 0.241811
+Itr = 3 Max diff = 0.0301882
+Itr = 4 Max diff = 0.00393992
+Itr = 5 Max diff = 0.00123629
+Itr = 6 Max diff = 0.00205526
+Itr = 7 Max diff = 0.00393982
+Itr = 8 Max diff = 0.00383747
+Itr = 9 Max diff = 0.00202893
+Itr = 10 Max diff = 0.00141615
+Itr = 11 Max diff = 0.00131014
+Itr = 12 Max diff = 0.0012198
+Itr = 13 Max diff = 0.00115067
+Itr = 14 Max diff = 0.00110679
+Itr = 15 Max diff = 0.00106476
+Itr = 16 Max diff = 0.00103789
+Itr = 17 Max diff = 0.0010017
+Itr = 18 Max diff = 0.00100409
+Itr = 19 Max diff = 0.000982557
+ done
+[1] 62
+Itr = 1 Max diff = 0.943802
+Itr = 2 Max diff = 0.241714
+Itr = 3 Max diff = 0.0301732
+Itr = 4 Max diff = 0.00395831
+Itr = 5 Max diff = 0.00127144
+Itr = 6 Max diff = 0.00218537
+Itr = 7 Max diff = 0.00401984
+Itr = 8 Max diff = 0.00374065
+Itr = 9 Max diff = 0.00191118
+Itr = 10 Max diff = 0.0014109
+Itr = 11 Max diff = 0.00130393
+Itr = 12 Max diff = 0.00121498
+Itr = 13 Max diff = 0.00114722
+Itr = 14 Max diff = 0.00110064
+Itr = 15 Max diff = 0.00106392
+Itr = 16 Max diff = 0.00103615
+Itr = 17 Max diff = 0.00100008
+Itr = 18 Max diff = 0.000999428
+ done
+[1] 63
+Itr = 1 Max diff = 0.943804
+Itr = 2 Max diff = 0.241608
+Itr = 3 Max diff = 0.0301568
+Itr = 4 Max diff = 0.00397739
+Itr = 5 Max diff = 0.00130683
+Itr = 6 Max diff = 0.00231863
+Itr = 7 Max diff = 0.00408852
+Itr = 8 Max diff = 0.00363645
+Itr = 9 Max diff = 0.0017967
+Itr = 10 Max diff = 0.00140499
+Itr = 11 Max diff = 0.00129955
+Itr = 12 Max diff = 0.00120976
+Itr = 13 Max diff = 0.00114272
+Itr = 14 Max diff = 0.00109473
+Itr = 15 Max diff = 0.00106367
+Itr = 16 Max diff = 0.00103332
+Itr = 17 Max diff = 0.0010023
+Itr = 18 Max diff = 0.000996542
+ done
+[1] 64
+Itr = 1 Max diff = 0.943807
+Itr = 2 Max diff = 0.24149
+Itr = 3 Max diff = 0.0301389
+Itr = 4 Max diff = 0.00399712
+Itr = 5 Max diff = 0.0013424
+Itr = 6 Max diff = 0.0024544
+Itr = 7 Max diff = 0.00414517
+Itr = 8 Max diff = 0.00352585
+Itr = 9 Max diff = 0.00168569
+Itr = 10 Max diff = 0.00139837
+Itr = 11 Max diff = 0.00129443
+Itr = 12 Max diff = 0.00120351
+Itr = 13 Max diff = 0.00113748
+Itr = 14 Max diff = 0.00109521
+Itr = 15 Max diff = 0.00106247
+Itr = 16 Max diff = 0.00103153
+Itr = 17 Max diff = 0.00100367
+Itr = 18 Max diff = 0.000993909
+ done
+[1] 65
+Itr = 1 Max diff = 0.94381
+Itr = 2 Max diff = 0.241361
+Itr = 3 Max diff = 0.0301192
+Itr = 4 Max diff = 0.00401746
+Itr = 5 Max diff = 0.00137815
+Itr = 6 Max diff = 0.00259193
+Itr = 7 Max diff = 0.00418927
+Itr = 8 Max diff = 0.00340985
+Itr = 9 Max diff = 0.00157836
+Itr = 10 Max diff = 0.00139094
+Itr = 11 Max diff = 0.00128847
+Itr = 12 Max diff = 0.00120005
+Itr = 13 Max diff = 0.0011357
+Itr = 14 Max diff = 0.00109482
+Itr = 15 Max diff = 0.00106024
+Itr = 16 Max diff = 0.00103028
+Itr = 17 Max diff = 0.00100413
+Itr = 18 Max diff = 0.000995878
+ done
+[1] 66
+Itr = 1 Max diff = 0.943813
+Itr = 2 Max diff = 0.241219
+Itr = 3 Max diff = 0.0300977
+Itr = 4 Max diff = 0.00403837
+Itr = 5 Max diff = 0.00141406
+Itr = 6 Max diff = 0.00273038
+Itr = 7 Max diff = 0.00422041
+Itr = 8 Max diff = 0.00328945
+Itr = 9 Max diff = 0.00147482
+Itr = 10 Max diff = 0.00138265
+Itr Itr = 6 Max diff = 0.00398314
+Itr = 7 MaItr = 16 Max diff = 0.00102588
+Itr = 17 Max diff =Itr = 9 Max diff = 0.00145844
+Itr = 10 Max diff = 0.00134Itr = 1 Max diff = 0.944072
+Itr = Itr = 12 Max diff = 0.00116982
+Itr = 13 Max diff = Itr = 4 Max diff = 0.00398718
+Itr = 5 MaxItr = 15 Max diff =Itr = 6 Max diff = 0.00307242
+Itr = 7 Max diff = 0.00438748
+Itr = 8 Max diItr = 18 Max difItr = 9 Max diff = 0.0014657
+Itr = 10 Max diff = 0.001373Itr = 2 Max diff = 0.25723
+Itr = 3Itr = 12 Max diff = 0.00118632
+Itr = 13 Max diff = 0Itr = 5 x diff = 0.00137341
+Itr = 11 Max diff = 0.00127376
+Itr = 12 Max diff = 0.00119085
+Itr = 13 Max diff = 0.00112935
+Itr = 14 Max diff = 0.00109112
+Itr = 15 Max diff = 0.0010567
+Itr = 16 Max diff = 0.00102448
+Itr = 17 Max diff = 0.00100658
+Itr = 18 Max diff = 0.000997143
+ done
+[1] 68
+Itr = 1 Max diff = 0.94382
+Itr = 2 Max diff = 0.240889
+Itr = 3 Max diff = 0.0300482
+Itr = 4 Max diff = 0.00408161
+Itr = 5 Max diff = 0.00148626
+Itr = 6 Max diff = 0.00300635
+Itr = 7 Max diff = 0.00424298
+Itr = 8 Max diff = 0.0030392
+Itr = 9 Max diff = 0.0014506
+Itr = 10 Max diff = 0.00136314
+Itr = 11 Max diff = 0.00126592
+Itr = 12 Max diff = 0.00118473
+Itr = 13 Max diff = 0.00112462
+Itr = 14 Max diff = 0.00108767
+Itr = 15 Max diff = 0.00105357
+Itr = 16 Max diff = 0.00101979
+Itr = 17 Max diff = 0.00101001
+Itr = 18 Max diff = 0.000996305
+ done
+[1] 69
+Itr = 1 Max diff = 0.943824
+Itr = 2 Max diff = 0.240699
+Itr = 3 Max diff = 0.0300198
+Itr = 4 Max diff = 0.00410383
+Itr = 5 Max diff = 0.00152254
+Itr = 6 Max diff = 0.00314183
+Itr = 7 Max diff = 0.00423438
+Itr = 8 Max diff = 0.00291117
+Itr = 9 Max diff = 0.00144514
+Itr = 10 Max diff = 0.00135474
+Itr = 11 Max diff = 0.00126074
+Itr = 12 Max diff = 0.00117846
+Itr = 13 Max diff = 0.00112014
+Itr = 14 Max diff = 0.00108314
+Itr = 15 Max diff = 0.0010493
+Itr = 16 Max diff = 0.00101381
+Itr = 17 Max diff = 0.00101268
+Itr = 18 Max diff = 0.000994398
+ done
+[1] 70
+Itr = 1 Max diff = 0.943829
+Itr = 2 Max diff = 0.24049
+Itr = 3 Max diff = 0.0299885
+Itr = 4 Max diff = 0.00412635
+Itr = 5 Max diff = 0.00155892
+Itr = 6 Max diff = 0.0032742
+Itr = 7 Max diff = 0.00421275
+Itr = 8 Max diff = 0.0027823
+Itr = 9 Max diff = 0.00144022
+Itr = 10 Max diff = 0.00135037
+Itr = 11 Max diff = 0.00125696
+Itr = 12 Max diff = 0.00117581
+Itr = 13 Max diff = 0.00112033
+Itr = 14 Max diff = 0.00108082
+Itr = 15 Max diff = 0.00104806
+Itr = 16 Max diff = 0.0010132
+Itr = 17 Max diff = 0.00101454
+Itr = 18 Max diff = 0.000991359
+ done
+[1] 71
+Itr = 1 Max diff = 0.943834
+Itr = 2 Max diff = 0.24026
+Itr = 3 Max diff = 0.0299541
+Itr = 4 Max diff = 0.0041491
+Itr = 5 Max diff = 0.00159538
+Itr = 6 Max diff = 0.00340232
+Itr = 7 Max diff = 0.00417843
+Itr = 8 Max diff = 0.00265335
+Itr = 9 Max diff = 0.00143589
+Itr = 10 Max diff = 0.00134539
+Itr = 11 Max diff = 0.00125239
+Itr = 12 Max diff = 0.00117227
+Itr = 13 Max diff = 0.00112049
+Itr = 14 Max diff = 0.00107835
+Itr = 15 Max diff = 0.00104677
+Itr = 16 Max diff = 0.001014
+Itr = 17 Max diff = 0.00101551
+Itr = 18 Max diff = 0.000987125
+ done
+[1] 72
+Itr = 1 Max diff = 0.943839
+Itr = 2 Max diff = 0.240007
+Itr = 3 Max diff = 0.0299161
+Itr = 4 Max diff = 0.00417199
+Itr = 5 Max diff = 0.00163189
+Itr = 6 Max diff = 0.00352508
+Itr = 7 Max diff = 0.00413192
+Itr = 8 Max diff = 0.00252502
+Itr = 9 Max diff = 0.00143187
+Itr = 10 Max diff = 0.00133974
+Itr = 11 Max diff = 0.0012472
+Itr = 12 Max diff = 0.00116774
+Itr = 13 Max diff = 0.0011198
+Itr = 14 Max diff = 0.00107482
+Itr = 15 Max diff = 0.00104444
+Itr = 16 Max diff = 0.0010139
+Itr = 17 Max diff = 0.00101552
+Itr = 18 Max diff = 0.00098497
+ done
+[1] 73
+Itr = 1 Max diff = 0.943845
+Itr = 2 Max diff = 0.239728
+Itr = 3 Max diff = 0.0298743
+Itr = 4 Max diff = 0.00419496
+Itr = 5 Max diff = 0.00170841
+Itr = 6 Max diff = 0.00364133
+Itr = 7 Max diff = 0.0040738
+Itr = 8 Max diff = 0.00239791
+Itr = 9 Max diff = 0.00142861
+Itr = 10 Max diff = 0.00133334
+Itr = 11 Max diff = 0.00124191
+Itr = 12 Max diff = 0.00116246
+Itr = 13 Max diff Itr = 6 Max diff =Itr = 15 Max diff = 0.00104265
+Itr = 16 MaItr = 8 Max diff = 0.00211911
+Itr = 9 Max diff = 0.0014227
+Itr = 10 Max diff = 0.00130915
+Itr = 11 Max diff = 0.0012211
+Itr = 12 Max diff = 0.0011567ItItr = 13 Max diff = 0.00110715
+Itr = 14 Max diff = 0.00107166
+Itr = 15 Max diff = 0.00103505
+Itr = 16 Max diff = 0.00101779
+Itr = 17 Max diff = 0.000994811
+ done
+[1] 76
+Itr = 1 MItr = 10 Max diff =Itr = 2 Max diff = 0.23825
+Itr = 3 Max diffItr = 12 Max Itr = 4 Max diff = 0.00416776
+Itr = 5 Max diff = 0.00211248
+Itr = 6 Max diff = 0Itr = 15 MItr = 7 Max diff = 0.00395173
+Itr = 8 Max diff = 0.00198816
+Itr = 9 Max diff = 0.00141603
+Itr = 10 Max diff = 0. 17 Max diff = 0.00101241
+Itr = 18 Max diff = 0.000986183
+ done
+[1] 75
+Itr = 1 Max diff = 0.943859
+Itr = 2 Max diff = 0.239087
+Itr = 3 Max diff = 0.0297774
+Itr = 4 Max diff = 0.00424076
+Itr = 5 Max diff = 0.00194716
+Itr = 6 Max diff = 0.00384999
+Itr = 7 Max diff = 0.00392568
+Itr = 8 Max diff = 0.00214949
+Itr = 9 Max diff = 0.00142081
+Itr = 10 Max diff = 0.00131797
+Itr = 11 Max diff = 0.00122835
+Itr = 12 Max diff = 0.0011534
+Itr = 13 Max diff = 0.00111189
+Itr = 14 Max diff = 0.00106524
+Itr = 15 Max diff = 0.00103864
+Itr = 16 Max diff = 0.00100753
+Itr = 17 Max diff = 0.00100915
+Itr = 18 Max diff = 0.000985392
+ done
+[1] 76
+Itr = 1 Max diff = 0.943867
+Itr = 2 Max diff = 0.238718
+Itr = 3 Max diff = 0.0297212
+Itr = 4 Max diff = 0.00426344
+Itr = 5 Max diff = 0.00207291
+Itr = 6 Max diff = 0.00394036
+Itr = 7 Max diff = 0.00383735
+Itr = 8 Max diff = 0.00202904
+Itr = 9 Max diff = 0.00141616
+Itr = 10 Max diff = 0.00131021
+Itr = 11 Max diff = 0.00121991
+Itr = 12 Max diff = 0.00115106
+Itr = 13 Max diff = 0.00110707
+Itr = 14 Max diff = 0.00106478
+Itr = 15 Max diff = 0.00103815
+Itr = 16 Max diff = 0.00100318
+Itr = 17 Max diff = 0.00100466
+Itr = 18 Max diff = 0.000983596
+ done
+[1] 77
+Itr = 1 Max diff = 0.943876
+Itr = 2 Max diff = 0.238313
+Itr = 3 Max diff = 0.0296593
+Itr = 4 Max diff = 0.00428584
+Itr = 5 Max diff = 0.00220232
+Itr = 6 Max diff = 0.00402021
+Itr = 7 Max diff = 0.00374071
+Itr = 8 Max diff = 0.00191159
+Itr = 9 Max diff = 0.00141092
+Itr = 10 Max diff = 0.00130389
+Itr = 11 Max diff = 0.00121496
+Itr = 12 Max diff = 0.00114778
+Itr = 13 Max diff = 0.00110104
+Itr = 14 Max diff = 0.00106391
+Itr = 15 Max diff = 0.00103672
+Itr = 16 Max diff = 0.00100004
+Itr = 17 Max diff = 0.000999912
+ done
+[1] 78
+Itr = 1 Max diff = 0.943885
+Itr = 2 Max diff = 0.237869
+Itr = 3 Max diff = 0.0295908
+Itr = 4 Max diff = 0.00430787
+Itr = 5 Max diff = 0.00233483
+Itr = 6 Max diff = 0.00408875
+Itr = 7 Max diff = 0.00363674
+Itr = 8 Max diff = 0.0017974
+Itr = 9 Max diff = 0.00140503
+Itr = 10 Max diff = 0.0012995
+Itr = 11 Max diff = 0.00120974
+Itr = 12 Max diff = 0.00114351
+Itr = 13 Max diff = 0.00109468
+Itr = 14 Max diff = 0.00106372
+Itr = 15 Max diff = 0.00103427
+Itr = 16 Max diff = 0.00100226
+Itr = 17 Max diff = 0.00099735
+ done
+[1] 79
+Itr = 1 Max diff = 0.943895
+Itr = 2 Max diff = 0.237382
+Itr = 3 Max diff = 0.0295153
+Itr = 4 Max diff = 0.00432944
+Itr = 5 Max diff = 0.00246979
+Itr = 6 Max diff = 0.00414531
+Itr = 7 Max diff = 0.00352643
+Itr = 8 Max diff = 0.0016867
+Itr = 9 Max diff = 0.00139843
+Itr = 10 Max diff = 0.00129437
+Itr = 11 Max diff = 0.00120351
+Itr = 12 Max diff = 0.00113817
+Itr = 13 Max diff = 0.0010952
+Itr = 14 Max diff = 0.0010626
+Itr = 15 Max diff = 0.00103159
+Itr = 16 Max diff = 0.00100365
+Itr = 17 Max diff = 0.000993652
+ done
+[1] 80
+Itr = 1 Max diff = 0.943906
+Itr = 2 Max diff = 0.236848
+Itr = 3 Max diff = 0.029432
+Itr = 4 Max diff = 0.00435045
+Itr = 5 Max diff = 0.00260646
+Itr = 6 Max diff = 0.00418937
+Itr = 7 Max diff = 0.00341077
+Itr = 8 Max diff = 0.00157967
+Itr = 9 Max diff = 0.00139104
+Itr = 10 Max diff = 0.00128842
+Itr = 11 Max diff = 0.00120011
+Itr = 12 Max diff = 0.0011359
+Itr = 13 Max diff = 0.00109486
+Itr = 14 Max diff = 0.00106048
+Itr = 15 Max diff = 0.00103043
+Itr = 16 Max diff = 0.00100413
+Itr = 17 Max diff = 0.000995233
+ done
+[1] 81
+Itr = 15 Max diff = 0.0010267
+Itr = 16 Max diff = 0.00100255
+Itr = 17 Max diff = 0.000993443
+ done
+[1] 83
+Itr = 1 Max diff = 0.944194
+Itr = 2 Max diff = 0.234465
+Itr = 3 Max diff = 0.0291533
+Itr = 4 Max diff = 0.00431303
+Itr = 5 Max diff = 0.00309319
+Itr = 6 Max diff = 0.00438811
+Itr = 7 Max diff = 0.00309007
+Itr = 8 Max diff = 0.00146593
+Itr = 9 Max diff = 0.00137311
+Itr = 10 Max diff = 0.00126911
+Itr = 11 Max diff = 0.00118634
+Itr = 12 Max diff = 0.00112538
+Itr = 13 Max diff = 0.00108093
+Itr = 14 Max diff = 0.00104412
+Itr = 15 Max diff = 0.00102743
+Itr = 16 Max diff = 0.000998427
+ done
+[1] 84
+Itr = 1 Max diff = 0.94421
+Itr = 2 Max diff = 0.2337
+Itr = 3 Max diff = 0.0290298
+Itr = 4 Max diff = 0.00433067
+Itr = 5 Max diff = 0.00323405
+Itr = 6 Max diff = 0.00437956
+Itr = 7 Max diff = 0.00295161
+Itr = = 0.00127371
+Itr = 11 Max diff = 0.00119099
+Itr = 12 Max diff = 0.0011298
+Itr = 13 Max diff = 0.00109133
+Itr = 14 Max diff = 0.00105771
+Itr = 15 Max diff = 0.00102491
+Itr = 16 Max diff = 0.00100583
+Itr = 17 Max diff = 0.00099719
+ done
+[1] 83
+Itr = 1 Max diff = 0.943947
+Itr = 2 Max diff = 0.234921
+Itr = 3 Max diff = 0.0291272
+Itr = 4 Max diff = 0.00440897
+Itr = 5 Max diff = 0.00301813
+Itr = 6 Max diff = 0.00424335
+Itr = 7 Max diff = 0.00304136
+Itr = 8 Max diff = 0.0014508
+Itr = 9 Max diff = 0.00136338
+Itr = 10 Max diff = 0.00126588
+Itr = 11 Max diff = 0.00118492
+Itr = 12 Max diff = 0.00112525
+Itr = 13 Max diff = 0.001088
+Itr = 14 Max diff = 0.00105516
+Itr = 15 Max diff = 0.00102041
+Itr = 16 Max diff = 0.00100934
+Itr = 17 Max diff = 0.000996843
+ done
+[1] 84
+Itr = 1 Max diff = 0.943963
+Itr = 2 Max diff = 0.234154
+Itr = 3 Max diff = 0.0290044
+Itr = 4 Max diff = 0.00442653
+Itr = 5 Max diff = 0.00315266
+Itr = 6 Max diff = 0.004235
+Itr = 7 Max diff = 0.0029138
+Itr = 8 Max diff = 0.00144511
+Itr = 9 Max diff = 0.00135482
+Itr = 10 Max diff = 0.00126113
+Itr = 11 Max diff = 0.00117854
+Itr = 12 Max diff = 0.00112057
+Itr = 13 Max diff = 0.00108408
+Itr = 14 Max diff = 0.00105159
+Itr = 15 Max diff = 0.00101466
+Itr = 16 Max diff = 0.00101214
+Itr = 17 Max diff = 0.000995543
+ done
+[1] 85
+Itr = 1 Max diff = 0.94398
+Itr = 2 Max diff = 0.233315
+Itr = 3 Max diff = 0.0288694
+Itr = 4 Max diff = 0.00444288
+Itr = 5 Max diff = 0.00328409
+Itr = 6 Max diff = 0.00421369
+Itr = 7 Max diff = 0.00278545
+Itr = 8 Max diff = 0.00144033
+Itr = 9 Max diff = 0.00135048
+Itr = 10 Max diff = 0.00125748
+Itr = 11 Max diff = 0.00117593
+Itr = 12 Max diff = 0.00112025
+Itr = 13 Max diff = 0.00108179
+Itr = 14 Max diff = 0.00104824
+Itr = 15 Max diff = 0.00101234
+Itr = 16 Max diff = 0.00101416
+Itr = 17 Max diff = 0.00099324
+ done
+[1] 86
+Itr = 1 Max diff = 0.943999
+Itr = 2 Max diff = 0.232398
+Itr = 3 Max diff = 0.0287213
+Itr = 4 Max diff = 0.00445782
+Itr = 5 Max diff = 0.00341132
+Itr = 6 Max diff = 0.00417979
+Itr = 7 Max diff = 0.00265704
+Itr = 8 Max diff = 0.00143604
+Itr = 9 Max diff = 0.00134554
+Itr = 10 Max diff = 0.00125305
+Itr = 11 Max diff = 0.00117243
+Itr = 12 Max diff = 0.00112051
+Itr = 13 Max diff = 0.00107997
+Itr = 14 Max diff = 0.00104724
+Itr = 15 Max diff = 0.0010136
+Itr = 16 Max diff = 0.00101534
+Itr = 17 Max diff = 0.000989886
+ done
+[1] 87
+Itr = 1 Max diff = 0.944019
+Itr = 2 Max diff = 0.231396
+Itr = 3 Max diff = 0.0285589
+Itr = 4 Max diff = 0.00447118
+Itr = 5 Max diff = 0.00353321
+Itr = 6 Max diff = 0.00413376
+Itr = 7 Max diff = 0.00252925
+Itr = 8 Max diff = 0.00143197
+Itr = 9 Max diff = 0.00133994
+Itr = 10 Max diff = 0.00124777
+Itr = 11 Max diff = 0.00116803
+Itr = 12 Max diff = 0.00111996
+Itr = 13 Max diff = 0.00107722
+Itr = 14 Max diff = 0.00104528
+Itr = 15 Max diff = 0.00101408
+Itr = 16 Max diff = 0.00101562
+Itr = 17 Max diff = 0.000985437
+ done
+[1] 88
+Itr = 1 Max diff = 0.944042
+Itr = 2 Max diff = 0.230303
+Itr = 3 Max diff = 0.028381
+Itr = 4 Max diff = 0.00448272
+Itr = 5 Max diff = 0.00364867
+Itr = 6 Max diff = 0.00407622
+Itr = 7 Max diff = 0.00240271
+Itr = 8 Max diff = 0.00142875
+Itr = 9 Max diff = 0.0013336
+Itr = 10 Itr = 14 Max diff = 0.00103628
+Itr = 15 Max diff = 0.0010181
+Itr = 16 Max diff = 0.000993877
+ done
+[1] 91
+Itr = 1 Max diff = 0.944363
+Itr = 2 Max diff = 0.225965
+Itr = 3 Max diff = 0.0277637
+Itr = 4 Max diff = 0.00441013
+Itr = 5 Max diff = 0.00407146
+Itr = 6 Max diff = 0.00395817
+Itr = 7 Max diff = 0.00199672
+Itr = 8 Max diff = 0.00141653
+Itr = 9 Max diff = 0.00130473
+Itr = 10 Max diff = 0.00121801
+Itr = 11 Max diff = 0.00115506
+Itr = 12 Max diff = 0.00110544
+Itr = 13 Max diff = 0.00107096
+Itr = 14 Max diff = 0.00103541
+Itr = 15 Max diff = 0.00101492
+Itr = 16 Max diff = 0.000995911
+ done
+[1] 92
+Itr = 1 Max diff = 0.944392
+Itr = 2 Max diff = 0.224428
+Itr = 3 Max diff = 0.0275116
+Itr = 4 Max diff = 0.00441239
+Itr = 5 Max diff = 0.00415616
+Itr = 6 Max diff = 0.00385493
+Itr = 7 Max diff = 0.00186974
+Itr = 8 Max diff = 0.0014116
+Itr = 9 Max diff = 0.0013013
+Itr = 10 Max diff = 0.00121382
+Itr = 11 Max diff = 0.00115315
+Itr = 12 Max diff = 0.0011032r = 7 Max diff = 0.0021554
+Itr = 8 Max diff = 0.00142103
+Itr = 9 Max diff = 0.00131839
+Itr = 10 Max diff = 0.00122894
+Itr = 11 Max diff = 0.00115413
+Itr = 12 Max diff = 0.00111269
+Itr = 13 Max diff = 0.00106524
+Itr = 14 Max diff = 0.00103842
+Itr = 15 Max diff = 0.00101028
+Itr = 16 Max diff = 0.00101047
+Itr = 17 Max diff = 0.000986182
+ done
+[1] 91
+Itr = 1 Max diff = 0.944121
+Itr = 2 Max diff = 0.226395
+Itr = 3 Max diff = 0.0277434
+Itr = 4 Max diff = 0.00450402
+Itr = 5 Max diff = 0.00394593
+Itr = 6 Max diff = 0.00384193
+Itr = 7 Max diff = 0.00203551
+Itr = 8 Max diff = 0.00141644
+Itr = 9 Max diff = 0.00131083
+Itr = 10 Max diff = 0.00122064
+Itr = 11 Max diff = 0.00115222
+Itr = 12 Max diff = 0.00110818
+Itr = 13 Max diff = 0.00106488
+Itr = 14 Max diff = 0.0010386
+Itr = 15 Max diff = 0.0010071
+Itr = 16 Max diff = 0.00100655
+Itr = 17 Max diff = 0.000985454
+ done
+[1] 92
+Itr = 1 Max diff = 0.944152
+Itr = 2 Max diff = 0.224855
+Itr = 3 Max diff = 0.027492
+Itr = 4 Max diff = 0.00450573
+Itr = 5 Max diff = 0.00402545
+Itr = 6 Max diff = 0.00374613
+Itr = 7 Max diff = 0.00191859
+Itr = 8 Max diff = 0.00141127
+Itr = 9 Max diff = 0.00130395
+Itr = 10 Max diff = 0.00121512
+Itr = 11 Max diff = 0.00114946
+Itr = 12 Max diff = 0.00110249
+Itr = 13 Max diff = 0.00106382
+Itr = 14 Max diff = 0.00103797
+Itr = 15 Max diff = 0.0010029
+Itr = 16 Max diff = 0.00100143
+Itr = 17 Max diff = 0.000983811
+ done
+[1] 93
+Itr = 1 Max diff = 0.944186
+Itr = 2 Max diff = 0.22318
+Itr = 3 Max diff = 0.0272192
+Itr = 4 Max diff = 0.00450424
+Itr = 5 Max diff = 0.00409381
+Itr = 6 Max diff = 0.00364305
+Itr = 7 Max diff = 0.0018049
+Itr = 8 Max diff = 0.00140546
+Itr = 9 Max diff = 0.00129958
+Itr = 10 Max diff = 0.00120995
+Itr = 11 Max diff = 0.00114579
+Itr = 12 Max diff = 0.00109558
+Itr = 13 Max diff = 0.00106385
+Itr = 14 Max diff = 0.00103646
+Itr = 15 Max diff = 0.00100218
+Itr = 16 Max diff = 0.000999159
+ done
+[1] 94
+Itr = 1 Max diff = 0.944222
+Itr = 2 Max diff = 0.22136
+Itr = 3 Max diff = 0.0269236
+Itr = 4 Max diff = 0.00449919
+Itr = 5 Max diff = 0.00415037
+Itr = 6 Max diff = 0.00353364
+Itr = 7 Max diff = 0.00169468
+Itr = 8 Max diff = 0.00139896
+Itr = 9 Max diff = 0.00129448
+Itr = 10 Max diff = 0.00120377
+Itr = 11 Max diff = 0.00114114
+Itr = 12 Max diff = 0.00109515
+Itr = 13 Max diff = 0.001063
+Itr = 14 Max diff = 0.00103403
+Itr = 15 Max diff = 0.00100361
+Itr = 16 Max diff = 0.000996318
+ done
+[1] 95
+Itr = 1 Max diff = 0.944262
+Itr = 2 Max diff = 0.219386
+Itr = 3 Max diff = 0.0266041
+Itr = 4 Max diff = 0.00449026
+Itr = 5 Max diff = 0.00419459
+Itr = 6 Max diff = 0.00341889
+Itr = 7 Max diff = 0.00158808
+Itr = 8 Max diff = 0.00139167
+Itr = 9 Max diff = 0.00128856
+Itr = 10 Max diff = 0.00120041
+Itr = 11 Max diff = 0.00113636
+Itr = 12 Max diff = 0.00109498
+Itr = 13 Max diff = 0.0010612
+Itr = 14 Max diff = 0.00103087
+Itr = 15 Max diff = 0.00100413
+Itr = 16 Max diff = 0.000993038
+ done
+[1] 96
+Itr = 1 Max diff = 0.944304
+Itr = 2 Max diff = 0.217246
+Itr = 3 Max diff = 0.0262594
+Itr = 4 Max diff = 0.00447707
+Itr Itr = 14 Max diff = 0.00102805
+Itr = 15 Max diff = 0.00100398
+Itr = 16 Max diff = 0.000993059
+ done
+[1] 99
+Itr = 1 Max diff = 0.94468
+Itr = 2 Max diff = 0.209332
+Itr = 3 Max diff = 0.0250787
+Itr = 4 Max diff = 0.00432143
+Itr = 5 Max diff = 0.00438935
+Itr = 6 Max diff = 0.00296682
+Itr = 7 Max diff = 0.00145713
+Itr = 8 Max diff = 0.00136516
+Itr = 9 Max diff = 0.00126437
+Itr = 10 Max diff = 0.00118167
+Itr = 11 Max diff = 0.00112292
+Itr = 12 Max diff = 0.00108139
+Itr = 13 Max diff = 0.00104447
+Itr = 14 Max diff = 0.00102859
+Itr = 15 Max diff = 0.00100052
+Itr = 16 Max diff = 0.000990872
+ done
+[1] 100
+Itr = 1 Max diff = 0.944735
+Itr = 2 Max diff = 0.206424
+Itr = 3 Max diff = 0.0246224
+Itr = 4 Max diff = 0.00428899
+Itr = 5 Max diff = 0.00436771
+Itr = 6 Max diff = 0.00282818
+Itr = 7 Max diff = 0.00145091
+Itr = 8 Max diff = 0.00135578
+Itr = 9 Max diff = 0.0012558
+Itr = 10 Max diff = 0.00117615
+Itr = 11 Max diff = 0.00111878
+Itr = 12 Max diff = 0.00108107
+Itr = 13 Max diff = 0.0010451
+Itr = 14 Max diff = 0.00102934
+Itr = 15 Max diff = 0.000996012
+ done
+[1] 101
+Itr = 1 Max diff = 0.944793
+I0136444
+Itr = 9 Max diff = 0.00126602
+Itr = 10 Max diff = 0.00118554
+Itr = 11 Max diff = 0.00112736
+Itr = 12 Max diff = 0.00108881
+Itr = 13 Max diff = 0.00105812
+Itr = 14 Max diff = 0.00102202
+Itr = 15 Max diff = 0.00100748
+Itr = 16 Max diff = 0.000997114
+ done
+[1] 99
+Itr = 1 Max diff = 0.944451
+Itr = 2 Max diff = 0.20972
+Itr = 3 Max diff = 0.0250634
+Itr = 4 Max diff = 0.00440844
+Itr = 5 Max diff = 0.00424248
+Itr = 6 Max diff = 0.00292529
+Itr = 7 Max diff = 0.00144525
+Itr = 8 Max diff = 0.0013552
+Itr = 9 Max diff = 0.00126176
+Itr = 10 Max diff = 0.00117875
+Itr = 11 Max diff = 0.00112305
+Itr = 12 Max diff = 0.00108594
+Itr = 13 Max diff = 0.00105593
+Itr = 14 Max diff = 0.00101675
+Itr = 15 Max diff = 0.00101063
+Itr = 16 Max diff = 0.000997085
+ done
+[1] 100
+Itr = 1 Max diff = 0.944508
+Itr = 2 Max diff = 0.206805
+Itr = 3 Max diff = 0.0246076
+Itr = 4 Max diff = 0.00437475
+Itr = 5 Max diff = 0.00422206
+Itr = 6 Max diff = 0.0027976
+Itr = 7 Max diff = 0.00144083
+Itr = 8 Max diff = 0.00135093
+Itr = 9 Max diff = 0.00125823
+Itr = 10 Max diff = 0.00117623
+Itr = 11 Max diff = 0.00111999
+Itr = 12 Max diff = 0.00108292
+Itr = 13 Max diff = 0.00105282
+Itr = 14 Max diff = 0.00101215
+Itr = 15 Max diff = 0.00101307
+Itr = 16 Max diff = 0.000996222
+ done
+[1] 101
+Itr = 1 Max diff = 0.944568
+Itr = 2 Max diff = 0.203668
+Itr = 3 Max diff = 0.024122
+Itr = 4 Max diff = 0.00433512
+Itr = 5 Max diff = 0.00418912
+Itr = 6 Max diff = 0.00266976
+Itr = 7 Max diff = 0.00143661
+Itr = 8 Max diff = 0.00134608
+Itr = 9 Max diff = 0.00125392
+Itr = 10 Max diff = 0.00117283
+Itr = 11 Max diff = 0.00112051
+Itr = 12 Max diff = 0.00108224
+Itr = 13 Max diff = 0.00104872
+Itr = 14 Max diff = 0.00101165
+Itr = 15 Max diff = 0.00101473
+Itr = 16 Max diff = 0.000994473
+ done
+[1] 102
+Itr = 1 Max diff = 0.944633
+Itr = 2 Max diff = 0.200299
+Itr = 3 Max diff = 0.0236061
+Itr = 4 Max diff = 0.00428931
+Itr = 5 Max diff = 0.00414409
+Itr = 6 Max diff = 0.00254241
+Itr = 7 Max diff = 0.00143245
+Itr = 8 Max diff = 0.00134057
+Itr = 9 Max diff = 0.00124874
+Itr = 10 Max diff = 0.00116999
+Itr = 11 Max diff = 0.00112025
+Itr = 12 Max diff = 0.00108076
+Itr = 13 Max diff = 0.00104686
+Itr = 14 Max diff = 0.00101318
+Itr = 15 Max diff = 0.00101556
+Itr = 16 Max diff = 0.000991779
+ done
+[1] 103
+Itr = 1 Max diff = 0.944702
+Itr = 2 Max diff = 0.196688
+Itr = 3 Max diff = 0.0230597
+Itr = 4 Max diff = 0.00423707
+Itr = 5 Max diff = 0.00408755
+Itr = 6 Max diff = 0.00241616
+Itr = 7 Max diff = 0.0014293
+Itr = 8 Max diff = 0.00133433
+Itr = 9 Max diff = 0.00124307
+Itr = 10 Max diff = 0.00116677
+Itr = 11 Max diff = 0.00111912
+Itr = 12 Max diff = 0.00107841
+Itr = 13 Max diff = 0.00104471
+Itr = 14 Max diff = 0.00101399
+Itr = 15 Max diff = 0.00101548
+Itr = 16 Max diff = 0.00098808
+ done
+[1] 104
+Itr = 1 Max diff = 0.944775
+Itr = 2 Max diff = 0.192825
+Itr = 3 Max diff = 0.0224827
+Itr = 4 Max diff = 0.00417824
+Itr = 5 Max diff = 0.00402013
+Itr = 6 Max diff = 0.00229153
+Itr = 7 Max diff = 0.00142575
+Itr = 8 Itr = 8 Max diff = 0.00130156
+Itr = 9 Max diff = 0.00121409
+Itr = 10 Max diff = 0.00115483
+Itr = 11 Max diff = 0.00110479
+Itr = 12 Max diff = 0.00106943
+Itr = 13 Max diff = 0.0010364
+Itr = 14 Max diff = 0.00101345
+Itr = 15 Max diff = 0.000996245
+ done
+[1] 108
+Itr = 1 Max diff = 0.945311
+Itr = 2 Max diff = 0.174413
+Itr = 3 Max diff = 0.0198906
+Itr = 4 Max diff = 0.00441785
+Itr = 5 Max diff = 0.00376065
+Itr = 6 Max diff = 0.00176153
+Itr = 7 Max diff = 0.00140741
+Itr = 8 Max diff = 0.00129826
+Itr = 9 Max diff = 0.00120956
+Itr = 10 Max diff = 0.00115274
+Itr = 11 Max diff = 0.00110395
+Itr = 12 Max diff = 0.00106663
+Itr = 13 Max diff = 0.00103634
+Itr = 14 Max diff = 0.00101034
+Itr = 15 Max diff = 0.000997314
+ done
+[1] 109
+Itr = 1 Max diff = 0.945402
+Itr = 2 Max diff = 0.169221
+Itr = 3 Max diff = 0.019171
+Itr = 4 Max diff = 0.00446294
+Itr = 5 Max diff = 0.00364232
+Itr = 6 Max diff = 0.00164106
+Itr = 7 Max diff = 0.00140136
+Itr = 8 Max diff = 0.00129485
+Itr = 9 Max diff = 0.00120603
+Itr = 10 Max diff = 0.0011497
+Itr = 11 Max diff = 0.00110224
+Itr = 12 Max diff = 0.00106342
+Itr = 13 Max diff = 0.00103691
+Itr = 14 Max diff = 0.
+Itr = 13 Max diff = 0.00103818
+Itr = 14 Max diff = 0.00101153
+Itr = 15 Max diff = 0.00100897
+Itr = 16 Max diff = 0.0009862
+ done
+[1] 107
+Itr = 1 Max diff = 0.94502
+Itr = 2 Max diff = 0.179658
+Itr = 3 Max diff = 0.0205729
+Itr = 4 Max diff = 0.00419252
+Itr = 5 Max diff = 0.00376047
+Itr = 6 Max diff = 0.00193152
+Itr = 7 Max diff = 0.00141218
+Itr = 8 Max diff = 0.00130413
+Itr = 9 Max diff = 0.00121532
+Itr = 10 Max diff = 0.00115166
+Itr = 11 Max diff = 0.00110451
+Itr = 12 Max diff = 0.00106364
+Itr = 13 Max diff = 0.00103862
+Itr = 14 Max diff = 0.00100884
+Itr = 15 Max diff = 0.00100441
+Itr = 16 Max diff = 0.000985436
+ done
+[1] 108
+Itr = 1 Max diff = 0.94511
+Itr = 2 Max diff = 0.174728
+Itr = 3 Max diff = 0.0198798
+Itr = 4 Max diff = 0.00424952
+Itr = 5 Max diff = 0.00365766
+Itr = 6 Max diff = 0.00181724
+Itr = 7 Max diff = 0.00140647
+Itr = 8 Max diff = 0.00129979
+Itr = 9 Max diff = 0.00121015
+Itr = 10 Max diff = 0.00114863
+Itr = 11 Max diff = 0.00109791
+Itr = 12 Max diff = 0.00106394
+Itr = 13 Max diff = 0.00103824
+Itr = 14 Max diff = 0.00100509
+Itr = 15 Max diff = 0.00100034
+Itr = 16 Max diff = 0.000983559
+ done
+[1] 109
+Itr = 1 Max diff = 0.945205
+Itr = 2 Max diff = 0.169526
+Itr = 3 Max diff = 0.0191607
+Itr = 4 Max diff = 0.00429523
+Itr = 5 Max diff = 0.00354825
+Itr = 6 Max diff = 0.00170621
+Itr = 7 Max diff = 0.00140005
+Itr = 8 Max diff = 0.00129469
+Itr = 9 Max diff = 0.00120396
+Itr = 10 Max diff = 0.00114463
+Itr = 11 Max diff = 0.00109512
+Itr = 12 Max diff = 0.00106333
+Itr = 13 Max diff = 0.00103696
+Itr = 14 Max diff = 0.00100394
+Itr = 15 Max diff = 0.000997901
+ done
+[1] 110
+Itr = 1 Max diff = 0.945304
+Itr = 2 Max diff = 0.164056
+Itr = 3 Max diff = 0.0184178
+Itr = 4 Max diff = 0.00432913
+Itr = 5 Max diff = 0.00343319
+Itr = 6 Max diff = 0.00159863
+Itr = 7 Max diff = 0.00139286
+Itr = 8 Max diff = 0.00128877
+Itr = 9 Max diff = 0.00120054
+Itr = 10 Max diff = 0.00113956
+Itr = 11 Max diff = 0.001095
+Itr = 12 Max diff = 0.00106172
+Itr = 13 Max diff = 0.00103469
+Itr = 14 Max diff = 0.00100402
+Itr = 15 Max diff = 0.00099418
+ done
+[1] 111
+Itr = 1 Max diff = 0.945406
+Itr = 2 Max diff = 0.158324
+Itr = 3 Max diff = 0.0176533
+Itr = 4 Max diff = 0.00435076
+Itr = 5 Max diff = 0.00331342
+Itr = 6 Max diff = 0.00149462
+Itr = 7 Max diff = 0.0013848
+Itr = 8 Max diff = 0.00128193
+Itr = 9 Max diff = 0.00119649
+Itr = 10 Max diff = 0.0011346
+Itr = 11 Max diff = 0.00109389
+Itr = 12 Max diff = 0.00105949
+Itr = 13 Max diff = 0.00103134
+Itr = 14 Max diff = 0.00100386
+Itr = 15 Max diff = 0.000992758
+ done
+[1] 112
+Itr = 1 Max diff = 0.945513
+Itr = 2 Max diff = 0.15234
+Itr = 3 Max diff = 0.0168699
+Itr = 4 Max diff = 0.00435985
+Itr = 5 Max diff = 0.00318985
+Itr = 6 Max diff = 0.00146016
+Itr = 7 Max diff = 0.0013758
+Itr = 8 Max diff = 0.00127409
+Itr = 9 Max diff = 0.00119145
+Itr = 10 Max diff = 0.00113252
+Itr = 11 Max diff = 0.00109169
+Itr = 12 Max diff = 0.00105997
+Itr = 13 Max diff = 0.00102681
+Itr = 14 Max diff = 0.00100377
+Itr = 15 Max diff = 0.00099415
+ done
+[1] 113
+Itr = 7 Max diff = 0.00135053
+Itr = 8 Max diff = 0.00124737
+Itr = 9 Max diff = 0.00117327
+Itr = 10 Max diff = 0.00111457
+Itr = 11 Max diff = 0.00108084
+Itr = 12 Max diff = 0.0010452
+Itr = 13 Max diff = 0.00102866
+Itr = 14 Max diff = 0.000993292
+ done
+[1] 117
+Itr = 1 Max diff = 0.94624
+Itr = 2 Max diff = 0.119067
+Itr = 3 Max diff = 0.0127879
+Itr = 4 Max diff = 0.00435759
+Itr = 5 Max diff = 0.00255063
+Itr = 6 Max diff = 0.00144307
+Itr = 7 Max diff = 0.00134279
+Itr = 8 Max diff = 0.00123788
+Itr = 9 Max diff = 0.00117069
+Itr = 10 Max diff = 0.00111494
+Itr = 11 Max diff = 0.00108023
+Itr = 12 Max diff = 0.00104415
+Itr = 13 Max diff = 0.00102656
+Itr = 14 Max diff = 0.000990558
+ done
+[1] 118
+Itr = 1 Max diff = 0.946354
+Itr = 2 Max diff = 0.112024
+Itr = 3 Max diff = 0.0119612
+Itr = 4 Max diff = 0.00428615
+Itr = 5 Max diff = 0.00240948
+Itr = 6 Max diff = 0.00143842
+Itr = 7 Max diff = 0.00133408
+Itr = 8 Max diff = 0.0012304
+Itr = 9 Max diff = 0.00116714
+Itr = 10 Max diff = 0.00111482
+Itr = 11 Max diff = 0.00107849
+Itr = 12 Max diff = 0.00104189
+Itr = 13 Max diff = 0.00102295
+Itr = 14 Max diff = 0.0009885 Max diff = 0.00135115
+Itr = 8 Max diff = 0.00125748
+Itr = 9 Max diff = 0.00117593
+Itr = 10 Max diff = 0.00112002
+Itr = 11 Max diff = 0.00108298
+Itr = 12 Max diff = 0.00105572
+Itr = 13 Max diff = 0.00101393
+Itr = 14 Max diff = 0.00101327
+Itr = 15 Max diff = 0.000997084
+ done
+[1] 116
+Itr = 1 Max diff = 0.945968
+Itr = 2 Max diff = 0.126234
+Itr = 3 Max diff = 0.0136114
+Itr = 4 Max diff = 0.00426923
+Itr = 5 Max diff = 0.0026749
+Itr = 6 Max diff = 0.00143772
+Itr = 7 Max diff = 0.00134619
+Itr = 8 Max diff = 0.00125276
+Itr = 9 Max diff = 0.00117261
+Itr = 10 Max diff = 0.00112058
+Itr = 11 Max diff = 0.00108292
+Itr = 12 Max diff = 0.001052
+Itr = 13 Max diff = 0.00100987
+Itr = 14 Max diff = 0.00101502
+Itr = 15 Max diff = 0.000995967
+ done
+[1] 117
+Itr = 1 Max diff = 0.946087
+Itr = 2 Max diff = 0.119286
+Itr = 3 Max diff = 0.0127833
+Itr = 4 Max diff = 0.00421569
+Itr = 5 Max diff = 0.00254489
+Itr = 6 Max diff = 0.00143414
+Itr = 7 Max diff = 0.00134053
+Itr = 8 Max diff = 0.0012478
+Itr = 9 Max diff = 0.00117007
+Itr = 10 Max diff = 0.00112026
+Itr = 11 Max diff = 0.00108189
+Itr = 12 Max diff = 0.00104744
+Itr = 13 Max diff = 0.0010122
+Itr = 14 Max diff = 0.00101566
+Itr = 15 Max diff = 0.000993559
+ done
+[1] 118
+Itr = 1 Max diff = 0.946208
+Itr = 2 Max diff = 0.112232
+Itr = 3 Max diff = 0.0119575
+Itr = 4 Max diff = 0.0041506
+Itr = 5 Max diff = 0.00241572
+Itr = 6 Max diff = 0.00143099
+Itr = 7 Max diff = 0.00133407
+Itr = 8 Max diff = 0.00124226
+Itr = 9 Max diff = 0.00116646
+Itr = 10 Max diff = 0.00111894
+Itr = 11 Max diff = 0.00107975
+Itr = 12 Max diff = 0.00104544
+Itr = 13 Max diff = 0.00101366
+Itr = 14 Max diff = 0.00101504
+Itr = 15 Max diff = 0.000989688
+ done
+[1] 119
+Itr = 1 Max diff = 0.946329
+Itr = 2 Max diff = 0.105108
+Itr = 3 Max diff = 0.0111377
+Itr = 4 Max diff = 0.00407457
+Itr = 5 Max diff = 0.00228798
+Itr = 6 Max diff = 0.00142741
+Itr = 7 Max diff = 0.00132674
+Itr = 8 Max diff = 0.00123561
+Itr = 9 Max diff = 0.00116166
+Itr = 10 Max diff = 0.00111649
+Itr = 11 Max diff = 0.00107635
+Itr = 12 Max diff = 0.00104219
+Itr = 13 Max diff = 0.00101412
+Itr = 14 Max diff = 0.00101299
+Itr = 15 Max diff = 0.000986091
+ done
+[1] 120
+Itr = 1 Max diff = 0.94645
+Itr = 2 Max diff = 0.0979557
+Itr = 3 Max diff = 0.0103278
+Itr = 4 Max diff = 0.00398832
+Itr = 5 Max diff = 0.00216217
+Itr = 6 Max diff = 0.00142333
+Itr = 7 Max diff = 0.00131881
+Itr = 8 Max diff = 0.00122773
+Itr = 9 Max diff = 0.00115555
+Itr = 10 Max diff = 0.00111281
+Itr = 11 Max diff = 0.00107156
+Itr = 12 Max diff = 0.00103758
+Itr = 13 Max diff = 0.00101344
+Itr = 14 Max diff = 0.00100935
+Itr = 15 Max diff = 0.000985991
+ done
+[1] 121
+Itr = 1 Max diff = 0.94657
+Itr = 2 Max diff = 0.0908153
+Itr = 3 Max diff = 0.0095313
+Itr = 4 Max diff = 0.00389267
+Itr = 5 Max diff = 0.00203873
+Itr = 6 Max diff = 0.00141869
+Itr = 7 Max diff = 0.00131109
+Itr = 8 Max diff = 0.00121874
+Itr = 9 Max diff = 0.00115377
+Itr = 10 Max diff = 0.00110776
+Itr = 11 Max diff = 0.00106519
+Itr = 12 Max diff = 0.00103827
+Itr = 13 Max diff = 0.00101146
+Itr = 14 Max diff = 0.00100391
+Itr = 15 Max diff = 0.000984222
+ done
+[1] 122
+Itr = 1 Max diItr = 2 Max diff = 0.0582775
+Itr = 3 Max diff = 0.00585302
+Itr = 4 Max diff = 0.00336774
+Itr = 5 Max diff = 0.00148913
+Itr = 6 Max diff = 0.00139019
+Itr = 7 Max diff = 0.00128481
+Itr = 8 Max diff = 0.00119474
+Itr = 9 Max diff = 0.00113564
+Itr = 10 Max diff = 0.00109168
+Itr = 11 Max diff = 0.00105859
+Itr = 12 Max diff = 0.00102798
+Itr = 13 Max diff = 0.00100675
+Itr = 14 Max diff = 0.000993721
+ done
+[1] 127
+Itr = 1 Max diff = 0.947336
+Itr = 2 Max diff = 0.0527138
+Itr = 3 Max diff = 0.00548349
+Itr = 4 Max diff = 0.00322451
+Itr = 5 Max diff = 0.00148027
+Itr = 6 Max diff = 0.00138156
+Itr = 7 Max diff = 0.00127826
+Itr = 8 Max diff = 0.00118953
+Itr = 9 Max diff = 0.00112685
+Itr = 10 Max diff = 0.00108533
+Itr = 11 Max diff = 0.00105393
+Itr = 12 Max diff = 0.00102938
+Itr = 13 Max diff = 0.00100305
+Itr = 14 Max diff = 0.000991094
+ done
+[1] 128
+Itr = 1 Max diff = 0.947433
+Itr = 2 Max diff = 0.0474222
+Itr = 3 Max diff = 0.00531395
+Itr = 4 Max diff = 0.00307853
+Itr = 5 Max diff = 0.00147041
+Itr = 6 Max dife
+[1] 131
+Itr = 1 Max diff = 0.947528
+Itr = 2 Max diff = 0.0321886
+Itr = 3 Max diff = 0.00462796
+Itr = 4 Max diff = 0.00262972
+Itr = 5 Max diff = 0.00144625
+Itr = 6 Max diff = 0.0013522
+Itr = 7 Max diff = 0.00124101
+Itr = 8 Max diff = 0.00116602
+Itr = 9 Max diff = 0.00111898
+Itr = 10 Max diff = 0.00106137
+Itr = 11 Max diff = 0.00104678
+Itr = 12 Max diff = 0.00101866
+Itr = 13 Max diff = 0.000998928
+ done
+[1] 132
+Itr = 1 Max diff = 0.947613
+Itr = 2 Max diff = 0.0282978
+Itr = 3 Max diff = 0.00446917
+Itr = 4 Max diff = 0.00250822
+Itr = 5 Max diff = 0.00143996
+Itr = 6 Max diff = 0.00134547
+Itr = 7 Max diff = 0.00123466
+Itr = 8 Max diff = 0.00116384
+Itr = 9 Max diff = 0.00111914
+Itr = 10 Max diff = 0.00105893
+Itr = 11 Max diff = 0.00104126
+Itr = 12 Max diff = 0.00101478
+Itr = 13 Max diff = 0.000999727
+ done
+[1] 133
+Itr = 1 Max diff = 0.947702
+Itr = 2 Max diff = 0.0247227
+Itr = 3 Max diff = 0.00431206
+Itr = 4 Max diff = 0.00238763
+Itr = 5 Max diff = 0.00143275
+Itr = 6 Max diff = 0.00133778
+Itr = 7 Max diff = 0.00123175
+Itr = 8 Max diff = 0.00116164
+Itr = 9 Max diff = 0.00111788
+Itr = 10 Max diff = 0.00105939
+Itr = 11 Max diff = 0.0010391
+Itr = 12 Max diff = 0.00101265
+Itr = 13 Max diff = 0.000998549
+ done
+[1] 134
+Itr = 1 Max diff = 0.947788
+Itr = 2 Max diff = 0.0214604
+Itr = 3 Max diff = 0.00415637
+Itr = 4 Max diff = 0.00226847
+Itr = 5 Max diff = 0.00142451
+Itr = 6 Max diff = 0.00132901
+Itr = 7 Max diff = 0.00122813
+Itr = 8 Max diff = 0.00115812
+Itr = 9 Max diff = 0.001115
+Itr = 10 Max diff = 0.00105829
+Itr = 11 Max diff = 0.0010351
+Itr = 12 Max diff = 0.00100914
+Itr = 13 Max diff = 0.000995064
+ done
+[1] 135
+Itr = 1 Max diff = 0.94787
+Itr = 2 Max diff = 0.0185037
+Itr = 3 Max diff = 0.00400191
+Itr = 4 Max diff = 0.00215117
+Itr = 5 Max diff = 0.00141516
+Itr = 6 Max diff = 0.00131904
+Itr = 7 Max diff = 0.00122345
+Itr = 8 Max diff = 0.00115304
+Itr = 9 Max diff = 0.00111025
+Itr = 10 Max diff = 0.00105539
+Itr = 11 Max diff = 0.001029
+Itr = 12 Max diff = 0.0010095
+Itr = 13 Max diff = 0.000992499
+ done
+[1] 136
+Itr = 1 Max diff = 0.947962
+Itr = 2 Max diff = 0.0158422
+Itr = 3 Max diff = 0.00384849
+Itr = 4 Max diff = 0.00203614
+Itr = 5 Max diff = 0.00140558
+Itr = 6 Max diff = 0.00131012
+Itr = 7 Max diff = 0.00121757
+Itr = 8 Max diff = 0.0011462
+Itr = 9 Max diff = 0.00110337
+Itr = 10 Max diff = 0.00105401
+Itr = 11 Max diff = 0.00102427
+Itr = 12 Max diff = 0.00101103
+Itr = 13 Max diff = 0.000993696
+ done
+[1] 137
+Itr = 1 Max diff = 0.948057
+Itr = 2 Max diff = 0.0134627
+Itr = 3 Max diff = 0.00369602
+Itr = 4 Max diff = 0.00192368
+Itr = 5 Max diff = 0.0013965
+Itr = 6 Max diff = 0.00130379
+Itr = 7 Max diff = 0.00121032
+Itr = 8 Max diff = 0.0011403
+Itr = 9 Max diff = 0.00109407
+Itr = 10 Max diff = 0.0010557
+Itr = 11 Max diff = 0.00102021
+Itr = 12 Max diff = 0.00101094
+Itr = 13 Max diff = 0.000992488
+ done
+[1] 138
+Itr = 1 MaItr = 7 Max diff = 0.00121483
+Itr = 8 Max diff = 0.0011542
+Itr = 9 Max diff = 0.00110248
+Itr = 10 Max diff = 0.00106355
+Itr = 11 Max diff = 0.00103024
+Itr = 12 Max diff = 0.00100864
+Itr = 13 Max diff = 0.000997344
+ done
+[1] 136
+Itr = 1 Max diff = 0.948105
+Itr = 2 Max diff = 0.0164002
+Itr = 3 Max diff = 0.00401981
+Itr = 4 Max diff = 0.0019206
+Itr = 5 Max diff = 0.00142186
+Itr = 6 Max diff = 0.00130248
+Itr = 7 Max diff = 0.00121098
+Itr = 8 Max diff = 0.00115056
+Itr = 9 Max diff = 0.00109934
+Itr = 10 Max diff = 0.0010632
+Itr = 11 Max diff = 0.00102619
+Itr = 12 Max diff = 0.00100849
+Itr = 13 Max diff = 0.000995174
+ done
+[1] 137
+Itr = 1 Max diff = 0.948176
+Itr = 2 Max diff = 0.0139318
+Itr = 3 Max diff = 0.00386215
+Itr = 4 Max diff = 0.00178766
+Itr = 5 Max diff = 0.0014149
+Itr = 6 Max diff = 0.00129626
+Itr = 7 Max diff = 0.00120735
+Itr = 8 Max diff = 0.00114508
+Itr = 9 Max diff = 0.00109517
+Itr = 10 Max diff = 0.00106095
+Itr = 11 Max diff = 0.00102647
+Itr = 12 Max diff = 0.0010059
+Itr = 13 Max diff = 0.000993057
+ done
+[1] 138
+Itr = 1 Max diff = 0.948244
+Itr = 2 Max diff = 0.0117404
+Itr = 3 Max diff = 0.00370501
+Itr = 4 Max diff = 0.00166195
+Itr = 5 Max diff = 0.00140697
+Itr = 6 Max diff = 0.00129083
+Itr = 7 Max diff = 0.00120253
+Itr diff = 0.00643413
+Itr = 3 Max diff = 0.00309475
+Itr = 4 Max diff = 0.00150384
+Itr = 5 Max diff = 0.00137323
+Itr = 6 Max diff = 0.00127537
+Itr = 7 Max diff = 0.00118279
+Itr = 8 Max diff = 0.00112692
+Itr = 9 Max diff = 0.00107048
+Itr = 10 Max diff = 0.00105437
+Itr = 11 Max diff = 0.00102031
+Itr = 12 Max diff = 0.00099884
+ done
+[1] 142
+Itr = 1 Max diff = 0.948541
+Itr = 2 Max diff = 0.00623583
+Itr = 3 Max diff = 0.00294679
+Itr = 4 Max diff = 0.00144202
+Itr = 5 Max diff = 0.00136518
+Itr = 6 Max diff = 0.00126489
+Itr = 7 Max diff = 0.00117776
+Itr = 8 Max diff = 0.0011204
+Itr = 9 Max diff = 0.00106761
+Itr = 10 Max diff = 0.00104868
+Itr = 11 Max diff = 0.00101766
+Itr = 12 Max diff = 0.000998897
+ done
+[1] 143
+Itr = 1 Max diff = 0.948632
+Itr = 2 Max diff = 0.00687038
+Itr = 3 Max diff = 0.00281753
+Itr = 4 Max diff = 0.00143402
+Itr = 5 Max diff = 0.00135589
+Itr = 6 Max diff = 0.00125253
+Itr = 7 Max diff = 0.00117174
+Itr = 8 Max diff = 0.00111748
+Itr = 9 Max diff = 0.00106305
+Itr = 10 Max diff = 0.00104054
+Itr = 11 Max diff = 0.00101205
+Itr = 12 Max diff = 0.000995362
+ done
+[1] 144
+Itr = 1 Max diff = 0.94876
+Itr = 2 Max diff = 0.00744195
+Itr = 3 Max diff = 0.00269189
+Itr = 4 Max diff = 0.00142587
+Itr = 5 Max diff = 0.001348
+Itr = 6 Max diff = 0.00123801
+Itr = 7 Max diff = 0.00116408
+Itr = 8 Max diff = 0.00111508
+Itr = 9 Max diff = 0.00105721
+Itr = 10 Max diff = 0.00103679
+Itr = 11 Max diff = 0.00100745
+Itr = 12 Max diff = 0.0009931
+ done
+[1] 145
+Itr = 1 Max diff = 0.948878
+Itr = 2 Max diff = 0.00795875
+Itr = 3 Max diff = 0.0025669
+Itr = 4 Max diff = 0.00141679
+Itr = 5 Max diff = 0.00133964
+Itr = 6 Max diff = 0.00122946
+Itr = 7 Max diff = 0.00115968
+Itr = 8 Max diff = 0.00110993
+Itr = 9 Max diff = 0.00105388
+Itr = 10 Max diff = 0.00102958
+Itr = 11 Max diff = 0.00100877
+Itr = 12 Max diff = 0.000992828
+ done
+[1] 146
+Itr = 1 Max diff = 0.949012
+Itr = 2 Max diff = 0.00842797
+Itr = 3 Max diff = 0.00244266
+Itr = 4 Max diff = 0.00140662
+Itr = 5 Max diff = 0.0013298
+Itr = 6 Max diff = 0.00122447
+Itr = 7 Max diff = 0.00115319
+Itr = 8 Max diff = 0.00110135
+Itr = 9 Max diff = 0.00105282
+Itr = 10 Max diff = 0.00102329
+Itr = 11 Max diff = 0.00101086
+Itr = 12 Max diff = 0.000991757
+ done
+[1] 147
+Itr = 1 Max diff = 0.94914
+Itr = 2 Max diff = 0.00885571
+Itr = 3 Max diff = 0.00268054
+Itr = 4 Max diff = 0.00139517
+Itr = 5 Max diff = 0.00131819
+Itr = 6 Max diff = 0.00121812
+Itr = 7 Max diff = 0.00114407
+Itr = 8 Max diff = 0.00109249
+Itr = 9 Max diff = 0.00105481
+Itr = 10 Max diff = 0.0010199
+Itr = 11 Max diff = 0.00100954
+Itr = 12 Max diff = 0.000987158
+ done
+[1] 148
+Itr = 1 Max diff = 0.949251
+Itr = 2 Max diff = 0.00924698
+Itr = 3 Max diff = 0.00292258
+Itr = 4 Max diff = 0.00138222
+Itr = 5 Max dItr = 10 Max diff = 0.00103282
+Itr = 11 Max diff = 0.00100734
+Itr = 12 Max diff = 0.000994112
+ done
+[1] 146
+Itr = 1 Max diff = 0.949084
+Itr = 2 Max diff = 0.00893122
+Itr = 3 Max diff = 0.00253914
+Itr = 4 Max diff = 0.00140862
+Itr = 5 Max diff = 0.00131732
+Itr = 6 Max diff = 0.00121892
+Itr = 7 Max diff = 0.0011539
+Itr = 8 Max diff = 0.0010943
+Itr = 9 Max diff = 0.00106004
+Itr = 10 Max diff = 0.00102911
+Itr = 11 Max diff = 0.00100213
+Itr = 12 Max diff = 0.000990116
+ done
+[1] 147
+Itr = 1 Max diff = 0.949191
+Itr = 2 Max diff = 0.0093748
+Itr = 3 Max diff = 0.00279136
+Itr = 4 Max diff = 0.001398
+Itr = 5 Max diff = 0.00130118
+Itr = 6 Max diff = 0.0012099
+Itr = 7 Max diff = 0.00114282
+Itr = 8 Max diff = 0.00108857
+Itr = 9 Max diff = 0.00105367
+Itr = 10 Max diff = 0.00102638
+Itr = 11 Max diff = 0.000996141
+ done
+[1] 148
+Itr = 1 Max diff = 0.949288
+Itr = 2 Max diff = 0.00977994
+Itr = 3 Max diff = 0.00304558
+Itr = 4 Max diff = 0.0013862
+Itr = 5 Max diff = 0.00129115
+Itr = 6 Max diff = 0.00120394
+Itr = 7 Max diff = 0.00113352
+Itr = 8 Max diff = 0.00107934
+Itr = 9 Max diff = 0.00104376
+Itr = 10 Max diff = 0.00102792
+Itr = 11 Max diff = 0.000989463
+ done
+[1] 149
+Itr = 1 Max diff = 0.949381
+Itr = 2 Max diff = 0.0101509
+Itr = 3 Max diff = 0.00330379
+Itr = 4 Max diff = 0.00137331
+Itr = 5 Max diff = 0.00128468
+Itr = 6 Max diff = 0.00119752
+Itr = 7 Max diff = 0.00112732
+Itr = 8 Maff = 0.0101529
+Itr = 3 Max diff = 0.00346237
+Itr = 4 Max diff = 0.00137606
+Itr = 5 Max diff = 0.00127062
+Itr = 6 Max diff = 0.00118934
+Itr = 7 Max diff = 0.00112315
+Itr = 8 Max diff = 0.00107496
+Itr = 9 Max diff = 0.0010415
+Itr = 10 Max diff = 0.00101168
+Itr = 11 Max diff = 0.00100077
+Itr = 12 Max diff = 0.000969519
+ done
+[1] 151
+Itr = 1 Max diff = 0.949586
+Itr = 2 Max diff = 0.0104575
+Itr = 3 Max diff = 0.00372808
+Itr = 4 Max diff = 0.00135881
+Itr = 5 Max diff = 0.00125811
+Itr = 6 Max diff = 0.00118054
+Itr = 7 Max diff = 0.00111395
+Itr = 8 Max diff = 0.00106742
+Itr = 9 Max diff = 0.00103031
+Itr = 10 Max diff = 0.00100337
+Itr = 11 Max diff = 0.000994406
+ done
+[1] 152
+Itr = 1 Max diff = 0.949645
+Itr = 2 Max diff = 0.0107346
+Itr = 3 Max diff = 0.00400412
+Itr = 4 Max diff = 0.00133907
+Itr = 5 Max diff = 0.00124382
+Itr = 6 Max diff = 0.00116827
+Itr = 7 Max diff = 0.00110712
+Itr = 8 Max diff = 0.0010598
+Itr = 9 Max diff = 0.00102386
+Itr = 10 Max diff = 0.000999247
+ done
+[1] 153
+Itr = 1 Max diff = 0.949696
+Itr = 2 Max diff = 0.0109842
+Itr = 3 Max diff = 0.00429252
+Itr = 4 Max diff = 0.00131749
+Itr = 5 Max diff = 0.00122729
+Itr = 6 Max diff = 0.00115903
+Itr = 7 Max diff = 0.00109798
+Itr = 8 Max diff = 0.00105078
+Itr = 9 Max diff = 0.00101768
+Itr = 10 Max diff = 0.000998229
+ done
+[1] 154
+Itr = 1 Max diff = 0.94974
+Itr = 2 Max diff = 0.011205
+Itr = 3 Max diff = 0.00459525
+Itr = 4 Max diff = 0.00129903
+Itr = 5 Max diff = 0.00121792
+Itr = 6 Max diff = 0.00114533
+Itr = 7 Max diff = 0.00108682
+Itr = 8 Max diff = 0.00104842
+Itr = 9 Max diff = 0.00101718
+Itr = 10 Max diff = 0.00100241
+Itr = 11 Max diff = 0.000969037
+ done
+[1] 155
+Itr = 1 Max diff = 0.949777
+Itr = 2 Max diff = 0.0113953
+Itr = 3 Max diff = 0.00491414
+Itr = 4 Max diff = 0.00135466
+Itr = 5 Max diff = 0.00120459
+Itr = 6 Max diff = 0.00113392
+Itr = 7 Max diff = 0.00107522
+Itr = 8 Max diff = 0.00103834
+Itr = 9 Max diff = 0.00100773
+Itr = 10 Max diff = 0.000995161
+ done
+[1] 156
+Itr = 1 Max diff = 0.949809
+Itr = 2 Max diff = 0.0115526
+Itr = 3 Max diff = 0.00525084
+Itr = 4 Max diff = 0.00146664
+Itr = 5 Max diff = 0.00118601
+Itr = 6 Max diff = 0.00111975
+Itr = 7 Max diff = 0.00106708
+Itr = 8 Max diff = 0.00102727
+Itr = 9 Max diff = 0.000998376
+ done
+[1] 157
+Itr = 1 Max diff = 0.949836
+Itr = 2 Max diff = 0.0116738
+Itr = 3 Max diff = 0.00560669
+Itr = 4 Max diff = 0.00158565
+Itr = 5 Max diff = 0.00116561
+Itr = 6 Max diff = 0.00110424
+Itr = 7 MaxItr = 2 Max diff = 0.0120391
+Itr = 3 Max diff = 0.005759
+Itr = 4 Max diff = 0.00166156
+Itr = 5 Max diff = 0.00116638
+Itr = 6 Max diff = 0.00110647
+Itr = 7 Max diff = 0.00105314
+Itr = 8 Max diff = 0.0010202
+Itr = 9 Max diff = 0.000989713
+ done
+[1] 158
+Itr = 1 Max diff = 0.949838
+Itr = 2 Max diff = 0.0121219
+Itr = 3 Max diff = 0.00614224
+Itr = 4 Max diff = 0.00179153
+Itr = 5 Max diff = 0.00115172
+Itr = 6 Max diff = 0.00108918
+Itr = 7 Max diff = 0.00103789
+Itr = 8 Max diff = 0.00101249
+Itr = 9 Max diff = 0.000981887
+ done
+[1] 159
+Itr = 1 Max diff = 0.94986
+Itr = 2 Max diff = 0.0121606
+Itr = 3 Max diff = 0.00654649
+Itr = 4 Max diff = 0.00193023
+Itr = 5 Max diff = 0.00113731
+Itr = 6 Max diff = 0.00107408
+Itr = 7 Max diff = 0.00102841
+Itr = 8 Max diff = 0.000997216
+ done
+[1] 160
+Itr = 1 Max diff = 0.949879
+Itr = 2 Max diff = 0.0121518
+Itr = 3 Max diff = 0.00697165
+Itr = 4 Max diff = 0.00207832
+Itr = 5 Max diff = 0.00111285
+Itr = 6 Max diff = 0.00105535
+Itr = 7 Max diff = 0.00101217
+Itr = 8 Max diff = 0.000984706
+ done
+[1] 161
+Itr = 1 Max diff = 0.949896
+Itr = 2 Max diff = 0.0120917
+Itr = 3 Max diff = 0.00741676
+Itr = 4 Max diff = 0.00223643
+Itr = 5 Max diff = 0.00109296
+Itr = 6 Max diff = 0.00103408
+Itr = 7 Max diff = 0.000998524
+ done
+[1] 162
+Itr = 1 Max diff = 0.94991
+Itr = 2 Max diff = 0.0119773
+Itr = 3 Max diff = 0.00787981
+Itr = 4 Max diff = 0.00240512
+Itr = 5 Max diff = 0.00107102
+Itr = 6 Max diff = 0.00102038
+Itr = 7 Max diff = 0.000981272
+ done
+[1] 163
+Itr = 1 Max diff = 0.949921
+Itr = 2 Max diff = 0.0118062
+Itr = 3 Max diff = 0.00835748
+Itr = 4 Max diff = 0.00258765
+Itr = 5 Max diff = 0.00104948
+Itr = 6 Max diff = 0.000998451
+ done
+[1] 164x diff = 0.00102785
+Itr = 6 Max diff = 0.000978932
+ done
+[1] 165
+Itr = 1 Max diff = 0.949949
+Itr = 2 Max diff = 0.0109418
+Itr = 3 Max diff = 0.00910607
+Itr = 4 Max diff = 0.00306762
+Itr = 5 Max diff = 0.00113421
+Itr = 6 Max diff = 0.0009502
+ done
+[1] 166
+Itr = 1 Max diff = 0.949955
+Itr = 2 Max diff = 0.010603
+Itr = 3 Max diff = 0.00957662
+Itr = 4 Max diff = 0.00338326
+Itr = 5 Max diff = 0.00129509
+Itr = 6 Max diff = 0.000935819
+ done
+[1] 167
+Itr = 1 Max diff = 0.94996
+Itr = 2 Max diff = 0.0102095
+Itr = 3 Max diff = 0.0100291
+Itr = 4 Max diff = 0.00373773
+Itr = 5 Max diff = 0.00147376
+Itr = 6 Max diff = 0.000973305
+ done
+[1] 168
+Itr = 1 Max diff = 0.949965
+Itr = 2 Max diff = 0.00976478
+Itr = 3 Max diff = 0.0104503
+Itr = 4 Max diff = 0.00413594
+Itr = 5 Max diff = 0.0016895
+Itr = 6 Max diff = 0.00113162
+Itr = 7 Max diff = 0.000867141
+ done
+[1] 169
+Itr = 1 Max diff = 0.949969
+Itr = 2 Max diff = 0.00927369
+Itr = 3 Max diff = 0.0108247
+Itr = 4 Max diff = 0.00458303
+Itr = 5 Max diff = 0.00192958
+Itr = 6 Max diff = 0.00129358
+Itr = 7 Max diff = 0.00099079
+ done
+[1] 170
+Itr = 1 Max diff = 0.949972
+Itr = 2 Max diff = 0.00874226
+Itr = 3 Max diff = 0.0111347
+Itr = 4 Max diff = 0.00508396
+Itr = 5 Max diff = 0.0021907
+Itr = 6 Max diff = 0.00148494
+Itr = 7 Max diff = 0.00115212
+Itr = 8 Max diff = 0.0009542
+ done
+[1] 171
+Itr = 1 Max diff = 0.949975
+Itr = 2 Max diff = 0.00817758
+Itr = 3 Max diff = 0.0113614
+Itr = 4 Max diff = 0.005643
+Itr = 5 Max diff = 0.00248116
+Itr = 6 Max diff = 0.00170449
+Itr = 7 Max diff = 0.00135559
+Itr = 8 Max diff = 0.00115408
+Itr = 9 Max diff = 0.000998582
+ done
+[1] 172
+Itr = 1 Max diff = 0.949977
+Itr = 2 Max diff = 0.0075876
+Itr = 3 Max diff = 0.0114848
+Itr = 4 Max diff = 0.00626269
+Itr = 5 Max diff = 0.00279722
+Itr = 6 Max diff = 0.00194469
+Itr = 7 Max diff = 0.00155205
+Itr = 8 Max diff = 0.00135505
+Itr = 9 Max diff = 0.00121436
+Itr = 10 Max diff = 0.0011349
+Itr = 11 Max diff = 0.00096156
+ done
+[1] 173
+Itr = 1 Max diff = 0.949979
+Itr = 2 Max diff = 0.00698081
+Itr = 3 Max diff = 0.0114858
+Itr = 4 Max diff = 0.00694238
+Itr = 5 Max diff = 0.00316009
+Itr = 6 Max diff = 0.00222021
+Itr = 7 Max diff = 0.00179669
+Itr = 8 Max diff = 0.00156089
+Itr = 9 Max diff = 0.00141891
+Itr = 10 Max diff = 0.00134253
+Itr = 11 MaxItr = 4 Max diff = 0.00701082
+Itr = 5 Max diff = 0.0031643
+Itr = 6 Max diff = 0.00222217
+Itr = 7 Max diff = 0.00178993
+Itr = 8 Max diff = 0.00156428
+Itr = 9 Max diff = 0.00141886
+Itr = 10 Max diff = 0.00133912
+Itr = 11 Max diff = 0.00125146
+Itr = 12 Max diff = 0.00126129
+Itr = 13 Max diff = 0.00122667
+Itr = 14 Max diff = 0.00121088
+Itr = 15 Max diff = 0.00107289
+Itr = 16 Max diff = 0.00110373
+Itr = 17 Max diff = 0.0010481
+Itr = 18 Max diff = 0.000991057
+ done
+[1] 174
+Itr = 1 Max diff = 0.94998
+Itr = 2 Max diff = 0.00660309
+Itr = 3 Max diff = 0.0117411
+Itr = 4 Max diff = 0.00775364
+Itr = 5 Max diff = 0.00354754
+Itr = 6 Max diff = 0.00252823
+Itr = 7 Max diff = 0.00205661
+Itr = 8 Max diff = 0.00179644
+Itr = 9 Max diff = 0.00161533
+Itr = 10 Max diff = 0.00156193
+Itr = 11 Max diff = 0.00142067
+Itr = 12 Max diff = 0.00138514
+Itr = 13 Max diff = 0.00142309
+Itr = 14 Max diff = 0.00138043
+Itr = 15 Max diff = 0.00127729
+Itr = 16 Max diff = 0.00142169
+Itr = 17 Max diff = 0.00128164
+Itr = 18 Max diff = 0.000926828
+ done
+[1] 175
+Itr = 1 Max diff = 0.949981
+Itr = 2 Max diff = 0.00597287
+Itr = 3 Max diff = 0.011466
+Itr = 4 Max diff = 0.00854205
+Itr = 5 Max diff = 0.00394292
+Itr = 6 Max diff = 0.00286308
+Itr = 7 Max diff = 0.00235234
+Itr = 8 Max diff = 0.00205028
+Itr = 9 Max diff = 0.00191193
+Itr = 10 Max diff = 0.00180001
+Itr = 11 Max diff = 0.00176862
+Itr = 12 Max diff = 0.00167075
+Itr = 13 Max diff = 0.00167003
+Itr = 14 Max diff = 0.00153682
+Itr = 15 Max diff = 0.00133753
+Itr = 16 Max diff = 0.00158078
+Itr = 17 Max diff = 0.00153434
+Itr = 18 Max diff = 0.00159679
+Itr = 19 Max diff = 0.00146598
+Itr = 20 Max diff = 0.00104973
+Itr = 21 Max diff = 0.000613094
+ done
+[1] 176
+Itr = 1 Max diff = 0.949983
+Itr = 2 Max diff = 0.00535172
+Itr = 3 Max diff = 0.011027
+Itr = 4 Max diff = 0.00935287
+Itr = 5 Max diff = 0.00448512
+Itr = 6r = 1 Max diff = 0.949985
+Itr = 2 Max diff = 0.00456012
+Itr = 3 Max diff = 0.0099914
+Itr = 4 Max diff = 0.00999977
+Itr = 5 Max diff = 0.00498454
+Itr = 6 Max diff = 0.00363977
+Itr = 7 Max diff = 0.00304175
+Itr = 8 Max diff = 0.00262742
+Itr = 9 Max diff = 0.00254281
+Itr = 10 Max diff = 0.00243191
+Itr = 11 Max diff = 0.0023035
+Itr = 12 Max diff = 0.0021302
+Itr = 13 Max diff = 0.00223664
+Itr = 14 Max diff = 0.00197686
+Itr = 15 Max diff = 0.00134382
+Itr = 16 Max diff = 0.00166801
+Itr = 17 Max diff = 0.00209063
+Itr = 18 Max diff = 0.00197103
+Itr = 19 Max diff = 0.00134301
+Itr = 20 Max diff = 0.000704921
+ done
+[1] 178
+Itr = 1 Max diff = 0.949986
+Itr = 2 Max diff = 0.0039974
+Itr = 3 Max diff = 0.00923316
+Itr = 4 Max diff = 0.0106768
+Itr = 5 Max diff = 0.00569741
+Itr = 6 Max diff = 0.00409571
+Itr = 7 Max diff = 0.00334122
+Itr = 8 Max diff = 0.00309006
+Itr = 9 Max diff = 0.00287917
+Itr = 10 Max diff = 0.00268738
+Itr = 11 Max diff = 0.00246481
+Itr = 12 Max diff = 0.00261428
+Itr = 13 Max diff = 0.00248271
+Itr = 14 Max diff = 0.00264767
+Itr = 15 Max diff = 0.00229756
+Itr = 16 Max diff = 0.00135344
+Itr = 17 Max diff = 0.00128463
+Itr = 18 Max diff = 0.00196588
+Itr = 19 Max diff = 0.00243953
+Itr = 20 Max diff = 0.00216202
+Itr = 21 Max diff = 0.00133177
+Itr = 22 Max diff = 0.000628219
+ done
+[1] 179
+Itr = 1 Max diff = 0.949986
+Itr = 2 Max diff = 0.00346541
+Itr = 3 Max diff = 0.00834967
+Itr = 4 Max diff = 0.011191
+Itr = 5 Max diff = 0.006273
+Itr = 6 Max diff = 0.00449051
+Itr = 7 Max diff = 0.00387743
+Itr = 8 Max diff = 0.00336032
+Itr = 9 Max diff = 0.00328918
+Itr = 10 Max diff = 0.00291318
+Itr = 11 Max diff = 0.00306682
+Itr = 12 Max diff = 0.00301097
+Itr = 13 Max diff = 0.00282943
+Itr = 14 Max diff = 0.00233749
+Itr = 15 Max diff = 0.00289618
+Itr = 16 Max diff = 0.00240674
+Itr = 17 Max diff = 0.00132753
+Itr = 18 Max diff = 0.000557478
+ done
+[1] 180
+Itr = 1 Max diff = 0.949987
+Itr = 2 Max diff = 0.00296909
+Itr = 3 Max diff = 0.00737249
+Itr = 4 Max diff = 0.0114484
+Itr = 5 Max diff = 0.00653293
+Itr = 6 Max diff = 0.00498097
+Itr = 7 Max diff = 0.00438292
+Itr Itr = 8 Max diff = 0.00394403
+Itr = 9 Max diff = 0.00370135
+Itr = 10 Max diff = 0.00344623
+Itr = 11 Max diff = 0.00323167
+Itr = 12 Max diff = 0.00332409
+Itr = 13 Max diff = 0.00230965
+Itr = 14 Max diff = 0.0010582
+Itr = 15 Max diff = 0.000385601
+ done
+[1] 181
+Itr = 1 Max diff = 0.949987
+Itr = 2 Max diff = 0.00263582
+Itr = 3 Max diff = 0.00673102
+Itr = 4 Max diff = 0.0117742
+Itr = 5 Max diff = 0.00740998
+Itr = 6 Max diff = 0.00581202
+Itr = 7 Max diff = 0.00469156
+Itr = 8 Max diff = 0.00237261
+Itr = 9 Max diff = 0.000776336
+ done
+[1] 182
+Itr = 1 Max diff = 0.949987
+Itr = 2 Max diff = 0.00220594
+Itr = 3 Max diff = 0.00565672
+Itr = 4 Max diff = 0.0113266
+Itr = 5 Max diff = 0.00875536
+Itr = 6 Max diff = 0.00569914
+Itr = 7 Max diff = 0.00529952
+Itr = 8 Max diff = 0.00469296
+Itr = 9 Max diff = 0.00237493
+Itr = 10 Max diff = 0.000777344
+ done
+[1] 183
+Itr = 1 Max diff = 0.949988
+Itr = 2 Max diff = 0.00181952
+Itr = 3 Max diff = 0.00460734
+Itr = 4 Max diff = 0.0103879
+Itr = 5 Max diff = 0.0101434
+Itr = 6 Max diff = 0.00371851
+Itr = 7 Max diff = 0.00580726
+Itr = 8 Max diff = 0.00539148
+Itr = 9 Max diff = 0.00401256
+Itr = 10 Max diff = 0.00512979
+Itr = 11 Max diff = 0.00341148
+Itr = 12 Max diff = 0.00129137
+Itr = 13 Max diff = 0.000375256
+ done
+[1] 184
+Itr = 1 Max diff = 0.949988
+Itr = 2 Max diff = 0.0014764
+Itr = 3 Max diff = 0.00362377
+Itr = 4 Max diff = 0.00898191
+Itr = 5 Max diff = 0.0113136
+Itr = 6 Max diff = 0.00499484
+Itr = 7 Max diff = 0.00173699
+Itr = 8 Max diff = 0.00365567
+Itr = 9 Max diff = 0.00580994
+Itr = 10 Max diff = 0.00503218
+Itr = 11 Max diff = 0.00535583
+Itr = 12 Max diff = 0.0027817
+Itr = 13 Max diff = 0.000888658
+ done
+[1] 185
+Itr = 1 Max diff = 0.949989
+Itr = 2 Max diff = 0.00117538
+Itr = 3 Max diff = 0.00273922
+Itr = 4 Max diff = 0.00722981
+Itr = 5 Max diff = 0.0118211
+Itr = 6 Max diff = 0.00679502
+Itr = 7 Max diff = 0.00204588
+Itr = 8 Max diff = 0.000521313
+ done
+[1] 186
+Itr = 1 Max diff = 0.949989
+Itr = 2 Max diff = 0.000914393
+ done
+[1] 187
+Itr = 1 Max diff = 0.949989
+Itr = 2 Max diff = 0.000690736
+ done
+[1] 188
+Itr = 1 Max diff = 0.949989
+Itr = 2 Max diff = 0.000501291
+ done
+[1] 189
+Itr = 1 Max diff = 0.949989
+Itr = 2 Max diff = 0.00038892
+ done
+[1] 190
+Itr = 1 Max diff = 0.949989
+Itr = 2 Max diff = 0.000372327
+ done
+[1] 191
+Itr = 1 Max diff = 0.94999
+Itr = 2 Max diff = 0.000356337
+ done
+[1] 192
+Itr = 1 Max diff = 0.94999
+Itr = 2 Max diff = 0.000340985
+ done
+[1] 193
+Itr = 1 Max diff = 0.94999
+Itr = 2 Max diff = 0.000326227
+ done
+[1] 194
+Itr = 1 Max diff = 0.94999
+Itr = 2 Max diff = 0.00031205
+ done
+[1] 195
+Itr = 1 Max diff = 0.94999
+Itr = 2 Max diff = 0.000298424
+ done
+[1] 196
+Itr = 1 Max diff = 0.94999
+Itr = 2 Max diff = 0.000285369
+ done
+[1] 197
+Itr = 1 Max diff = 0.94999
+Itr = 2 Max diff = 0.000272802
+ done
+[1] 198
+Itr = 1 Max diff = 0.94999
+Itr = 2 Max diff = 0.000260694
+ done
+[1] 199
+Itr = 1 Max diff = 0.94999
+Itr = 2 Max diff = 0.000249331
+ done
+[1] 200
+Itr = 1 Max diff = 0.94999
+Itr = 2 Max diff = 0.00023816
+ done
+= 0.00224073
+Itr = 3 Max diff = 0.00576891
+Itr = 4 Max diff = 0.0114855
+Itr = 5 Max diff = 0.00872904
+Itr = 6 Max diff = 0.0064002
+Itr = 7 Max diff = 0.00546202
+Itr = 8 Max diff = 0.0049181
+Itr = 9 Max diff = 0.00388583
+Itr = 10 Max diff = 0.00167333
+Itr = 11 Max diff = 0.000517437
+ done
+[1] 183
+Itr = 1 Max diff = 0.949988
+Itr = 2 Max diff = 0.00185004
+Itr = 3 Max diff = 0.00470798
+Itr = 4 Max diff = 0.0105722
+Itr = 5 Max diff = 0.0101347
+Itr = 6 Max diff = 0.00574705
+Itr = 7 Max diff = 0.00591718
+Itr = 8 Max diff = 0.0056313
+Itr = 9 Max diff = 0.00347016
+Itr = 10 Max diff = 0.0012097
+Itr = 11 Max diff = 0.000455713
+ done
+[1] 184
+Itr = 1 Max diff = 0.949988
+Itr = 2 Max diff = 0.00150296
+Itr = 3 Max diff = 0.0037114
+Itr = 4 Max diff = 0.00918213
+Itr = 5 Max diff = 0.0113487
+Itr = 6 Max diff = 0.00491662
+Itr = 7 Max diff = 0.00567271
+Itr = 8 Max diff = 0.00601016
+Itr = 9 Max diff = 0.00294972
+Itr = 10 Max diff = 0.000959712
+ done
+[1] 185
+Itr = 1 Max diff = 0.949989
+Itr = 2 Max diff = 0.00119831
+Itr = 3 Max diff = 0.00281311
+Itr = 4 Max diff = 0.00743118
+Itr = 5 Max diff = 0.0119352
+Itr = 6 Max diff = 0.00668415
+Itr = 7 Max diff = 0.00201496
+Itr = 8 Max diff = 0.00153202
+Itr = 9 Max diff = 0.00336733
+Itr = 10 Max diff = 0.00594709
+Itr = 11 Max diff = 0.00600173
+Itr = 12 Max diff = 0.00293707
+Itr = 13 Max diff = 0.000875828
+ done
+[1] 186
+Itr = 1 Max diff = 0.949989
+Itr = 2 Max diff = 0.000934041
+ done
+[1] 187
+Itr = 1 Max diff = 0.949989
+Itr = 2 Max diff = 0.000707447
+ done
+[1] 188
+Itr = 1 Max diff = 0.949989
+Itr = 2 Max diff = 0.0005154
+ done
+[1] 189
+Itr = 1 Max diff = 0.949989
+Itr = 2 Max diff = 0.000388901
+ done
+[1] 190
+Itr = 1 Max diff = 0.949989
+Itr = 2 Max diff = 0.000372301
+ done
+[1] 191
+Itr = 1 Max diff = 0.94999
+Itr = 2 Max diff = 0.000356345
+ done
+[1] 192
+Itr = 1 Max diff = 0.94999
+Itr = 2 Max diff = 0.000340991
+ done
+[1] 193
+Itr = 1 Max diff = 0.94999
+Itr = 2 Max diff = 0.000326217
+ done
+[1] 194
+Itr = 1 Max diff = 0.94999
+Itr = 2 Max diff = 0.000312048
+ done
+[1] 195
+Itr = 1 Max diff = 0.94999
+Itr = 2 Max diff = 0.000298443
+ done
+[1] 196
+Itr = 1 Max diff = 0.94999
+Itr = 2 Max diff = 0.000285385
+ done
+[1] 197
+Itr = 1 Max diff = 0.94999
+Itr = 2 Max diff = 0.000272744
+ done
+[1] 198
+Itr = 1 Max diff = 0.94999
+Itr = 2 Max diff = 0.000260823
+ done
+[1] 199
+Itr = 1 Max diff = 0.94999
+Itr = 2 Max diff = 0.000249338
+ done
+[1] 200
+Itr = 1 Max diff = 0.94999
+Itr = 2 Max diff = 0.000238333
+ done
