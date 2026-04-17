@@ -89,8 +89,9 @@ This function performs joint estimation of networks for two distinct categories 
   A stacked set of estimated precision matrices:
   
   - `Theta[:, :, 0:K]`: estimated **global (shared)** networks  
-  - `Theta[:, :, K:2K]`: estimated networks for **category 1**  
-  - `Theta[:, :, 2K:3K]`: estimated networks for **category 2**
+  - `Theta[:, :, K:2*K]`: estimated networks for **category 1**  
+  - `Theta[:, :, 2*K:3*K]`: estimated networks for **category 2**
+  - `Theta[:, :, C*K:(C+1)*K]`: estimated networks for **category C**
  
 ---
 
