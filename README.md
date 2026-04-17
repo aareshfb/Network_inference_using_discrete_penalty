@@ -7,9 +7,6 @@ arXiv preprint: https://arxiv.org/pdf/2507.23106
 
  The method supports both single-category and multiple-category joint network inference using a discrete ℓ₀ penalty and structural similarity constraints. It enables efficient joint estimation of sparse precision matrices across multiple populations, with support for separate inference in two or more categories (e.g., primary vs. recurrent disease).
 
-
----
-
 ## Usage
 
 To run the method, import the appropriate function depending on the number of categories:
