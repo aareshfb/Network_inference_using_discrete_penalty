@@ -23,6 +23,6 @@ Within each directory:
 To reproduce results, navigate to a specific simulation setting and run the corresponding script in an algorithm subdirectory:
 
 ```bash
-cd 65_genes/ELEM-0
+cd 65_genes/Code_L0
 bash submit_AUPRC.sh
 ```
