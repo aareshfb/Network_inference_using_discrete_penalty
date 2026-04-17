@@ -11,11 +11,11 @@ This includes:
 - BoolODE datasets  
 
 #### `power-law experiments/`
-Contains scripts for experiments on **synthetic datasets generated using power-law network structures**.  
+Contains results on **synthetic datasets generated using power-law network structures**.  
 
 #### `scMTNI_experiments/`
-Contains scripts for experiments on datasets from the **scMTNI benchmark**.  
-These provide a more realistic evaluation setting for gene regulatory network inference.
+Contains the results and scripts for experiments on datasets from the **scMTNI benchmark**.  
+
 
 ## Notes
 
