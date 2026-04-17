@@ -10,6 +10,15 @@ Each subdirectory corresponds to a simulation setting with a different number of
 - **Sim-2 (`100_genes/`)**: \( p = 100 \) genes  
 - **Sim-3 (`200_genes/`)**: \( p = 200 \) genes  
 
+## Running Experiments
+
+To reproduce results, navigate to a specific simulation setting and run the corresponding script in an algorithm subdirectory:
+
+```bash
+cd 65_genes/ELEM-0
+bash submit_AUPRC.sh
+```
+
 ## Note
 
 - Additional implementation details are provided in the `65_genes/README.md` file. The same setup applies to the other simulation settings (`100_genes/` and `200_genes/`).
