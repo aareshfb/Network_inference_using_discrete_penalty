@@ -1,0 +1,348 @@
+Reading data...
+Loaded ../Expression_data/cluster_1_sparse_expression.csv: added missing=21, final shape=2000x65
+dim = 2000 x 65
+Loaded ../Expression_data/cluster_2_sparse_expression.csv: added missing=19, final shape=2000x65
+dim = 2000 x 65
+Loaded ../Expression_data/cluster_3_sparse_expression.csv: added missing=21, final shape=2000x65
+dim = 2000 x 65
+Loaded ../Expression_data/cluster_4_sparse_expression.csv: added missing=15, final shape=2000x65
+dim = 2000 x 65
+Loaded ../Expression_data/cluster_5_sparse_expression.csv: added missing=11, final shape=2000x65
+dim = 2000 x 65
+Loaded ../Expression_data/cluster_6_sparse_expression.csv: added missing=20, final shape=2000x65
+dim = 2000 x 65
+Loaded ../Expression_data/cluster_7_sparse_expression.csv: added missing=18, final shape=2000x65
+dim = 2000 x 65
+Loaded ../Expression_data/cluster_8_sparse_expression.csv: added missing=17, final shape=2000x65
+dim = 2000 x 65
+Loaded ../Ground_truth/network-1.csv: shape=15x65
+Loaded ../Ground_truth/network-2.csv: shape=15x65
+Loaded ../Ground_truth/network-3.csv: shape=15x65
+Loaded ../Ground_truth/network-4.csv: shape=15x65
+Loaded ../Ground_truth/network-5.csv: shape=15x65
+Loaded ../Ground_truth/network-6.csv: shape=15x65
+Loaded ../Ground_truth/network-7.csv: shape=15x65
+Loaded ../Ground_truth/network-8.csv: shape=15x65
+Data read successfully.
+[1] 1
+Itr = 1 Max diff = 0.96677
+Itr = 2 Max diff = 0.0480643
+Itr = 3 Max diff = 0.00524473
+Itr = 4 Max diff = 0.000290663
+Itr = 5 Max diff = 9.97601e-08
+ done
+[1] 2
+Itr = 1 Max diff = 0.96677
+Itr = 2 Max diff = 0.0480433
+Itr = 3 Max diff = 0.00524239
+Itr = 4 Max diff = 0.000290316
+Itr = 5 Max diff = 9.95047e-08
+ done
+[1] 3
+Itr = 1 Max diff = 0.96677
+Itr = 2 Max diff = 0.0480154
+Itr = 3 Max diff = 0.00523929
+Itr = 4 Max diff = 0.000289855
+Itr = 5 Max diff = 9.91674e-08
+ done
+[1] 4
+Itr = 1 Max diff = 0.96677
+Itr = 2 Max diff = 0.0479786
+Itr = 3 Max diff = 0.00523518
+Itr = 4 Max diff = 0.000289246
+Itr = 5 Max diff = 9.87221e-08
+ done
+[1] 5
+Itr = 1 Max diff = 0.966771
+Itr = 2 Max diff = 0.0479297
+Itr = 3 Max diff = 0.00522974
+Itr = 4 Max diff = 0.000288441
+Itr = 5 Max diff = 9.81353e-08
+ done
+[1] 6
+Itr = 1 Max diff = 0.966771
+Itr = 2 Max diff = 0.0478651
+Itr = 3 Max diff = 0.00522254
+Itr = 4 Max diff = 0.000287378
+Itr = 5 Max diff = 9.73635e-08
+ done
+[1] 7
+Itr = 1 Max diff = 0.966771
+Itr = 2 Max diff = 0.0477797
+Itr = 3 Max diff = 0.00521302
+Itr = 4 Max diff = 0.000285975
+Itr = 5 Max diff = 9.6351e-08
+ done
+[1] 8
+Itr = 1 Max diff = 0.966772
+Itr = 2 Max diff = 0.0476667
+Itr = 3 Max diff = 0.00520042
+Itr = 4 Max diff = 0.000284127
+Itr = 5 Max diff = 9.50271e-08
+ done
+[1] 9
+Itr = 1 Max diff = 0.966773
+Itr = 2 Max diff = 0.0475176
+Itr = 3 Max diff = 0.00518377
+Itr = 4 Max diff = 0.000281699
+Itr = 5 Max diff = 9.33039e-08
+ done
+[1] 10
+Itr = 1 Max diff = 0.966774
+Itr = 2 Max diff = 0.0473209
+Itr = 3 Max diff = 0.0051618
+Itr = 4 Max diff = 0.000278515
+Itr = 5 Max diff = 9.10742e-08
+ done
+[1] 11
+Itr = 1 Max diff = 0.966775
+Itr = 2 Max diff = 0.047062
+Itr = 3 Max diff = 0.00513284
+Itr = 4 Max diff = 0.000274358
+Itr = 5 Max diff = 8.82116e-08
+ done
+[1] 12
+Itr = 1 Max diff = 0.966776
+Itr = 2 Max diff = 0.046722
+Itr = 3 Max diff = 0.00509475
+Itr = 4 Max diff = 0.000268955
+Itr = 5 Max diff = 8.45743e-08
+ done
+[1] 13
+Itr = 1 Max diff = 0.966778
+Itr = 2 Max diff = 0.0462768
+Itr = 3 Max diff = 0.00504479
+Itr = 4 Max diff = 0.000261979
+Itr = 5 Max diff = 8.00152e-08
+ done
+[1] 14
+Itr = 1 Max diff = 0.966781
+Itr = 2 Max diff = 0.045696
+Itr = 3 Max diff = 0.00497948
+Itr = 4 Max diff = 0.000253051
+Itr = 5 Max diff = 7.44019e-08
+ done
+[1] 15
+Itr = 1 Max diff = 0.966785
+Itr = 2 Max diff = 0.0449423
+Itr = 3 Max diff = 0.00489453
+Itr = 4 Max diff = 0.000241753
+Itr = 5 Max diff = 6.76508e-08
+ done
+[1] 16
+Itr = 1 Max diff = 0.966789
+Itr = 2 Max diff = 0.0439709
+Itr = 3 Max diff = 0.00478474
+Itr = 4 Max diff = 0.000227672
+Itr = 5 Max diff = 5.97749e-08
+ done
+[1] 17
+Itr = 1 Max diff = 0.966795
+Itr = 2 Max diff = 0.0427298
+Itr = 3 Max diff = 0.00464415
+Itr = 4 Max diff = 0.000210472
+Itr = 5 Max diff = 5.09422e-08
+ done
+[1] 18
+Itr = 1 Max diff = 0.966803
+Itr = 2 Max diff = 0.041162
+Itr = 3 Max diff = 0.00446629
+Itr = 4 Max diff = 0.000190011
+Itr = 5 Max diff = 4.15234e-08
+ done
+[1] 19
+Itr = 1 Max diff = 0.966813
+Itr = 2 Max diff = 0.03921
+Itr = 3 Max diff = 0.00424509
+Itr = 4 Max diff = 0.000166502
+Itr = 5 Max diff = 3.20964e-08
+ done
+[1] 20
+Itr = 1 Max diff = 0.966825
+Itr = 2 Max diff = 0.0368248
+Itr = 3 Max diff = 0.00397627
+Itr = 4 Max diff = 0.000140678
+Itr = 5 Max diff = 2.33676e-08
+ done
+[1] 21
+Itr = 1 Max diff = 0.96684
+Itr = 2 Max diff = 0.0339775
+Itr = 3 Max diff = 0.00365973
+Itr = 4 Max diff = 0.000113884
+Itr = 5 Max diff = 1.59958e-08
+ done
+[1] 22
+Itr = 1 Max diff = 0.966858
+Itr = 2 Max diff = 0.0306761
+Itr = 3 Max diff = 0.00330226
+Itr = 4 Max diff = 8.79762e-05
+Itr = 5 Max diff = 1.03789e-08
+ done
+[1] 23
+Itr = 1 Max diff = 0.966879
+Itr = 2 Max diff = 0.0269818
+Itr = 3 Max diff = 0.0029198
+Itr = 4 Max diff = 6.49227e-05
+Itr = 5 Max diff = 6.5269e-09
+ done
+[1] 24
+Itr = 1 Max diff = 0.966903
+Itr = 2 Max diff = 0.0230187
+Itr = 3 Max diff = 0.00253676
+Itr = 4 Max diff = 4.62026e-05
+Itr = 5 Max diff = 4.12092e-09
+ done
+[1] 25
+Itr = 1 Max diff = 0.966961
+Itr = 2 Max diff = 0.0189695
+Itr = 3 Max diff = 0.00218089
+Itr = 4 Max diff = 3.23251e-05
+Itr = 5 Max diff = 2.7108e-09
+ done
+[1] 26
+Itr = 1 Max diff = 0.967022
+Itr = 2 Max diff = 0.0150514
+Itr = 3 Max diff = 0.0018747
+Itr = 4 Max diff = 2.28076e-05
+Itr = 5 Max diff = 1.90118e-09
+ done
+[1] 27
+Itr = 1 Max diff = 0.96708
+Itr = 2 Max diff = 0.0114748
+Itr = 3 Max diff = 0.00162863
+Itr = 4 Max diff = 1.66049e-05
+Itr = 5 Max diff = 1.42491e-09
+ done
+[1] 28
+Itr = 1 Max diff = 0.967152
+Itr = 2 Max diff = 0.00974147
+Itr = 3 Max diff = 0.00144032
+Itr = 4 Max diff = 1.26176e-05
+Itr = 5 Max diff = 1.12622e-09
+ done
+[1] 29
+Itr = 1 Max diff = 0.967243
+Itr = 2 Max diff = 0.00897235
+Itr = 3 Max diff = 0.00129887
+Itr = 4 Max diff = 9.97552e-06
+ done
+[1] 30
+Itr = 1 Max diff = 0.967314
+Itr = 2 Max diff = 0.00843007
+Itr = 3 Max diff = 0.00119473
+Itr = 4 Max diff = 8.08544e-06
+ done
+[1] 31
+Itr = 1 Max diff = 0.967367
+Itr = 2 Max diff = 0.00785497
+Itr = 3 Max diff = 0.00112749
+Itr = 4 Max diff = 6.57588e-06
+ done
+[1] 32
+Itr = 1 Max diff = 0.967404
+Itr = 2 Max diff = 0.00724815
+Itr = 3 Max diff = 0.00103826
+Itr = 4 Max diff = 5.23521e-06
+ done
+[1] 33
+Itr = 1 Max diff = 0.967432
+Itr = 2 Max diff = 0.00661417
+Itr = 3 Max diff = 0.000923611
+Itr = 4 Max diff = 3.97371e-06
+ done
+[1] 34
+Itr = 1 Max diff = 0.967452
+Itr = 2 Max diff = 0.00596111
+Itr = 3 Max diff = 0.000796155
+Itr = 4 Max diff = 2.80028e-06
+ done
+[1] 35
+Itr = 1 Max diff = 0.967465
+Itr = 2 Max diff = 0.0052994
+Itr = 3 Max diff = 0.000664785
+Itr = 4 Max diff = 1.78837e-06
+ done
+[1] 36
+Itr = 1 Max diff = 0.967472
+Itr = 2 Max diff = 0.00464676
+Itr = 3 Max diff = 0.000523807
+Itr = 4 Max diff = 1.01761e-06
+ done
+[1] 37
+Itr = 1 Max diff = 0.967477
+Itr = 2 Max diff = 0.00407242
+Itr = 3 Max diff = 0.000386409
+Itr = 4 Max diff = 5.14224e-07
+ done
+[1] 38
+Itr = 1 Max diff = 0.96748
+Itr = 2 Max diff = 0.00349062
+Itr = 3 Max diff = 0.000266335
+Itr = 4 Max diff = 2.34529e-07
+ done
+[1] 39
+Itr = 1 Max diff = 0.967481
+Itr = 2 Max diff = 0.0029256
+Itr = 3 Max diff = 0.000172262
+Itr = 4 Max diff = 1.0003e-07
+ done
+[1] 40
+Itr = 1 Max diff = 0.967482
+Itr = 2 Max diff = 0.00240115
+Itr = 3 Max diff = 0.00010553
+Itr = 4 Max diff = 4.17936e-08
+ done
+[1] 41
+Itr = 1 Max diff = 0.967483
+Itr = 2 Max diff = 0.00193482
+Itr = 3 Max diff = 6.19662e-05
+Itr = 4 Max diff = 1.78877e-08
+ done
+[1] 42
+Itr = 1 Max diff = 0.967483
+Itr = 2 Max diff = 0.00153543
+Itr = 3 Max diff = 3.53022e-05
+Itr = 4 Max diff = 8.09846e-09
+ done
+[1] 43
+Itr = 1 Max diff = 0.967483
+Itr = 2 Max diff = 0.0012037
+Itr = 3 Max diff = 1.97282e-05
+Itr = 4 Max diff = 3.92932e-09
+ done
+[1] 44
+Itr = 1 Max diff = 0.967484
+Itr = 2 Max diff = 0.000934729
+Itr = 3 Max diff = 1.09141e-05
+Itr = 4 Max diff = 2.0328e-09
+ done
+[1] 45
+Itr = 1 Max diff = 0.967484
+Itr = 2 Max diff = 0.000720626
+Itr = 3 Max diff = 6.02042e-06
+ done
+[1] 46
+Itr = 1 Max diff = 0.967484
+Itr = 2 Max diff = 0.000552536
+Itr = 3 Max diff = 3.32929e-06
+ done
+[1] 47
+Itr = 1 Max diff = 0.967484
+Itr = 2 Max diff = 0.000421919
+Itr = 3 Max diff = 1.8529e-06
+ done
+[1] 48
+Itr = 1 Max diff = 0.967484
+Itr = 2 Max diff = 0.000321193
+Itr = 3 Max diff = 1.0407e-06
+ done
+[1] 49
+Itr = 1 Max diff = 0.967484
+Itr = 2 Max diff = 0.000243952
+Itr = 3 Max diff = 5.91074e-07
+ done
+[1] 50
+Itr = 1 Max diff = 0.967484
+Itr = 2 Max diff = 0.000184969
+Itr = 3 Max diff = 3.40015e-07
+ done

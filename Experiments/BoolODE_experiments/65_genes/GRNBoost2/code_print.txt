@@ -1,0 +1,64 @@
+generating expression data...
+Loaded ../Expression_data/cluster_1_sparse_expression.csv: added missing=21, final shape=(65, 2000)
+Loaded ../Expression_data/cluster_2_sparse_expression.csv: added missing=19, final shape=(65, 2000)
+Loaded ../Expression_data/cluster_3_sparse_expression.csv: added missing=21, final shape=(65, 2000)
+Loaded ../Expression_data/cluster_4_sparse_expression.csv: added missing=15, final shape=(65, 2000)
+Loaded ../Expression_data/cluster_5_sparse_expression.csv: added missing=11, final shape=(65, 2000)
+Loaded ../Expression_data/cluster_6_sparse_expression.csv: added missing=20, final shape=(65, 2000)
+Loaded ../Expression_data/cluster_7_sparse_expression.csv: added missing=18, final shape=(65, 2000)
+Loaded ../Expression_data/cluster_8_sparse_expression.csv: added missing=17, final shape=(65, 2000)
+reading true precision matrices
+Loaded ../Ground_truth/network-1.csv: shape=(15, 65)
+Loaded ../Ground_truth/network-2.csv: shape=(15, 65)
+Loaded ../Ground_truth/network-3.csv: shape=(15, 65)
+Loaded ../Ground_truth/network-4.csv: shape=(15, 65)
+Loaded ../Ground_truth/network-5.csv: shape=(15, 65)
+Loaded ../Ground_truth/network-6.csv: shape=(15, 65)
+Loaded ../Ground_truth/network-7.csv: shape=(15, 65)
+Loaded ../Ground_truth/network-8.csv: shape=(15, 65)
+Population: 0
+Precision: 0.06353591160220995 
+Recall: 0.8679245283018868 
+F1: 0.11840411840411841 
+
+Population: 1
+Precision: 0.06488011283497884 
+Recall: 0.9019607843137255 
+F1: 0.12105263157894737 
+
+Population: 2
+Precision: 0.05154639175257732 
+Recall: 0.8974358974358975 
+F1: 0.09749303621169916 
+
+Population: 3
+Precision: 0.0676056338028169 
+Recall: 0.8135593220338984 
+F1: 0.1248374512353706 
+
+Population: 4
+Precision: 0.081267217630854 
+Recall: 0.8194444444444444 
+F1: 0.14786967418546368 
+
+Population: 5
+Precision: 0.05991440798858773 
+Recall: 0.875 
+F1: 0.11214953271028037 
+
+Population: 6
+Precision: 0.0625 
+Recall: 0.9166666666666666 
+F1: 0.11702127659574468 
+
+Population: 7
+Precision: 0.0647887323943662 
+Recall: 0.9583333333333334 
+F1: 0.12137203166226912 
+
+
+===== GLOBAL METRICS =====
+Precision: 0.06463005474130319
+Recall: 0.8755980861244019
+F1: 0.12037493833251109
+Global AUPRC: 0.23422689196767305

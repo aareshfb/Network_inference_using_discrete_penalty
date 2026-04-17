@@ -1,0 +1,13 @@
+Loading required package: igraph
+
+Attaching package: ‘igraph’
+
+The following objects are masked from ‘package:stats’:
+
+    decompose, spectrum
+
+The following object is masked from ‘package:base’:
+
+    union
+
+[2026-03-29T10:02:25.260] error: *** JOB 46333352 ON gl3018 CANCELLED AT 2026-03-29T10:02:25 DUE to SIGNAL Terminated ***

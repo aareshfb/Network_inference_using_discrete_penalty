@@ -1,0 +1,6 @@
+Loading required package: Rcpp
+Loading required package: rlang
+Error in auprc_from_networks(truth, est, reg_id, FALSE) : 
+  all(dim(true_net) == dim(inferred_net)) is not TRUE
+Calls: auprc_from_networks -> stopifnot
+Execution halted
