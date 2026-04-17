@@ -15,7 +15,7 @@ Each method directory contains:
 - Evaluation scripts (e.g., AUPRC computation)  
 - A `submit_AUPRC.sh` script specifying hyperparameters and launching experiments  
 - Output files used in the paper
-- For additional details on the files within each directory, refer to `Code_L0/README.md`. The organization and workflow are identical.
+
 
 ## Running Experiments
 
@@ -31,6 +31,7 @@ Replace `Code_L0` with the desired method.
 
 - Additional data files present in this directory correspond to the scMTNI datasets (including ground-truth networks) and are used directly by the scripts.
 - The directory structure is consistent across methods.
+- For additional details on the files within each directory, refer to `Code_L0/README.md`. The organization and workflow are identical.
 
 ## References
 
