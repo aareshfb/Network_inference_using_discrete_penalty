@@ -26,3 +26,6 @@ To reproduce results, navigate to a specific simulation setting and run the corr
 cd 65_genes/Code_L0
 bash submit_AUPRC.sh
 ```
+## Note
+
+- Additional implementation details are provided in the `65_genes/README.md` file. The same setup applies to the other simulation settings (`100_genes/` and `200_genes/`).
