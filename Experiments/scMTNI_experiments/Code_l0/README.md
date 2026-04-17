@@ -10,7 +10,7 @@ This directory contains the implementation and scripts for running the **ELEM-0*
 - **`run_scMTNI_AUPRC.py`**: Runs a single instance of the algorithm for given parameters.  
 - **`get_AUPRC.py`**: Processes the output and computes the AUPRC metric.  
 - **`submit_AUPRC.sh`**: Submits jobs and sets parameter values (e.g., backward map parameters).  
-- **`exe_auprc.sh`**: Helper script that calls `run_boolode_AUPRC.py`.  
+- **`exe_auprc.sh`**: Helper script that calls `run_scMTNI_AUPRC.py`.  
 - **`Output/AUPRC/`**: Contains output files used for evaluation and reporting results.
 
 ## Running a Single Experiment
