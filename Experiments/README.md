@@ -35,6 +35,6 @@ These provide a more realistic evaluation setting for gene regulatory network in
 
 If you use the scMTNI datasets or benchmarking framework, please cite:
 
-- Zhang, S. et al. *Inference of cell type-specific gene regulatory networks on cell lineages using multi-task learning*. Nature Communications, 2023.
+- Zhang, S., Pyne, S., Pietrzak, S. et al. Inference of cell type-specific gene regulatory networks on cell lineages from single cell omic datasets. Nat Commun 14, 3064 (2023). https://doi.org/10.1038/s41467-023-38637-9
 
 - scMTNI GitHub repository: https://github.com/Roy-lab/scMTNI
