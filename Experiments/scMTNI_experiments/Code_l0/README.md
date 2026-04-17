@@ -18,7 +18,7 @@ This directory contains the implementation and scripts for running the **ELEM-0*
 To run a single instance of the algorithm:
 
 ```bash
-python3 run_boolode_AUPRC.py "$nu_VAL" "True" > code_print.txt
+python3 run_scMTNI_AUPRC.py "$nu_VAL" "True" > code_print.txt
 ```
 
 - **`nu_VAL`**: parameter controlling the model
