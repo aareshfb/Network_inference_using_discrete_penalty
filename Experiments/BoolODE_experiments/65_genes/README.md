@@ -24,4 +24,7 @@ cd Code_L0
 bash submit_AUPRC.sh #Simulation Setup (BoolODE - Sim-1)
 ```
 
+## Notes
 
+- Detailed implementation and usage instructions are provided in `Code_L0/README.md` (ELEM-0).
+- The same workflow and directory structure apply to the other methods (`Code_L1/`, `FASJEM/`, `FGL/`, `GGL/`, `GRNBoost2/`, `SILGGM/`, `jointGHS/`) unless otherwise noted.
