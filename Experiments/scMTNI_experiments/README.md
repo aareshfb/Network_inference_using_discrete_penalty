@@ -31,3 +31,11 @@ Replace `Code_L0` with the desired method.
 
 - Additional data files present in this directory correspond to the scMTNI datasets (including ground-truth networks) and are used directly by the scripts.
 - The directory structure is consistent across methods.
+
+## References
+
+If you use the scMTNI datasets or benchmarking framework, please cite:
+
+- Zhang, S., Pyne, S., Pietrzak, S. et al. Inference of cell type-specific gene regulatory networks on cell lineages from single cell omic datasets. Nat Commun 14, 3064 (2023). https://doi.org/10.1038/s41467-023-38637-9
+
+- scMTNI GitHub repository: https://github.com/Roy-lab/scMTNI
