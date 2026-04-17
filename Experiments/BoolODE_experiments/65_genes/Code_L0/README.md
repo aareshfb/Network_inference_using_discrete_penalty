@@ -40,6 +40,6 @@ This script:
 ## Notes
 - After running experiments, use get_AUPRC.py to compute evaluation metrics.
 - Output files are stored in Output/AUPRC/.
-- This setup is consistent with other methods in the repository.
+- This setup is consistent with other methods (`FASJEM`,`JGL`, etc) in the repository.
 
 
