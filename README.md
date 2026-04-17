@@ -53,22 +53,22 @@ This function performs joint estimation of multiple precision matrices (from a s
 ## Function: `elem_0_cat`
 
 ```python
-Theta = elem_0_catM(data1,data2, W, nu0, mu, gamma)
+Theta = elem_0_catM(data_list, W, nu0, mu, gamma)
 ```
 
 This function performs joint estimation of networks for two distinct categories of populations (e.g., primary vs. recurrent disease), enforcing sparsity within each category and structural similarity across populations within each category.
 
 ### Arguments:
 
-- **`data1`**: `dict`  
-  Gene expression data for **category 1**.    
-  A dictionary where each key is a population index (`0, 1, ..., K-1`),  
-  and each value is an `(n_k, p)` NumPy array of gene expression data.
+- **`data_list`**: `list`  
+  A list of gene expression datasets for different categories. The length of the list corresponds to the number of categories.
 
-- **`data2`**: `dict`  
-  Gene expression data for **category 2**.  
-  A dictionary where each key is a population index (`0, 1, ..., K-1`),  
-  and each value is an `(n_k, p)` NumPy array of gene expression data.
+  Each element of `data_list` is a dictionary containing the gene expression data for a single category. Let `data_c` be an element of `data_list`, then:
+
+    - **`data_c`**: `dict`  
+      Gene expression data for **category c**.    
+      A dictionary where each key is a population index (`0, 1, ..., K-1`),  
+      and each value is an `(n_k, p)` NumPy array of gene expression data.
 
 - **`W`**: `np.ndarray` of shape `(K, K)`  
   A symmetric matrix representing the hypergraph (adjacency structure) over the populations.
@@ -91,3 +91,14 @@ This function performs joint estimation of networks for two distinct categories 
   - `Theta[:, :, 0:K]`: estimated **global (shared)** networks  
   - `Theta[:, :, K:2K]`: estimated networks for **category 1**  
   - `Theta[:, :, 2K:3K]`: estimated networks for **category 2**
+ 
+---
+
+The scripts used for the experiments were originally implemented for the two-category setting (primary vs. recurrent disease). For completeness, we include them here. They can be executed as follows:
+
+```python
+
+from Cat_ELEM_0 import elem_0_cat
+Theta = elem_0_catM(data_1,data_2, W, nu0, mu, gamma)
+```
+Here, `data_1` and `data_2` are dictionaries with the same structure as `data_c` described above.
