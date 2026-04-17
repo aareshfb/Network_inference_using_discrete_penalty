@@ -1,10 +1,9 @@
 # Efficient Inference of Dynamic Gene Regulatory Networks Using Discrete Penalty
 
-This repository contains the code for the algorithm described in the following paper:
+This repository contains the code for the algorithm described in our following paper:
 
 **Efficient inference of dynamic gene regulatory networks using discrete penalty.** 
-
-*Visweswaran Ravikumar, Aaresh Bhathena, Wajd N. Al-Holou, Salar Fattahi, Arvind Rao (2025).*
+*-Visweswaran Ravikumar, Aaresh Bhathena, Wajd N. Al-Holou, Salar Fattahi, Arvind Rao (2025).*
 
 arXiv preprint: https://arxiv.org/pdf/2507.23106
 
