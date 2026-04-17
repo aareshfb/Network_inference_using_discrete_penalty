@@ -14,19 +14,19 @@ This includes:
 Contains results on **synthetic datasets generated using power-law network structures**.  
 
 #### `scMTNI_experiments/`
-Contains the results and scripts for experiments on datasets from the **scMTNI benchmark**.  
+Contains the data, results and scripts for experiments on the **scMTNI benchmark**.  
 
 
 ## Notes
 
-- Each experiment folder includes scripts for:
+- The experiment folder includes scripts for:
   - Data loading  
   - Running methods  
   - Evaluating performance (e.g., AUPRC, F1 score)  
 
-- For synthetic datasets, results are typically averaged over multiple runs to account for randomness.
+- For synthetic datasets generated using power-law, results are typically averaged over 5 runs to account for randomness.
 
-- All experiments can be reproduced by running the corresponding scripts in each directory.
+- BoolODE and scMTNI experiments can be reproduced by running the `submit_AUPRC.sh` scripts located within each algorithm-specific subdirectory (e.g., `ELEM-0/`, `FGL/`, `GRNBoost2/`).
 
 ## References
 
