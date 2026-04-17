@@ -1,6 +1,12 @@
 # Efficient Inference of Dynamic Gene Regulatory Networks Using Discrete Penalty
 
-This repository contains the code for the algorithm described in the paper. The method supports both single-category and two-category joint network inference using a discrete ℓ₀ penalty and structural similarity constraints. It enables efficient joint estimation of sparse precision matrices across multiple populations, with support for separate inference in two or more categories (e.g., primary vs. recurrent disease).
+This repository contains the code for the algorithm described in the following paper:
+
+**Efficient inference of dynamic gene regulatory networks using discrete penalty.**  
+arXiv preprint: https://arxiv.org/pdf/2507.23106
+
+ The method supports both single-category and multiple-category joint network inference using a discrete ℓ₀ penalty and structural similarity constraints. It enables efficient joint estimation of sparse precision matrices across multiple populations, with support for separate inference in two or more categories (e.g., primary vs. recurrent disease).
+
 
 ---
 
@@ -48,7 +54,9 @@ This function performs joint estimation of multiple precision matrices (from a s
 - **`Theta`**: `np.ndarray` of shape `(p, p, K)`  
   The estimated precision matrices for each population.
 
+
 ---
+
 
 ## Function: `elem_0_cat`
 
@@ -93,7 +101,7 @@ This function performs joint estimation of networks for two distinct categories 
   - `Theta[:, :, 2*K:3*K]`: estimated networks for **category 2**
   - `Theta[:, :, C*K:(C+1)*K]`: estimated networks for **category C**
  
----
+--
 
 The scripts used for the experiments were originally implemented for the two-category setting (primary vs. recurrent disease). For completeness, we include them here. They can be executed as follows:
 
@@ -103,6 +111,10 @@ from Cat_ELEM_0 import elem_0_cat
 Theta = elem_0_catM(data_1,data_2, W, nu0, mu, gamma)
 ```
 Here, `data_1` and `data_2` are dictionaries with the same structure as `data_c` described above.
+
+
+---
+
 
 ## References
 
