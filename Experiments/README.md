@@ -19,10 +19,11 @@ Contains the data, results and scripts for experiments on the **scMTNI benchmark
 
 ## Notes
 
-- The experiment folder includes scripts for:
+- The experiment folder contains algorithm specific subdirectories with scripts for:
+  - Bash scripts that specify hyperparameters and launch the experiments
   - Data loading  
   - Running methods  
-  - Evaluating performance (e.g., AUPRC, F1 score)  
+  - Calculating the error metrics (eg., AUPRC and F1 score) 
 
 - For synthetic datasets generated using power-law, results are typically averaged over 5 runs to account for randomness.
 
