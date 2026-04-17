@@ -1,0 +1,2 @@
+T,p,N,Lamb1,Lamb2,Recall_1,Precision_1,F1 score-1,AUPRC_1,Recall_2,Precision_2,F1 score-2,AUPRC_2,Recall_3,Precision_3,F1 score-3,AUPRC_3,Recall_avg,Precision_avg,F1 score-avg,AUPRC_avg, BIC,runtime(s),total edges(directed)
+"3","65","2000","NA","NA","1","0.248958333333333","0.398665554628857","0.254081538837475","1","0.275","0.431372549019608","0.279900224935013","1","0.3","0.461538461538462","0.325239545922511","1","0.274652777777778","0.430525521728976","0.286407103231666","NA","NA","12480"
