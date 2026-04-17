@@ -1,0 +1,7 @@
+Method,n,gamma,nu,Dataset,AUPRC
+Code_L0,2500,10,0.005,avg,0.0
+Code_L0,2500,10,0.001,avg,0.18
+Code_L0,2500,10,0.0005,avg,0.17
+Code_L0,2500,10,0.0001,avg,0.15
+Code_L0,2500,10,5e-05,avg,0.16
+Code_L0,2500,10,1e-05,avg,0.16
