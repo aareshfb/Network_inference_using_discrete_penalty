@@ -27,7 +27,7 @@ if __name__ == "__main__":
     rd_seed=int(sys.argv[5])
     
     n=int(n_by_p*p)
-    file_path='/nfs/turbo/umms-ukarvind/shared_data/l0-networks/simulations-category/simulation_data/perturb_strength/perturb_'+str(perturb_strength)
+    file_path='path_to_simulation_data/perturb_'+str(perturb_strength)
     Precision_file_name='/true_networks/cat' #clust_precision_
     # P_file_name = '/covariance_matrix/cat1_clust_covariance_'
     # R_file_path='../simulation_data/cat2/'
