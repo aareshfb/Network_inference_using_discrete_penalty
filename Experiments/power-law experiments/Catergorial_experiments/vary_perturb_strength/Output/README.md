@@ -33,3 +33,6 @@ To compute averaged results:
 ```bash
 python3 average_data.py
 ```
+## Note
+
+The hyperparaters used for this experiment is give in these output files.
