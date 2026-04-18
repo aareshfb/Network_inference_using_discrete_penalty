@@ -32,7 +32,7 @@ if __name__ == "__main__":
     
     n=int(n_by_p*p)
     file_path='path_to_simulation_data/perturb_'+str(perturb_strength) #update path to location of data
-    Precision_file_name='/true_networks/cat' #clust_precision_ #update path to location of ground truth, see line 58
+    Precision_file_name='/true_networks/cat'  #update path to location of ground truth, see line 58
     # P_file_name = '/covariance_matrix/cat1_clust_covariance_'
     # R_file_path='../simulation_data/cat2/'
     # R_file_name = 'simulation_clust_'
