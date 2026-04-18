@@ -28,7 +28,7 @@ if __name__ == "__main__":
     
     
     n=int(n_by_p*p)
-    file_path='/nfs/turbo/umms-ukarvind/shared_data/l0-networks/simulations-category/simulation_data/vary_T/hypergraph_'+str(t)+'_P'+str(psx)
+    file_path='path_to_data/vary_T/hypergraph_'+str(t)+'_P'+str(psx)
     Precision_file_name='/true_networks/cat' #clust_precision_
     # P_file_name = '/covariance_matrix/cat1_clust_covariance_'
     # R_file_path='../simulation_data/cat2/'
