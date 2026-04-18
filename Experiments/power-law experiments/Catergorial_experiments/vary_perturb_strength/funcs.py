@@ -16,7 +16,7 @@ from scipy.special import erfinv
 
 def Generate_Data(T,perturb_strength,cat_i,n,p,rd_seed):
     np.random.seed(rd_seed)
-    fname='/nfs/turbo/umms-ukarvind/shared_data/l0-networks/simulations-category/simulation_data/perturb_strength/perturb_'+str(perturb_strength)+'/covariance_matrix/cat'+str(cat_i)+'_clust_covariance_'
+    fname='path_to_simulation_data/perturb_strength/perturb_'+str(perturb_strength)+'/covariance_matrix/cat'+str(cat_i)+'_clust_covariance_'
     #fname='../simulation_data/covariance-matrix/clust_covariance_'
     Data={}
     for i in range(1,T+1):
