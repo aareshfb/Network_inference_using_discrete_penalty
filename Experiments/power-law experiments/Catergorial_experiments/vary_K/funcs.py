@@ -16,8 +16,7 @@ from scipy.special import erfinv
 
 def Generate_Data(T,cat_i,n,p,psx,rd_seed):
     np.random.seed(rd_seed)
-    fname='/nfs/turbo/umms-ukarvind/shared_data/l0-networks/simulations-category/simulation_data/vary_T/hypergraph_'+str(T)+'_P'+str(psx)+'/covariance_matrix/cat'+str(cat_i)+'_clust_covariance_'
-    #fname='../simulation_data/covariance-matrix/clust_covariance_'
+    fname='path_to_data'+'_clust_covariance_'
     Data={}
     for i in range(1,T+1):
         cov=pd.read_csv(fname+str(i)+'.csv').to_numpy()
