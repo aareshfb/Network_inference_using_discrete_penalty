@@ -12,6 +12,10 @@ import time
 import sys
 # import multiprocessing as mp
 
+# NOTE:
+# The data path in this script is hard-coded.
+# Please modify it (around line 35,36,67) to point to your local dataset.
+
 if __name__ == "__main__":
 
     #t=int(sys.argv[1]) #[3,5,10,20,50,100]
@@ -28,8 +32,8 @@ if __name__ == "__main__":
     
     
     n=int(n_by_p*p)
-    file_path='path_to_data/vary_T/hypergraph_'+str(t)+'_P'+str(psx)
-    Precision_file_name='/true_networks/cat' #clust_precision_
+    file_path='path_to_data/vary_T/hypergraph_'+str(t)+'_P'+str(psx) #hard coded file path
+    Precision_file_name='/true_networks/cat' #hard coded file path to ground truth data. see line 59,60
     # P_file_name = '/covariance_matrix/cat1_clust_covariance_'
     # R_file_path='../simulation_data/cat2/'
     # R_file_name = 'simulation_clust_'
@@ -164,52 +168,5 @@ if __name__ == "__main__":
 
 
 
-#     heatmap(np.abs(Theta),output_location)
 
-#    A = Theta[:,:,0]
-#    print(np.count_nonzero(A,1))
-#    plt.plot(np.diag(A))
-    
-#    MU = [3e-7,1e-6,3e-6,1e-5]
-#    GAMMA = [1e-1]
-
-#    BIC_filename='../Output/BIC-networks.txt'
-#        
-#    if not os.path.isfile(BIC_filename):
-#        with open(BIC_filename, 'w') as f:
-#            f.write('nu_0,mu,gamma,bic value')
-#            
-#    bic_list = []
-
-#    for mu in MU:
-#        for gamma in GAMMA:
-#            
-#            print(mu,gamma)
-#                
-#            print('Estimating Theta ....')
-#            Theta = estimateNetwork(S, W, mu, gamma,p,output_location);
-#            A = Theta[:,:,0]
-#            print(np.count_nonzero(A,1))
-#            plt.plot(np.diag(A))
-#            
-#            print('Estimation complete ....')
-#    
-#            print('Evaluating bic of estimated model....')
-#            bic=Calculate_Bic(Theta, data, n)
-#            print(bic)
-#            bic_list.append(bic)
-#    
-#            with open(BIC_filename, 'a') as f:
-#                f.write(str(nu0)+'\t'+str(mu)+'\t'+str(gamma)+'\t'+str(bic))
-#                f.write(f'\n Number of non-diagonal edges in Pop-1 : {np.count_nonzero(Theta[:,:,0]) - p}')
-#                f.write(f'\n Number of non-diagonal edges in Pop-2 : {np.count_nonzero(Theta[:,:,1]) - p}')
-#                f.write(f'\n Number of non-diagonal edges in Pop-3 : {np.count_nonzero(Theta[:,:,2]) - p}')
-#                f.write(f'\n Number of non-diagonal edges in Pop-4 : {np.count_nonzero(Theta[:,:,3]) - p}')
-#                f.write('\n')
-       
-
-        
-    # W=np.array([[ 0., 1., 1.],
-    #             [0., 0., 0.],
-    #             [0., 0., 0.]])
     
