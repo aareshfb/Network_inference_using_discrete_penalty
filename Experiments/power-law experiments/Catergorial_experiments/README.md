@@ -15,4 +15,4 @@ All experiments are conducted in the **two-category setting**.
 ## Notes
 
 - These experiments evaluate the performance of the categorical algorithm under different data regimes.
-- Scripts for running these experiments follow the same structure as those in `BoolODE_experiments/` and `scMTNI_experiments/` and are not duplicated here.
+- Scripts for running these experiments follow the same structure as those in `BoolODE_experiments/` and `scMTNI_experiments/`.
