@@ -13,7 +13,7 @@ This directory contains experiments and results for datasets generated using **p
   - Output files used in the paper  
 
 - **`Single_category/`**:  
-  Contains results for experiments in the **single-category setting**. Scripts follow the same structure as in `scMTNI_experiments/` and `BoolODE_experiments/` and are not duplicated.
+  Contains output files for experiments in the **single-category setting**. Scripts follow the same structure as in `scMTNI_experiments/` and `BoolODE_experiments/` and are not duplicated.
   
 ## Notes
 
