@@ -38,7 +38,8 @@ This script launches experiments with predefined parameter settings.
 
 - **Limitation:** This functionality is not implemented in this dicrectory. To use it, the corresponding data must be added to the appropriate folder, and the relevant lines in `funcs.py` and `code_category_vperturb.py` must be modified accordingly.
   - Update the file path to data in `funcs.py` (line ~20) before running.
-  - Update the file path to data in `code_category_vperturb.py` (line 34,35,66) before running. 
+  - Update the file path to data in `code_category_vperturb.py` (line ~34,35,66) before running.
+  - Data can be generated using the scrpits stored at `Experiments/Datsets/Power-law based datasets`
   
 ## Notes
 - This setup is consistent with other experiment directories (e.g., BoolODE and scMTNI).
