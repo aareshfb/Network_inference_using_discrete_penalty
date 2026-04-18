@@ -10,7 +10,7 @@ This directory contains scripts and outputs for running the categorical (two-cat
 - **`load_results2.py`**: Processes outputs for evaluation  
 - **`submit_ptx.sh`**: Submits jobs and sets experiment parameters  
 - **`exe_ptx.sh`**: Helper script that executes individual runs  
-- **`Output/`**: Contains output files used for evaluation and reporting results  
+- **`Output/`**: Contains output files used for evaluation and reporting results. The parameter configuration used to obtain these results are included here.
 
 ## Running a Single Experiment
 
