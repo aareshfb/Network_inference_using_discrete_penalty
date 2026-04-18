@@ -23,5 +23,5 @@ bash submit_ptx.sh #
 ## Notes
 
 - These experiments evaluate the performance of the categorical algorithm under different data regimes.
-- Detailed descriptions of the implementation and files in this directory are provided in `vary_perturb_strength/README.md`. The same structure applies to the other settings ('\vary_np','\vary_K').
+- Detailed descriptions of the implementation and files in this directory are provided in `vary_perturb_strength/README.md`. The same structure applies to the other settings (`\vary_np`,`\vary_K`).
 - Scripts for running these experiments follow the same structure as those in `BoolODE_experiments/` and `scMTNI_experiments/`.
