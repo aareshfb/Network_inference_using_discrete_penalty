@@ -13,6 +13,10 @@ import sys
 import os
 # import multiprocessin1g as mp
 
+# NOTE:
+# Update the data file path (around line 34,35,66) to match your local setup
+# before running this script.
+
 if __name__ == "__main__":
 
     # t=5 #[3,5,10,20]
@@ -27,8 +31,8 @@ if __name__ == "__main__":
     rd_seed=int(sys.argv[5])
     
     n=int(n_by_p*p)
-    file_path='path_to_simulation_data/perturb_'+str(perturb_strength)
-    Precision_file_name='/true_networks/cat' #clust_precision_
+    file_path='path_to_simulation_data/perturb_'+str(perturb_strength) #update path to location of data
+    Precision_file_name='/true_networks/cat' #clust_precision_ #update path to location of ground truth, see line 58
     # P_file_name = '/covariance_matrix/cat1_clust_covariance_'
     # R_file_path='../simulation_data/cat2/'
     # R_file_name = 'simulation_clust_'
@@ -59,7 +63,7 @@ if __name__ == "__main__":
     #print(f'size of problems is: {n, p}')
     
     # W = np.diag(np.ones(T-1),1) #similarity matrix for sub-populations
-    W=np.genfromtxt('path_to_MST/MST.txt')
+    W=np.genfromtxt('path_to_MST/MST.txt') #update the path to location of W.
     W=np.triu(W)
     
     #parameters for inference
