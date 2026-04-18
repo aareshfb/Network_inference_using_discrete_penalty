@@ -4,12 +4,12 @@ This directory contains scripts and outputs for running the categorical (two-cat
 
 ## Description
 
-- **`code_category_vperturb_vk.py`**: Main script implementing the categorical algorithm  
+- **`code_category_vperturb_vt.py`**: Main script implementing the categorical algorithm  
 - **`Para_algo2.py`, `Break_points_fun2.py`**: Scripts for the underlying optimization procedure  
 - **`funcs.py`**: Supporting utility functions  
 - **`load_results2.py`**: Processes outputs for evaluation  
 - **`submit_ptx.sh`**: Submits jobs and sets experiment parameters  
-- **`exe_ptx_vk.sh`**: Helper script that executes individual runs  
+- **`exe_ptx_vt.sh`**: Helper script that executes individual runs  
 - **`Output/`**: Contains output files used for evaluation and reporting results  
 
 ## Running a Single Experiment
