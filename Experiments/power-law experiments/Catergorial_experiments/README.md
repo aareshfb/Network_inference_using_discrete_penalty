@@ -12,6 +12,14 @@ Each subdirectory corresponds to a different experimental setting:
 
 All experiments are conducted in the **two-category setting**.
 
+## Running Experiments
+
+To generate results for a specific setting, navigate to the desired subdirectory and run:
+
+```bash
+cd vary_perturb_strength    # or vary_K / vary_np
+bash submit_ptx.sh 
+
 ## Notes
 
 - These experiments evaluate the performance of the categorical algorithm under different data regimes.
