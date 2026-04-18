@@ -2,7 +2,6 @@
 """
 Created on Wed Feb  7 14:21:42 2024
 
-@author: aares
 """
 import pandas as pd 
 import numpy as np
@@ -14,10 +13,11 @@ import matplotlib.pyplot as plt
 import copy
 from scipy.special import erfinv
 
+### to reproduce the results replace the data path to the appropriate for fname (line 20)
+
 def Generate_Data(T,perturb_strength,cat_i,n,p,rd_seed):
     np.random.seed(rd_seed)
     fname='path_to_simulation_data/perturb_strength/perturb_'+str(perturb_strength)+'/covariance_matrix/cat'+str(cat_i)+'_clust_covariance_'
-    #fname='../simulation_data/covariance-matrix/clust_covariance_'
     Data={}
     for i in range(1,T+1):
         cov=pd.read_csv(fname+str(i)+'.csv').to_numpy()
