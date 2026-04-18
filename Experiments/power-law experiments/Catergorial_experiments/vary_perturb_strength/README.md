@@ -36,7 +36,7 @@ bash submit_ptx.sh
 ```
 This script launches experiments with predefined parameter settings.
 
-- Random seeds used to generate the data and the perturb strength paramter are set in `submit_ptx.sh`
+- Random seeds used to generate the data and the perturb strength paramter (`delta`) are fixed in `submit_ptx.sh`
 - **Limitation:** This functionality is not implemented in this dicrectory. To use it, the corresponding data must be added to the appropriate folder, and the relevant lines in `funcs.py` and `code_category_vperturb.py` must be modified accordingly.
   - Update the file path to data in `funcs.py` (line ~20) before running.
   - Update the file path to data in `code_category_vperturb.py` (line ~34,35,66) before running.
