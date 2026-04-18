@@ -18,7 +18,7 @@ To generate results for a specific setting, navigate to the desired subdirectory
 
 ```bash
 cd vary_perturb_strength    # or vary_K / vary_np
-bash submit_ptx.sh 
+bash submit_ptx.sh # or submit_ptx_vt.sh / submit_ptx_np.sh
 ```
 ## Notes
 
