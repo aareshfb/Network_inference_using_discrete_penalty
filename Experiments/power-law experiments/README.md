@@ -9,7 +9,7 @@ This directory contains experiments and results for datasets generated using **p
 
   This includes:
   - Scripts for running the methods  
-  - Evaluation scripts (e.g., F1 computation)  
+  - Evaluation scripts (e.g., F1 score computation)  
   - Output files used in the paper  
 
 - **`Single_category/`**:  
