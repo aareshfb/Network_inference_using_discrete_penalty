@@ -36,6 +36,8 @@ bash submit_ptx.sh
 ```
 This script launches experiments with predefined parameter settings.
 
-##Notes
+- **Limitation:** This functionality is not implemented in this dicrectory. To use it, the corresponding data must be added to the appropriate folder, and the relevant lines in `funcs.py` and `code_category_vperturb.py` must be modified accordingly.
+  
+## Notes
 - This setup is consistent with other experiment directories (e.g., BoolODE and scMTNI).
 
