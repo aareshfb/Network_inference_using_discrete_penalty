@@ -11,7 +11,7 @@ This directory contains the implementation and scripts for running the **ELEM-0*
 - **`get_AUPRC.py`**: Processes the output and computes the AUPRC metric.  
 - **`submit_AUPRC.sh`**: Submits jobs and sets parameter values (e.g., backward map parameters).  
 - **`exe_auprc.sh`**: Helper script that calls `run_scMTNI_AUPRC.py`.  
-- **`Output/AUPRC/`**: Contains output files used for evaluation and reporting results.
+- **`Output/AUPRC/`**: Contains output files used for evaluation and reporting results. The parameter configuration used to obtain these results are included here.
 
 ## Running a Single Experiment
 
@@ -39,7 +39,7 @@ This script:
 
 ## Notes
 - After running experiments, use get_AUPRC.py to compute evaluation metrics.
-- Output files are stored in Output/AUPRC/.
+- Output files are stored in Output/AUPRC/. The parameter configuration used to obtain these results are included here.
 - This setup is consistent with other methods (`FASJEM`,`JGL`, etc) in the repository.
 
 
