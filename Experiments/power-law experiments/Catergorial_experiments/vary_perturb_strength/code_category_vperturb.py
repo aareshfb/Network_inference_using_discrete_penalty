@@ -59,7 +59,7 @@ if __name__ == "__main__":
     #print(f'size of problems is: {n, p}')
     
     # W = np.diag(np.ones(T-1),1) #similarity matrix for sub-populations
-    W=np.genfromtxt('/nfs/turbo/umms-ukarvind/shared_data/l0-networks/simulations-category/simulation_data/perturb_strength/MST.txt')
+    W=np.genfromtxt('path_to_MST/MST.txt')
     W=np.triu(W)
     
     #parameters for inference
