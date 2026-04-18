@@ -12,6 +12,19 @@ This directory contains scripts and outputs for running the categorical (two-cat
 - **`exe_ptx.sh`**: Helper script that executes individual runs  
 - **`Output/`**: Contains output files used for evaluation and reporting results  
 
+## Running a Single Experiment
+
+To run a single instance of the algorithm:
+
+```bash
+python3 code_category_vperturb.py "$nu_VAL" "True" > code_print.txt
+```
+
+- **`nu_VAL`**: parameter controlling the model
+- **`True`**: flag for experiment settings (see script for details)
+- **Note:** The hyperparameters `lambda` (sparsity) and `gamma` (similarity) are specified within `run_boolode_AUPRC.py`.
+
+
 ## Running Experiments
 
 To generate results, run:
