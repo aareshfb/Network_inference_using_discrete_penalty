@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Feb  7 14:21:42 2024
 
-@author: aares
-"""
 import pandas as pd 
 import numpy as np
 import os
@@ -13,7 +9,9 @@ from Para_algo2 import Para_Algo
 import matplotlib.pyplot as plt
 import copy
 from scipy.special import erfinv
-
+# NOTE:
+# Update the data file path (around line 17) to match your local setup
+# before running this script.
 def Generate_Data(T,cat_i,n,p,psx,rd_seed):
     np.random.seed(rd_seed)
     fname='path_to_data'+'_clust_covariance_'
