@@ -17,13 +17,13 @@ This directory contains scripts and outputs for running the categorical (two-cat
 To run a single instance of the algorithm:
 
 ```bash
-python3 code_category_vperturb.py "ptx_VAL" "K_VAL" 250 20 "$seed_VAL" > code_print.txt
+python3 code_category_vperturb.py "$ptx_VAL" "$K_VAL" "$p_VAL" "$np_VAL" "$seed_VAL" > code_print.txt
 ```
 
 - **`ptx_VAL`**: parameter controlling the perturb strenght `delta
 - **`K_VAL`**: number of poulations
-- **`N_VAL`**: number of samples
-- **`True`**: flag for experiment settings (see script for details)
+- **`p_VAL`**: number of genes
+- **`np_VAL`**: number of samples to genes
 - **Note:** The hyperparameters `lambda` (sparsity) and `gamma` (similarity) are specified within `run_boolode_AUPRC.py`.
 
 
