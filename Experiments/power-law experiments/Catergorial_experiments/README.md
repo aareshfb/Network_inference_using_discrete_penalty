@@ -19,7 +19,7 @@ To generate results for a specific setting, navigate to the desired subdirectory
 ```bash
 cd vary_perturb_strength    # or vary_K / vary_np
 bash submit_ptx.sh 
-
+```
 ## Notes
 
 - These experiments evaluate the performance of the categorical algorithm under different data regimes.
