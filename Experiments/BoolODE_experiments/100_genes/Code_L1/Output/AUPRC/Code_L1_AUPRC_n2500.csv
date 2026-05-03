@@ -1,4 +1,4 @@
-n,p,lambda(thest),mu0(sparsity),gamma,bic,recall_global,precision_global,f1_global,Time(mins), mask_diag, no_edges, 
+n,p,lambda,mu0,gamma,bic,recall_global,precision_global,f1_global,Time(mins), mask_diag, no_edges, 
 2500,100,1.000000e+00,1.000000e-05,1.000000e-02,-4456996.857,0.009,0.180,0.016,0.580,1,719 
 2500,100,9.115888e-01,1.000000e-05,1.000000e-02,-4457635.114,0.010,0.179,0.019,0.049,1,809 
 2500,100,8.309942e-01,1.000000e-05,1.000000e-02,-4457870.510,0.012,0.175,0.022,0.054,1,923 
