@@ -1,4 +1,4 @@
-n,p,lambda(thest),mu0(sparsity),gamma,bic,recall1,recall2,recall3,r4,r5,r6,r7,r8,recall_global,precision1,precision2,precision3,p4,p5,p6,p7,p8,precision_global,f1_1,f1_2,f1_3,f1_global,Time(mins), mask_diag, no_edges, 
+n,p,lambda,mu0,gamma,bic,recall1,recall2,recall3,r4,r5,r6,r7,r8,recall_global,precision1,precision2,precision3,p4,p5,p6,p7,p8,precision_global,f1_1,f1_2,f1_3,f1_global,Time(mins), mask_diag, no_edges, 
 2000,65,1.000000e+00,5.000000e-04,1.000000e+00,-6518805.288,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.000,NaN,NaN,NaN,0.000,0.698,1,0 
 2000,65,9.115888e-01,5.000000e-04,1.000000e+00,-6518805.288,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.000,NaN,NaN,NaN,0.000,0.014,1,0 
 2000,65,8.309942e-01,5.000000e-04,1.000000e+00,-6518805.288,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.000,NaN,NaN,NaN,0.000,0.012,1,0 
