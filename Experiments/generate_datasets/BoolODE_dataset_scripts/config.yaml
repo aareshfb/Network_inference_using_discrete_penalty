@@ -1,0 +1,91 @@
+global_settings:
+  model_dir: "/nfs/turbo/umms-ukarvind/shared_data/iscience-revisions/boolode-simulations/100-genes"
+  output_dir: "/nfs/turbo/umms-ukarvind/shared_data/iscience-revisions/boolode-simulations/100-genes/sim_results"
+  do_simulations: True
+  do_post_processing: False
+  modeltype: 'hill'
+
+jobs: 
+  - name: "cluster_1"
+    model_definition: "rules_cluster_1.txt"
+    model_initial_conditions: "initial-conditions.txt"
+    simulation_time: 10
+    num_cells: 2000
+    do_parallel: True
+    sample_cells: True
+
+  - name: "cluster_2"
+    model_definition: "rules_cluster_2.txt"
+    model_initial_conditions: "initial-conditions.txt"
+    simulation_time: 10
+    num_cells: 2000
+    do_parallel: True
+    sample_cells: True
+    
+  - name: "cluster_3"
+    model_definition: "rules_cluster_3.txt"
+    model_initial_conditions: "initial-conditions.txt"
+    simulation_time: 10
+    num_cells: 2000
+    do_parallel: True
+    sample_cells: True
+    
+  - name: "cluster_4"
+    model_definition: "rules_cluster_4.txt"
+    model_initial_conditions: "initial-conditions.txt"
+    simulation_time: 10
+    num_cells: 2000
+    do_parallel: True
+    sample_cells: True
+    
+  - name: "cluster_5"
+    model_definition: "rules_cluster_5.txt"
+    model_initial_conditions: "initial-conditions.txt"
+    simulation_time: 10
+    num_cells: 2000
+    do_parallel: True
+    sample_cells: True
+    
+  - name: "cluster_6"
+    model_definition: "rules_cluster_6.txt"
+    model_initial_conditions: "initial-conditions.txt"
+    simulation_time: 10
+    num_cells: 2000
+    do_parallel: True
+    sample_cells: True
+    
+  - name: "cluster_7"
+    model_definition: "rules_cluster_7.txt"
+    model_initial_conditions: "initial-conditions.txt"
+    simulation_time: 10
+    num_cells: 2000
+    do_parallel: True
+    sample_cells: True
+    
+  - name: "cluster_8"
+    model_definition: "rules_cluster_8.txt"
+    model_initial_conditions: "initial-conditions.txt"
+    simulation_time: 10
+    num_cells: 2000
+    do_parallel: True
+    sample_cells: True
+
+  - name: "cluster_9"
+    model_definition: "rules_cluster_9.txt"
+    model_initial_conditions: "initial-conditions.txt"
+    simulation_time: 10
+    num_cells: 2000
+    do_parallel: True
+    sample_cells: True
+
+  - name: "cluster_10"
+    model_definition: "rules_cluster_10.txt"
+    model_initial_conditions: "initial-conditions.txt"
+    simulation_time: 10
+    num_cells: 2000
+    do_parallel: True
+    sample_cells: True
+  
+post_processing:
+  Dropouts: []
+    
